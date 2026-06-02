@@ -103,7 +103,7 @@
 ## 🚀 Installation
 
 <div align="center">
-  <h3>Get the standalone Windows setup:</h3>
+  <h3>Get the Latest Sandyplay setup v1.13:</h3>
   
   <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.13.exe">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_SANDYPLAY_.EXE-0ea5e9?style=for-the-badge&logo=windows&logoColor=white&scale=2" alt="Download">
