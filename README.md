@@ -87,3 +87,52 @@ The easiest way to get SANDYPLAY is to download the standalone installer.
 2. Download the latest `SandyPlay_Setup_v1.13.exe`.
 3. Run the installer (it will automatically install VLC dependencies if needed).
 4. Launch and enjoy!
+
+## ⌨️ Keyboard Shortcuts
+
+<details>
+<summary><b>Click to expand shortcut list</b></summary>
+
+| Key | Action |
+| --- | --- |
+| `Space` | Play / Pause |
+| `F` / `Enter` | Toggle Fullscreen |
+| `N` / `B` | Next / Previous Track |
+| `→` / `←` | Seek +10s / -10s |
+| `↑` / `↓` | Volume Up / Down |
+| `M` | Mute |
+| `[ ]` | Decrease / Increase Playback Speed |
+| `C` | Cycle Video Crop |
+| `Ctrl + L` | Toggle Lyrics Panel |
+| `Ctrl + T` | Toggle Whisper AI Subtitles |
+| `F5` | Open Effects & Control Panel |
+| `?` | Show all shortcuts inside the app |
+
+</details>
+
+---
+
+## 🛠️ Tech Stack & Credits
+* **Language:** [Python 3](https://www.python.org/)
+* **GUI Framework:** [PyQt6](https://riverbankcomputing.com/software/pyqt/)
+* **Media Engine:** [VLC (python-vlc)](https://wiki.videolan.org/Python_bindings/)
+* **AI Transcription:** [faster-whisper](https://github.com/SYSTRAN/faster-whisper)
+* **LLM Engine:** Google Gemini Pro 1.5
+* **Cloud Audio:** [Dolby.io API](https://dolby.io/)
+* **Media Download:** [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
+---
+
+## 🤝 Connect
+
+Developed with ❤️ by **Sandytalks** (Santhosh). 
+
+💬 **Let's connect:**
+<br>
+<a href="https://www.instagram.com/itsyouhuman/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<br>
+
+If you like this project, please consider giving it a ⭐ on GitHub!
