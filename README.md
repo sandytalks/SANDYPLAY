@@ -84,13 +84,13 @@
 <div align="center">
   
   <!-- VIDEO PLAYER SCREENSHOT -->
-  <img src="https://placehold.co/800x450/0F172A/0ea5e9.png?text=Main+Video+Player+Screenshot&font=Montserrat" alt="Video Player UI" width="85%" style="border-radius: 12px; box-shadow: 0px 10px 30px rgba(0,0,0,0.8);">
+  <img src="video sample pic.png" alt="Video Player UI" width="85%" style="border-radius: 12px; box-shadow: 0px 10px 30px rgba(0,0,0,0.8);">
   <p><em>Modern, borderless video playback with floating controls & Whisper AI Subtitles.</em></p>
 
   <br>
 
   <!-- MUSIC PLAYER SCREENSHOT -->
-  <img src="https://placehold.co/800x450/0F172A/0ea5e9.png?text=Music+Dashboard+%26+Lyrics&font=Montserrat" alt="Music Player UI" width="85%" style="border-radius: 12px; box-shadow: 0px 10px 30px rgba(0,0,0,0.8);">
+  <img src="audio sample pic.png" alt="Music Player UI" width="85%" style="border-radius: 12px; box-shadow: 0px 10px 30px rgba(0,0,0,0.8);">
   <p><em>Beautiful music dashboard with real-time synced lyrics and audio visualizer.</em></p>
 
 </div>
