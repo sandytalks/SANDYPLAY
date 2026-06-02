@@ -87,11 +87,3 @@ The easiest way to get SANDYPLAY is to download the standalone installer.
 2. Download the latest `SandyPlay_Setup_v1.13.exe`.
 3. Run the installer (it will automatically install VLC dependencies if needed).
 4. Launch and enjoy!
-
-### For Developers (Run from Source)
-If you want to run the code, modify it, or contribute:
-
-**1. Clone the repository:**
-```bash
-git clone https://github.com/itsyouhuman/SandyPlay.git
-cd SandyPlay
