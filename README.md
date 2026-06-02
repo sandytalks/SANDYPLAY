@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- NOTE: Save your app_icon.ico as a .png file and upload it to your repo, then replace this link! -->
-  <img src="https://placehold.co/150x150/0ea5e9/white.png?text=SP&font=Montserrat" alt="SANDYPLAY Logo" width="140" height="140" style="border-radius: 25px;">
+  <img src="https://app_icon.png/150x150/0ea5e9/white.png?text=SP&font=Montserrat" alt="SANDYPLAY Logo" width="140" height="140" style="border-radius: 25px;">
   
   <h1 align="center">SANDYPLAY Media Player 🎬</h1>
   
