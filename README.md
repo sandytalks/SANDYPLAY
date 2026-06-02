@@ -105,7 +105,7 @@
 <div align="center">
   <h3>Get the standalone Windows setup:</h3>
   
-  <a href="https://github.com/itsyouhuman/SandyPlay/releases/download/v1.13/SandyPlay_Setup_v1.13.exe">
+  <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.13.exe">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_SANDYPLAY_.EXE-0ea5e9?style=for-the-badge&logo=windows&logoColor=white&scale=2" alt="Download">
   </a>
   <p><em>Version 1.13 | Windows 10/11 (64-bit)</em></p>
