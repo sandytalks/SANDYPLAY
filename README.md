@@ -99,17 +99,19 @@
 
 <div align="center">
   <h3>Get the standalone Windows setup:</h3>
-  <a href="https://github.com/itsyouhuman/SandyPlay/releases/latest">
-    <img src="https://img.shields.io/badge/DOWNLOAD_SANDYPLAY_.EXE-0ea5e9?style=for-the-badge&logo=windows&logoColor=white" alt="Download">
+  
+  <!-- This href links DIRECTLY to your uploaded .exe file -->
+  <a href="https://github.com/itsyouhuman/SandyPlay/releases/download/v1.13/SandyPlay_Setup_v1.13.exe">
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_SANDYPLAY_v1.13_.EXE-0ea5e9?style=for-the-badge&logo=windows&logoColor=white" alt="Download">
   </a>
 </div>
 
-1. Go to the **Releases** page using the button above.
-2. Download `SandyPlay_Setup_v1.13.exe`.
-3. Run the installer (it will automatically configure VLC & Visual C++).
-4. Launch and enjoy!
-
 <br>
+
+1. Click the blue download button above.
+2. Run the downloaded `SandyPlay_Setup_v1.13.exe`.
+3. The installer will automatically configure everything (including VLC & Visual C++).
+4. Launch the app from your Desktop or Start Menu and enjoy!
 
 ## ⌨️ Keyboard Shortcuts
 
