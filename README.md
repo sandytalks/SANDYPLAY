@@ -450,7 +450,7 @@ flowchart TD
 
 <div align="center">
 
-### ⬇️ Download the Installer
+### ⬇️ Read the Steps Before Download the Setup
 
 <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.13.exe">
   <img src="https://img.shields.io/badge/⬇%EF%B8%8F%20%20DOWNLOAD%20%20SANDYPLAY%20%20v1.13-0ea5e9?style=for-the-badge&labelColor=0284c7&logoColor=white" height="55" alt="Download SANDYPLAY"/>
