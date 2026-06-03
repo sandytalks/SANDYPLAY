@@ -546,7 +546,7 @@ flowchart TD
 <!-- ║                    INSTALLATION                              ║ -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/06-INSTALLATION-0ea5e9?style=for-the-badge&labelColor=020c1b"/> &nbsp; Get Up and Running in 5 Steps
+## <img src="https://img.shields.io/badge/06-INSTALLATION-0ea5e9?style=for-the-badge&labelColor=020c1b"/> &nbsp; Read the Installation Steps Given Below Before Download 
 
 <br/>
 
