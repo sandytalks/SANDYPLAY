@@ -19,8 +19,6 @@
 
 <div align="center">
 
-<!-- PULSE RING AROUND LOGO -->
-<a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.13.exe">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0ea5e9,100:0284c7&height=140&text=▶&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="140" style="border-radius:50%"/>
 </a>
 
@@ -900,7 +898,7 @@ graph TB
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/@itsyouhuman-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0000)](https://www.instagram.com/itsyouhuman/)&emsp;[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/itsyouhuman/SandyPlay)&emsp;[![Download](https://img.shields.io/badge/⬇%EF%B8%8F_Download_v1.13-0ea5e9?style=for-the-badge&logoColor=white&labelColor=0284c7)](https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.13.exe)
+[![Instagram](https://img.shields.io/badge/@itsyouhuman-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0000)](https://www.instagram.com/itsyouhuman/)&emsp;[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/itsyouhuman/SandyPlay)
 
 <br/><br/>
 
@@ -932,5 +930,7 @@ graph TB
 
 <br/>
 
+
 <!-- ════ FOOTER WAVE ════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,30:0369a1,65:071428,100:000000&height=180&section=footer&animation=fadeIn&text=SANDYPLAY%20v1.13&fontSize=28&fontColor=ffffff&fontAlignY=65&desc=The%20AI%20Media%20Studio%20that%20plays%20everything%20◈%20Free%20%26%20Open%20Source&descAlignY=82&descSize=13" width="100%"/>
+
