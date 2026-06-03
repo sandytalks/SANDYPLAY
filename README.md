@@ -463,7 +463,7 @@ flowchart TD
 
 <br/>
 
-### Method 1 — Installer (Recommended)
+
 
 ```
 Step 1  📥  Download    →  Click the button above
@@ -478,19 +478,10 @@ Step 3  🚀  Launch      →  Open SANDYPLAY from the Desktop
 
 Step 4  🎵  Load Media  →  Drag & drop files · Ctrl+O · Ctrl+D (folder)
 
-Step 5  🤖  AI Setup    →  Paste a YouTube link or go to Misc → AI Tools
+Step 5  🤖  AI Setup    →  go to Misc → AI Tools
                            First Whisper use triggers a one-time model download
 ```
 
-### Method 2 — From Source (Developers)
-
-```bash
-git clone https://github.com/itsyouhuman/SandyPlay.git
-cd SandyPlay
-pip install PyQt6 python-vlc yt-dlp mutagen faster-whisper
-pip install dolbyio-rest-apis          # optional — cloud audio
-python player54.py
-```
 
 <br/>
 
