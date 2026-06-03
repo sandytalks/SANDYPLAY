@@ -95,8 +95,6 @@
 
 </div>
 
-> [!TIP]
-> **Want to see your actual app here?** Upload screenshots to your repo, then replace the `placehold.co` links above with your raw GitHub image links!
 
 <br>
 
