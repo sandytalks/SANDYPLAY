@@ -468,7 +468,10 @@ flowchart TD
 ```
 Step 1  📥  Download    →  Click the button above
 
-Step 2  🛠️  Install     →  Run SandyPlay_Setup_v1.13.exe
+Step 2  🛠️  Install     →  Windows might show a blue warning screen.
+                           Just click More Info and Run Anyway.
+                           It is 100% safe!"
+                           Run SandyPlay_Setup_v1.13.exe
                            The installer auto-configures:
                              • VLC 3 Engine + plugins
                              • Visual C++ runtimes
