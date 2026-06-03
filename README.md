@@ -1,4 +1,10 @@
 
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                  ANIMATED HEADER BANNER                     ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,25:071428,55:0369a1,85:0284c7,100:0ea5e9&height=260&section=header&fontSize=95&fontAlignY=40&fontColor=ffffff&animation=fadeIn&descAlignY=62&descSize=17&fontStyle=bold" width="100%"/>
+</div>
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║              SANDYPLAY — ENHANCED GITHUB README v2.0                    ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
@@ -17,10 +23,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0ea5e9,100:0284c7&height=140&text=▶&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="140" style="border-radius:50%"/>
-</a>
-
-<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1200&color=0EA5E9&center=true&vCenter=true&width=720&height=52&lines=🤖+OpenAI+Whisper+—+Local+AI+Subtitle+Generation;🎧+Dolby.io+Cloud+Audio+Mastering+—+1+Click;🎤+14%2B+Lyrics+Sources+—+Synced+%2B+AI+Fallback;🌐+Translate+Lyrics+to+5+Languages+Instantly;🌊+Dynamic+Glassmorphism+%2B+Ambient+Video+Theming;⚡+Hardware+NVDEC+%2B+SoX+Hi-Fi+Resampler;🎛️+10-Band+EQ+%2B+DTS+Studio+Simulation;💾+Session+Snapshots+%2B+Smart+Queue+Management" alt="Typing SVG"/>
 
@@ -930,5 +932,28 @@ graph TB
 
 
 <!-- ════ FOOTER WAVE ════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,30:0369a1,65:071428,100:000000&height=180&section=footer&animation=fadeIn&text=SANDYPLAY%20v1.13&fontSize=28&fontColor=ffffff&fontAlignY=65&desc=The%20AI%20Media%20Studio%20that%20plays%20everything%20◈%20Free%20%26%20Open%20Source&descAlignY=82&descSize=13" width="100%"/>
+<div align="center" style="margin-top: 40px;">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 180" width="100%">
+    <defs>
+      <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%"   stop-color="#0ea5e9"/>
+        <stop offset="30%"  stop-color="#0369a1"/>
+        <stop offset="65%"  stop-color="#071428"/>
+        <stop offset="100%" stop-color="#000000"/>
+      </linearGradient>
+    </defs>
+    <path fill="url(#waveGrad)"
+      d="M0,60 C240,120 480,0 720,60 C960,120 1200,20 1440,80 L1440,180 L0,180 Z"/>
+    <text x="50%" y="128" text-anchor="middle"
+      font-family="Arial, sans-serif" font-size="28" fill="#ffffff" font-weight="bold">
+      SANDYPLAY v1.13
+    </text>
+    <text x="50%" y="152" text-anchor="middle"
+      font-family="Arial, sans-serif" font-size="13" fill="#cbd5e1">
+      The AI Media Studio that plays everything ◈ Free &amp; Open Source
+    </text>
+  </svg>
+</div>
 
+<!-- ══════════════════════  FOOTER WAVE  ══════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,40:0369a1,75:071428,100:030712&height=150&section=footer&animation=fadeIn" width="100%"/>
