@@ -770,4 +770,3 @@ Built from the ground up with ❤️ by **Sandytalks** (Santhosh)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,40:0369a1,75:071428,100:030712&height=150&section=footer&animation=fadeIn" width="100%"/>
 ENDOFFILE
 
-echo "Written. Lines: $(wc -l < /mnt/user-data/outputs/sandyplay.md) | Size: $(wc -c < /mnt/user-data/outputs/sandyplay.md) bytes"
