@@ -560,27 +560,27 @@ flowchart TD
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  STEP 1   📥  DOWNLOAD                                                       ║
-║           → Click the button above to download SandyPlay_Setup_v1.13.exe    ║
+║  STEO 1   📥  DOWNLOAD                                                       ║
+║           → Click the button above to download SandyPlay_Setup_v1.13.exe     ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║  STEP 2   🛠️  INSTALL                                                        ║
-║           → Windows may show a blue SmartScreen warning.                    ║
-║             Click "More Info" → "Run Anyway"  — it is 100% safe.            ║
-║           → The installer auto-configures:                                  ║
+║           → Windows may show a blue SmartScreen warning.                     ║
+║             Click "More Info" → "Run Anyway"  — it is 100% safe.             ║
+║           → The installer auto-configures:                                   ║
 ║               ◈ VLC 3 Engine + all plugins                                  ║
 ║               ◈ Visual C++ runtimes                                         ║
 ║               ◈ Start Menu + Desktop shortcuts                              ║
+╠═════════════════════════════════════════════════════════════════════════════ ╣
+║  STEP 3   🚀  LAUNCH                                                        ║
+║           → Open SANDYPLAY from the Desktop shortcut                         ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  STEP 3   🚀  LAUNCH                                                         ║
-║           → Open SANDYPLAY from the Desktop shortcut                        ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  STEP 4   🎵  LOAD MEDIA                                                     ║
-║           → Drag & drop files  ·  Ctrl+O (open file)  ·  Ctrl+D (folder)   ║
+║  STEP 4   🎵  LOAD MEDIA                                                    ║
+║           → Drag & drop files  ·  Ctrl+O (open file)  ·  Ctrl+D (folder)     ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║  STEP 5   🤖  AI SETUP  (optional)                                           ║
-║           → Misc → AI Tools                                                 ║
-║           → First Whisper use triggers a one-time model download (~1.5 GB)  ║
-║           → After that: 100% offline, instant on replay                     ║
+║           → Misc → AI Tools                                                  ║
+║           → First Whisper use triggers a one-time model download (~1.5 GB)   ║
+║           → After that: 100% offline, instant on replay                      ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
