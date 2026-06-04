@@ -19,7 +19,6 @@
 <!-- ── VERSION & PLATFORM ── -->
 [![Release](https://img.shields.io/badge/VERSION-v1.13-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=020c1b)](https://github.com/itsyouhuman/SandyPlay/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/itsyouhuman/SandyPlay/total?style=for-the-badge&color=22c55e&label=DOWNLOADS&logo=github&labelColor=020c1b)](https://github.com/itsyouhuman/SandyPlay/releases)
-[![Windows](https://img.shields.io/badge/WINDOWS-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b)](https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.13.exe)
 [![Python](https://img.shields.io/badge/PYTHON-3.10%2B-FFD43B?style=for-the-badge&logo=python&logoColor=black&labelColor=020c1b)](https://python.org)
 [![License](https://img.shields.io/badge/LICENSE-MIT-a855f7?style=for-the-badge&labelColor=020c1b)](LICENSE)
 
@@ -81,7 +80,7 @@
  ║      14      ║      48       ║      12+       ║      10       ║      5+       ║
  ║ Lyrics Srcs  ║ Visualizer    ║ Built-in       ║ Speaker       ║ AI Languages  ║
  ║              ║ Bands         ║ Themes         ║ Modes         ║               ║
- ║ Synced · AI  ║ ~30fps Live   ║ + Unlimited    ║ Stereo→3D     ║ EN·TA·HI·TE  ║
+ ║ Synced · AI  ║ ~30fps Live   ║ + Unlimited    ║ Stereo→3D     ║ EN·TA·HI·TE   ║
  ╚══════════════╩═══════════════╩════════════════╩═══════════════╩═══════════════╝
 ```
 
@@ -390,7 +389,7 @@ flowchart TD
 
 ## 🚀 Installation
 
-> **Read the installation steps before downloading!**
+> *Read the installation steps before downloading!*
 
 <div align="center">
 
@@ -405,11 +404,12 @@ flowchart TD
 ```
   ┌─────────────────────────────────────────────────────────────────────────┐
   │  STEP 1  📥  Download   →  Click the button above                       │
-  │  STEP 2  🛡️  Install    →  SmartScreen? Click More Info → Run Anyway    │
+  │  STEP 2  🛡️  Install    →  Windows Defender SmartScreen ?               |
+  |                            Click More Info → Run Anyway                 │
   │                            (Installer auto-configures VLC + runtimes)   │
   │  STEP 3  🚀  Launch     →  Open SANDYPLAY from your Desktop shortcut    │
-  │  STEP 4  🎵  Load Media →  Drag & drop · Ctrl+O file · Ctrl+D folder   │
-  │  STEP 5  🤖  AI Setup   →  Misc → AI Tools · First Whisper use         │
+  │  STEP 4  🎵  Load Media →  Drag & drop · Ctrl+O file · Ctrl+D folder    │
+  │  STEP 5  🤖  AI Setup   →  Misc → AI Tools · First Whisper use          │
   │                            downloads model once (~1.5 GB) · offline ✅  │
   └─────────────────────────────────────────────────────────────────────────┘
 ```
