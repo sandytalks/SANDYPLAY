@@ -304,7 +304,7 @@ flowchart TD
 
 <br/>
 
-## 🚀 Installation
+## 🚀 Installation - Read The Installation Steps Before download and Install
 
 <div align="center">
 
@@ -493,8 +493,8 @@ graph TB
 |:---:|:---|:---:|
 | ✅ Done | 3-tier parallel lyrics fetch with Gemini AI fallback | v1.13 |
 | ✅ Done | Dolby.io one-click cloud audio mastering | v1.13 |
-| ✅ Done | Whisper AI local subtitle generation (offline) | v1.12 |
-| ✅ Done | DTS Studio simulation — Music / Movies / Games | v1.12 |
+| ✅ Done | Whisper AI local subtitle generation (offline) | v1.13 |
+| ✅ Done | DTS Studio simulation — Music / Movies / Games | v1.13 |
 | 🔄 In Progress | Lyrics contributor mode — submit corrections | v1.14 |
 | 🔄 In Progress | Apple Music / Spotify artwork fetch | v1.14 |
 | 📋 Planned | Linux (Ubuntu / Debian) native build | v1.15 |
