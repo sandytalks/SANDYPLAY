@@ -1,609 +1,603 @@
-
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  ANIMATED HEADER BANNER                     ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,25:071428,55:0369a1,85:0284c7,100:0ea5e9&height=260&section=header&fontSize=95&fontAlignY=40&fontColor=ffffff&animation=fadeIn&descAlignY=62&descSize=17&fontStyle=bold" width="100%"/>
-</div>
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║              SANDYPLAY — ENHANCED GITHUB README v2.0                    ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020c1b,50:0a1628,80:0369a1,100:0ea5e9&height=300&section=header&text=SANDYPLAY&fontSize=110&fontAlignY=42&fontColor=ffffff&animation=fadeIn&desc=◈%20The%20Ultimate%20AI-Powered%20•%20Dolby-Enhanced%20•%20Glassmorphism%20Media%20Studio%20◈&descAlignY=64&descSize=15.5&fontStyle=bold&stroke=0ea5e9&strokeWidth=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:030e1f,50:0a1f3d,80:0369a1,100:0ea5e9&height=280&section=header&text=SANDYPLAY&fontSize=100&fontAlignY=45&fontColor=ffffff&animation=fadeIn&desc=◈%20AI-Powered%20%E2%80%A2%20Dolby-Enhanced%20%E2%80%A2%20Glassmorphism%20Media%20Studio%20◈&descAlignY=68&descSize=16&fontStyle=bold" width="100%"/>
 
 </div>
+
+<div align="center">
 
 <br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&height=50&lines=🤖+Whisper+AI+—+Local+Offline+Subtitle+Generation;🎧+Dolby.io+Cloud+Audio+Mastering+—+1+Click;🎤+14%2B+Lyrics+Sources+—+Synced+%2B+AI+Fallback;🌐+Translate+Lyrics+into+5+Languages+Instantly;🌊+48-Band+Visualizer+%2B+Dynamic+Ambient+Theming;⚡+NVDEC+Hardware+Decoding+%2B+SoX+HiFi+Engine;🎛️+10-Band+EQ+%2B+DTS+Studio+5-Mode+Simulation;💾+Named+Session+Snapshots+%2B+Smart+Queue" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1200&color=0EA5E9&center=true&vCenter=true&width=720&height=52&lines=🤖+OpenAI+Whisper+—+Local+AI+Subtitle+Generation;🎧+Dolby.io+Cloud+Audio+Mastering+—+1+Click;🎤+14%2B+Lyrics+Sources+—+Synced+%2B+AI+Fallback;🌐+Translate+Lyrics+to+5+Languages+Instantly;🌊+Dynamic+Glassmorphism+%2B+Ambient+Video+Theming;⚡+Hardware+NVDEC+%2B+SoX+Hi-Fi+Resampler;🎛️+10-Band+EQ+%2B+DTS+Studio+Simulation;💾+Session+Snapshots+%2B+Smart+Queue+Management" alt="Typing SVG"/>
+<br/><br/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- ══ BADGE ROW 1 ══ -->
-[![Release](https://img.shields.io/badge/◈_RELEASE-v1.13-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=020c1b)](https://github.com/itsyouhuman/SandyPlay/releases/latest)&ensp;[![Downloads](https://img.shields.io/github/downloads/itsyouhuman/SandyPlay/total?style=for-the-badge&color=22c55e&label=◈_DOWNLOADS&logo=github&labelColor=020c1b)](https://github.com/itsyouhuman/SandyPlay/releases)&ensp;![Platform](https://img.shields.io/badge/◈_WINDOWS-10_%2F_11_x64-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b)&ensp;![Python](https://img.shields.io/badge/◈_PYTHON-3.10%2B-FFD43B?style=for-the-badge&logo=python&logoColor=black&labelColor=020c1b)&ensp;![License](https://img.shields.io/badge/◈_LICENSE-MIT-a855f7?style=for-the-badge&labelColor=020c1b)
+[![Release](https://img.shields.io/badge/VERSION-v1.13-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=020c1b)](https://github.com/itsyouhuman/SandyPlay/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/itsyouhuman/SandyPlay/total?style=for-the-badge&color=22c55e&label=DOWNLOADS&logo=github&labelColor=020c1b)](https://github.com/itsyouhuman/SandyPlay/releases)
+[![Windows](https://img.shields.io/badge/WINDOWS-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b)](https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.13.exe)
+[![Python](https://img.shields.io/badge/PYTHON-3.10%2B-FFD43B?style=for-the-badge&logo=python&logoColor=black&labelColor=020c1b)](https://python.org)
+[![License](https://img.shields.io/badge/LICENSE-MIT-a855f7?style=for-the-badge&labelColor=020c1b)](LICENSE)
 
 <br/>
 
-<!-- ══ BADGE ROW 2 ══ -->
-![AI](https://img.shields.io/badge/AI-Whisper_│_Gemini_1.5-8b5cf6?style=for-the-badge&logo=openai&logoColor=white&labelColor=0f0f1a)&ensp;![Audio](https://img.shields.io/badge/AUDIO-Dolby.io_│_SoX_HiFi-f97316?style=for-the-badge&logo=dolby&logoColor=white&labelColor=0f0f1a)&ensp;![Engine](https://img.shields.io/badge/ENGINE-LibVLC_3.x-FF8800?style=for-the-badge&logo=vlcmediaplayer&logoColor=white&labelColor=0f0f1a)&ensp;![Streaming](https://img.shields.io/badge/STREAMING-yt--dlp_1000%2B-ef4444?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0f0f1a)&ensp;[![Stars](https://img.shields.io/github/stars/itsyouhuman/SandyPlay?style=for-the-badge&color=eab308&logo=github&label=STARS&labelColor=0f0f1a)](https://github.com/itsyouhuman/SandyPlay/stargazers)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ◂ Why
-SandyPlay ▸ ◂ Features ▸ ◂ Lyrics Engine ▸ ◂ Showcase ▸ ◂ Install ▸ ◂ Keyboard
-Ref ▸ ◂ Architecture ▸ ◂ Roadmap ▸ ◂ FAQ ▸
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-</div>
+[![AI](https://img.shields.io/badge/AI-Whisper%20%7C%20Gemini%201.5-8b5cf6?style=for-the-badge&logo=openai&logoColor=white&labelColor=0f0f1a)](https://aistudio.google.com)
+[![Audio](https://img.shields.io/badge/AUDIO-Dolby.io%20%7C%20SoX%20HiFi-f97316?style=for-the-badge&logo=dolby&logoColor=white&labelColor=0f0f1a)](https://dolby.io)
+[![Engine](https://img.shields.io/badge/ENGINE-LibVLC%203.x-FF8800?style=for-the-badge&logo=vlcmediaplayer&logoColor=white&labelColor=0f0f1a)](https://videolan.org)
+[![Streaming](https://img.shields.io/badge/STREAMING-yt--dlp%201000%2B-ef4444?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0f0f1a)](https://github.com/yt-dlp/yt-dlp)
+[![Stars](https://img.shields.io/github/stars/itsyouhuman/SandyPlay?style=for-the-badge&color=eab308&logo=github&label=STARS&labelColor=0f0f1a)](https://github.com/itsyouhuman/SandyPlay/stargazers)
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:0369a1,100:0ea5e9&height=1&section=header" width="85%"/>
+[⚡ Why SandyPlay](#-why-sandyplay) &nbsp;•&nbsp;
+[✨ Features](#-complete-feature-breakdown) &nbsp;•&nbsp;
+[🎤 Lyrics Engine](#-lyrics-engine) &nbsp;•&nbsp;
+[📸 Showcase](#-visual-showcase) &nbsp;•&nbsp;
+[🚀 Install](#-installation) &nbsp;•&nbsp;
+[⌨️ Keybinds](#-keyboard-reference) &nbsp;•&nbsp;
+[🏗️ Architecture](#-architecture) &nbsp;•&nbsp;
+[🗺️ Roadmap](#-roadmap) &nbsp;•&nbsp;
+[❓ FAQ](#-faq)
+
+<br/>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:0369a1,100:0ea5e9&height=2&section=header" width="100%"/>
 
 <br/>
 
 > [!NOTE]
-> ### 🔷 SANDYPLAY v1.13 is not a media player — it is a complete AI multimedia production studio.
-> Built on **LibVLC** for bulletproof decoding and **PyQt6** for silky-smooth glassmorphism UI, it integrates **OpenAI Whisper** (local, offline subtitles), **Google Gemini 1.5 Flash** (lyrics translation, smart playlists, AI captions), and **Dolby.io** (one-click cloud audio mastering) into a single, **free, open-source** application.
+> **SANDYPLAY v1.13** is not a media player — it is a **complete AI multimedia production studio** for Windows.
+> Built on **LibVLC** + **PyQt6** glassmorphism, integrating **OpenAI Whisper** (offline subtitles), **Gemini 1.5 Flash** (translation, playlists, captions), and **Dolby.io** (one-click cloud mastering) — all **free, open-source, and self-contained**.
 >
-> `14+ lyrics sources` &nbsp;·&nbsp; `48-band visualizer` &nbsp;·&nbsp; `Dynamic ambient theming` &nbsp;·&nbsp; `DTS studio simulation` &nbsp;·&nbsp; `Hardware NVDEC acceleration` &nbsp;·&nbsp; **Everything. Free.**
+> `14 lyrics sources` · `48-band visualizer` · `dynamic ambient theming` · `DTS studio simulation` · `NVDEC hardware acceleration` · **Everything. Free.**
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0369a1,100:020c1b&height=1&section=header" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0369a1,100:020c1b&height=2&section=header" width="100%"/>
 
-<br/><br/>
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- ║                    STATS SHOWCASE                            ║ -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
+<br/>
 
 ## 〔 By The Numbers 〕
 
-<br/>
+<div align="center">
 
-<table>
-<tr>
-<td align="center" width="19%">
-<br/>
-<img src="https://img.shields.io/badge/14-LYRICS%20SOURCES-0ea5e9?style=for-the-badge&labelColor=020c1b" /><br/><sub>Synced LRC · Plain · AI</sub>
-<br/>&nbsp;
-</td>
-<td align="center" width="1%"><sub>┃</sub></td>
-<td align="center" width="19%">
-<br/>
-<img src="https://img.shields.io/badge/48-VISUALIZER%20BANDS-8b5cf6?style=for-the-badge&labelColor=020c1b" /><br/><sub>~30 fps real-time</sub>
-<br/>&nbsp;
-</td>
-<td align="center" width="1%"><sub>┃</sub></td>
-<td align="center" width="19%">
-<br/>
-<img src="https://img.shields.io/badge/12%2B-BUILT--IN%20THEMES-f97316?style=for-the-badge&labelColor=020c1b" /><br/><sub>+ Unlimited custom HEX</sub>
-<br/>&nbsp;
-</td>
-<td align="center" width="1%"><sub>┃</sub></td>
-<td align="center" width="19%">
-<br/>
-<img src="https://img.shields.io/badge/10-SPEAKER%20MODES-22c55e?style=for-the-badge&labelColor=020c1b" /><br/><sub>Stereo → Spatial 3D</sub>
-<br/>&nbsp;
-</td>
-<td align="center" width="1%"><sub>┃</sub></td>
-<td align="center" width="19%">
-<br/>
-<img src="https://img.shields.io/badge/5%2B-AI%20LANGUAGES-eab308?style=for-the-badge&labelColor=020c1b" /><br/><sub>EN · TA · HI · TE · auto</sub>
-<br/>&nbsp;
-</td>
-</tr>
-</table>
+| &nbsp;&nbsp;&nbsp;14&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;48&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;12+&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;10&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;5+&nbsp;&nbsp;&nbsp; |
+|:---:|:---:|:---:|:---:|:---:|
+| **Lyrics Sources** | **Visualizer Bands** | **Built-in Themes** | **Speaker Modes** | **AI Languages** |
+| Synced · Plain · AI | ~30 fps real-time | + Unlimited HEX | Stereo → Spatial 3D | EN · TA · HI · TE · auto |
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0369a1,100:020c1b&height=1&section=header" width="100%"/>
-</div>
-
-<br/><br/>
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- ║                   WHY SANDYPLAY                              ║ -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://img.shields.io/badge/01-WHY%20SANDYPLAY%3F-0ea5e9?style=for-the-badge&labelColor=020c1b"/> &nbsp; The Competition Table
-
-<div align="center">
-
-> No other free, open-source media player comes close. Here's the proof.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0369a1,100:020c1b&height=2&section=header" width="100%"/>
 
 <br/>
 
-| &nbsp;&nbsp;&nbsp;Feature&nbsp;&nbsp;&nbsp; | ◈ **SANDYPLAY** | VLC 3.0 | MPC-HC | foobar2000 | Winamp |
+## ⚡ Why SANDYPLAY?
+
+<div align="center">
+
+> No other free, open-source media player even comes close.
+
+| Feature | ◈ **SANDYPLAY** | VLC 3.0 | MPC-HC | foobar2000 | Winamp |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| 🤖 **AI Local Subtitle** (Whisper, offline) | ✅ | ❌ | ❌ | ❌ | ❌ |
-| ☁️ **Cloud Audio Mastering** (Dolby.io) | ✅ | ❌ | ❌ | ❌ | ❌ |
-| 🎤 **Synced Lyrics** (14+ sources) | ✅ | ❌ | ❌ | ⚠️ plugin | ⚠️ plugin |
-| 🌐 **Lyrics AI Translation** (5 langs) | ✅ | ❌ | ❌ | ❌ | ❌ |
-| 🧠 **Natural Language Command Palette** | ✅ | ❌ | ❌ | ❌ | ❌ |
-| 🎨 **Dynamic Ambient Video Theming** | ✅ | ❌ | ❌ | ❌ | ❌ |
-| 🌊 **Built-in Audio Visualizer** (48-band) | ✅ | ❌ | ❌ | ⚠️ plugin | ✅ 14-band |
-| 🔊 **DTS / Surround Simulation** | ✅ **5 modes** | ⚠️ basic | ⚠️ basic | ❌ | ❌ |
-| 💾 **Named Session Snapshots** | ✅ | ❌ | ❌ | ⚠️ playlists | ⚠️ playlists |
-| 📡 **YouTube / Twitch Streaming** | ✅ yt-dlp | ✅ | ❌ | ❌ | ❌ |
-| 🎛️ **10-Band Parametric Equalizer** | ✅ | ⚠️ basic | ❌ | ✅ | ✅ |
-| ⚡ **Hardware NVDEC / CUDA Decoding** | ✅ | ✅ | ✅ | ❌ | ❌ |
-| 🖥️ **Glassmorphism UI** (12+ themes) | ✅ | ❌ | ❌ | ⚠️ skins | ⚠️ skins |
-| 🔖 **Bookmarks + A-B Repeat** | ✅ | ✅ | ✅ | ❌ | ❌ |
-| 🏷️ **AI Metadata Cleaner** | ✅ | ❌ | ❌ | ⚠️ plugin | ❌ |
+| 🤖 AI Local Subtitle (Whisper, offline) | ✅ | ❌ | ❌ | ❌ | ❌ |
+| ☁️ Cloud Audio Mastering (Dolby.io) | ✅ | ❌ | ❌ | ❌ | ❌ |
+| 🎤 Synced Lyrics (14+ sources) | ✅ | ❌ | ❌ | ⚠️ plugin | ⚠️ plugin |
+| 🌐 Lyrics AI Translation (5 langs) | ✅ | ❌ | ❌ | ❌ | ❌ |
+| 🧠 Natural Language Command Palette | ✅ | ❌ | ❌ | ❌ | ❌ |
+| 🎨 Dynamic Ambient Video Theming | ✅ | ❌ | ❌ | ❌ | ❌ |
+| 🌊 48-Band Audio Visualizer | ✅ | ❌ | ❌ | ⚠️ plugin | ✅ 14-band |
+| 🔊 DTS / Surround Simulation | ✅ **5 modes** | ⚠️ basic | ⚠️ basic | ❌ | ❌ |
+| 💾 Named Session Snapshots | ✅ | ❌ | ❌ | ⚠️ playlists | ⚠️ playlists |
+| 📡 YouTube / Twitch Streaming | ✅ yt-dlp | ✅ | ❌ | ❌ | ❌ |
+| 🎛️ 10-Band Parametric Equalizer | ✅ | ⚠️ basic | ❌ | ✅ | ✅ |
+| ⚡ Hardware NVDEC / CUDA Decoding | ✅ | ✅ | ✅ | ❌ | ❌ |
+| 🖥️ Glassmorphism UI (12+ themes) | ✅ | ❌ | ❌ | ⚠️ skins | ⚠️ skins |
+| 🔖 Bookmarks + A-B Repeat | ✅ | ✅ | ✅ | ❌ | ❌ |
+| 🏷️ AI Metadata Cleaner | ✅ | ❌ | ❌ | ⚠️ plugin | ❌ |
 
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0369a1,100:020c1b&height=2&section=header" width="100%"/>
+
+<br/>
+
+## ✨ Complete Feature Breakdown
+
+### 🤖 AI Intelligence Layer
+
+| Module | Details |
+|:---|:---|
+| **Whisper Engine** | `faster-whisper` · 100% local, offline · models: tiny / base / small / medium / large-v3 |
+| **Language Detection** | 99 languages with confidence score · auto-translated output to English |
+| **Subtitle Output** | `.SRT` with word-level timestamps · 500ms VAD silence-gap segmentation |
+| **Caching** | Stored to `~/.sandyplay/subtitles/` · instant reload on replay (no re-run) |
+| **Gemini Translation** | auto-detect → EN / TA / HI / TE · LRC-aware (preserves `[mm:ss]` sync timestamps) |
+| **Bilingual View** | Original + translation interleaved line-by-line in real time |
+| **Smart Playlists** | Vibe keyword semantic sort — `"chill"` · `"workout"` · `"sad"` |
+| **AI Captions** | 2-sentence mood description for video tracks |
+| **Command Palette** | Natural language control — `"play next"` · `"add classics"` |
+| **Metadata Cleaner** | Strips `[Official Video]`, `(Lyrics)`, year tags from title/artist |
+
+### 🎧 Studio-Grade Audio Engine
+
+| Module | Details |
+|:---|:---|
+| **Dolby.io Mastering** | OAuth2 auth · `dlb://` upload protocol · Dolby Enhance API (de-noise + master + normalize) |
+| **Dolby Output** | High-quality WAV · auto-inserted after current track · live progress in status bar |
+| **DTS 🎵 Music Mode** | `normvol DSP` + Pop EQ curve → warm, balanced listening |
+| **DTS 🎬 Movie Mode** | spatializer + compressor + cinema EQ → wide soundstage, punchy dialogue |
+| **DTS 🎮 Game Mode** | headphone 3D + compressor + air EQ → directional gaming audio |
+| **DTS ⚙️ Custom Mode** | Manual DSP toggle per individual filter |
+| **10-Band EQ** | 60 · 170 · 310 · 600 · 1k · 3k · 6k · 12k · 14k · 16k Hz · range ±20 dB |
+| **EQ Presets** | Flat / Bass Boost / Treble Boost / Vocal Clarity / Rock / Pop |
+| **Auto Preamp** | Safety margin: `12 − maxBoost dB` to prevent clipping |
+| **Surround Modes** | Stereo / Reverse / Left-Mono / Right-Mono / 2.1 / Dolby Surround / 5.1 / 7.1 / Spatial 3D / Studio HiFi |
+
+### 🌊 Glassmorphism UI System
+
+| Module | Details |
+|:---|:---|
+| **12 Built-in Themes** | Sky Blue · Purple Haze · Sunset Orange · Emerald · Crimson · Golden Glow · Hot Pink · Deep Indigo · Teal Surge · Ocean Cyan · Copper · Moonlight |
+| **Custom Color** | Any HEX via Qt color picker |
+| **Ambient Theming** | Fires 2.5s after video load · `snapshot(128×72)` → pixel-grid sample → HSL boost (sat+0.5, L clamp) → apply as accent |
+| **48-Band Visualizer** | Custom QPainter · 33ms tick (~30 fps) · symmetric mirror bars · attack 75% / decay 18% per frame |
+| **Visualizer Physics** | ±0.04 organic noise floor · floating peak indicators · 0.018/frame fade · gradient bright→dim |
+| **Fullscreen Controls** | Floating island bar · 2.5s auto-hide · Zoom 0.5×→3.0× via Ctrl+Scroll |
+| **Video Adjustments** | Crop modes: default / 16:9 / 4:3 / 21:9 / 1:1 · HDR Sim (contrast 1.18, sat 1.28, gamma 0.92) |
+| **Session Manager** | Auto-save every 2 min · named JSON snapshots · unlimited · MD5 dedupe · HTML export |
+
+### 🎬 Playback & Streaming
+
+| Module | Details |
+|:---|:---|
+| **Media Core** | LibVLC 3.x / python-vlc · NVDEC hardware decode · FFmpeg CPU fallback |
+| **Caching** | file 1000ms · network 1500ms · live 1500ms · mux 800ms |
+| **Streaming** | yt-dlp resolver · YouTube / Twitch / SoundCloud / 1000+ sites · playlist auto-expand |
+| **Speed Control** | 0.25× – 4.0× pitch-locked via SoX · highest quality resampler |
+| **Advanced Playback** | A-B Repeat · Frame Step · up to 40 bookmarks per file · loop / shuffle |
+| **Seek** | ±10s / ±30s (Alt) · click-to-seek slider · hover tooltip HH:MM:SS |
+| **Track Control** | Cycle audio tracks (X) · cycle subtitle tracks (Z) · load external .srt/.ass/.vtt/.sub |
+| **Delay Sliders** | Audio delay ±5000ms · subtitle delay ±5000ms · live adjustment |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0369a1,100:020c1b&height=2&section=header" width="100%"/>
+
+<br/>
+
+## 🎤 Lyrics Engine
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0369a1,100:020c1b&height=1&section=header" width="100%"/>
+
+> The most advanced open-source lyrics system available — **3-tier parallel pipeline**, 14 live sources, smart caching, sidecar support, and guaranteed AI fallback.
+
 </div>
 
-<br/><br/>
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- ║                  FEATURE BREAKDOWN                           ║ -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://img.shields.io/badge/02-FEATURE%20BREAKDOWN-8b5cf6?style=for-the-badge&labelColor=0f0f1a"/> &nbsp; Complete Technical Deep Dive
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 &nbsp; AI Intelligence Layer
-
-```yaml
-# ══════════════════════════════════════════════
-# ◈  WHISPER LOCAL SUBTITLES  (100% Offline)
-# ══════════════════════════════════════════════
-Engine      : faster-whisper
-Models      : tiny · base · small · medium · large-v3
-Auto-detect : 99 languages with confidence score
-Output      : .SRT with word-level timestamps
-VAD filter  : 500ms silence-gap segmentation
-Post-process: auto-translated to English
-Storage     : ~/.sandyplay/subtitles/  (cached)
-Reload      : instant on replays (no re-run)
-
-# ══════════════════════════════════════════════
-# ◈  GOOGLE GEMINI 1.5 FLASH  (Cloud AI)
-# ══════════════════════════════════════════════
-Lyrics Translate : auto-detect → EN/TA/HI/TE
-LRC-Aware        : preserves [mm:ss] timestamps
-                   after translation (synced!)
-Bilingual View   : original + translation
-                   interleaved line-by-line
-Captions         : 2-sentence mood description
-Smart Playlists  : vibe keyword semantic sort
-                   "chill" · "workout" · "sad"
-Command Palette  : natural language control
-                   "play next" · "add classics"
-Metadata Clean   : strip [Official Video] noise
-AI Recommend     : fuzzy + semantic next-track
-
-🎧   Studio-Grade Audio Engine
-
-# ══════════════════════════════════════════════
-# ◈  DOLBY.IO CLOUD MASTERING
-# ══════════════════════════════════════════════
-Auth     : OAuth2 App Key + App Secret
-Upload   : dlb:// internal protocol
-Process  : Dolby Enhance API
-           (de-noise + master + normalize)
-Output   : high-quality WAV file
-Queue    : auto-inserted after current track
-Status   : live progress in status bar
-
-# ══════════════════════════════════════════════
-# ◈  DTS STUDIO SIMULATION  (5 Modes)
-# ══════════════════════════════════════════════
-🎵 Music  : normvol DSP + Pop EQ curve
-            → warm, balanced listening
-🎬 Movies : spatializer + compressor + cinema EQ
-            → wide soundstage, punchy dialogue
-🎮 Games  : headphone 3D + compressor + air EQ
-            → directional sound for gaming
-⚙️ Custom : manual DSP toggle per filter
-🔇 Off    : bypass all (pure VLC output)
-
-# ══════════════════════════════════════════════
-# ◈  10-BAND PARAMETRIC EQ
-# ══════════════════════════════════════════════
-Frequencies : 60 · 170 · 310 · 600 · 1k
-              3k · 6k · 12k · 14k · 16k Hz
-Range       : ±20 dB per band
-Presets     : Flat · Bass Boost · Treble Boost
-              Vocal Clarity · Rock · Pop
-Preamp      : auto safety margin (12 − maxBoost)
-
-🌊   Glassmorphism UI System
-
-# ══════════════════════════════════════════════
-# ◈  THEMES & AMBIENT COLOR ENGINE
-# ══════════════════════════════════════════════
-Built-in : 12 curated accent colors
-  ○ Sky Blue      ○ Purple Haze    ○ Sunset Orange
-  ○ Emerald       ○ Crimson        ○ Golden Glow
-  ○ Hot Pink      ○ Deep Indigo    ○ Teal Surge
-  ○ Ocean Cyan    ○ Copper         ○ Moonlight
-Custom   : any HEX via Qt color picker
-Ambient  : fires 2.5s after video loads
-  Method : snapshot(128×72) → pixel-grid sample
-           → HSL boost (sat+0.5, L clamp)
-           → apply as new accent color
-
-# ══════════════════════════════════════════════
-# ◈  48-BAND REAL-TIME VISUALIZER
-# ══════════════════════════════════════════════
-Engine    : custom QPainter · 33ms tick (~30 fps)
-Bars      : symmetric mirror · 48 total bands
-Physics   : attack 75% · decay 18% per frame
-            + ±0.04 organic noise floor
-Peaks     : floating indicators · 0.018/frame fade
-Palette   : accent color + 60-unit brightness boost
-Display   : gradient (bright top → dim bottom)
-            rounded bars + ellipse peak dots
-
-# ══════════════════════════════════════════════
-# ◈  PLUS SESSION MANAGER
-# ══════════════════════════════════════════════
-Auto-save   : every 2 min · atomic .tmp → rename
-Snapshots   : named JSON · unlimited · timestamped
-Restore     : queue + seek position on launch
-Favorites   : per-track · Ctrl+Alt+F toggle
-Recent      : last 35 tracks · played_at timestamp
-Duplicates  : MD5-key dedupe · 1-click removal
-HTML Export : full queue report with stats
-
-🎬   Playback & Streaming
-
-# ══════════════════════════════════════════════
-# ◈  MEDIA ENGINE
-# ══════════════════════════════════════════════
-Core        : LibVLC 3.x / python-vlc binding
-HW Decode   : NVDEC (NVIDIA) / system "any"
-SW Decode   : FFmpeg CPU (always available)
-Caching     : file 1000ms · network 1500ms
-              live 1500ms · mux 800ms
-Resampler   : SoX (force stereo downmix)
-Frame drop  : enabled (maintains A/V sync)
-
-# ══════════════════════════════════════════════
-# ◈  STREAMING SUPPORT  (yt-dlp)
-# ══════════════════════════════════════════════
-Sites       : 1000+ supported platforms
-  YouTube   : best video+audio combined format
-  Twitch    : live stream (RTMP/HLS)
-  SoundCloud: audio streams
-  Playlists : auto-expand all entries
-Direct URLs : HTTP(S) / RTSP / RTMP / MMS / FTP
-Queue       : streams mix freely with local files
-
-# ══════════════════════════════════════════════
-# ◈  ADVANCED PLAYBACK FEATURES
-# ══════════════════════════════════════════════
-Loop        : single / off
-Shuffle     : true random (randint over playlist)
-Speed       : 0.25× – 4.0× pitch-locked via SoX
-A-B Repeat  : set in / out points live
-Frame Step  : step-by-step in paused mode
-Bookmarks   : per-file · up to 40 marks · sorted
-Seek        : ±10s / ±30s (Alt) · slider click
-              hover tooltip shows HH:MM:SS
-
-# ══════════════════════════════════════════════
-# ◈  AUDIO / SUBTITLE TRACK CONTROL
-# ══════════════════════════════════════════════
-Audio cycle : X key — all embedded tracks
-Sub cycle   : Z key — all embedded + Whisper
-Sub load    : .srt / .ass / .vtt / .sub
-Sub delay   : live ±5000ms slider
-Audio delay : live ±5000ms slider
-Speaker out : 10 channel routing modes
-
-   The World's Most Advanced Open-Source Lyrics System
-
-A 3-tier parallel fetch pipeline — 14 live sources, smart disk caching, sidecar
-file support, and a Gemini AI fallback. No other free player comes close.
-
+```mermaid
 flowchart TD
     A(["🎵  Track Starts"]) --> B{"📂  Disk Cache Hit?\n~/.sandyplay/lyrics/"}
-    B -- "✅  Instant load" --> Z(["✨  Display Lyrics"])
-    B -- "❌  Cache miss" --> C{"📄  Sidecar .lrc\nor .txt?"}
-    C -- "✅  Found on disk" --> Z
-    C -- "❌  None found" --> D
+    B -- "✅  Instant" --> Z(["✨  Display Lyrics"])
+    B -- "❌  Miss" --> C{"📄  Sidecar .lrc / .txt?"}
+    C -- "✅  Found" --> Z
+    C -- "❌  None" --> D
 
-    subgraph D["⚡  TIER 1 — Synced LRC  │  8s parallel deadline"]
-        D1["① LRCLib\ndirect + search"]
-        D2["② Kugou\n50M+ songs"]
-        D3["③ NetEase\nAsian catalog"]
-        D4["④ Textyl\nREST API"]
-        D5["⑤ Megalobiz\nHTML scrape"]
+    subgraph D["⚡  TIER 1 — Synced LRC  │  8s parallel"]
+        D1["① LRCLib"] & D2["② Kugou 50M+"] & D3["③ NetEase"] & D4["④ Textyl"] & D5["⑤ Megalobiz"]
     end
 
-    D --> E{"🏆  Synced LRC found?"}
-    E -- "✅  Best priority wins" --> Z
-    E -- "❌  All Tier 1 failed" --> F
+    D --> E{"🏆 Synced LRC found?"}
+    E -- "✅ Best wins" --> Z
+    E -- "❌ All failed" --> F
 
-    subgraph F["📝  TIER 2 — Plain Lyrics  │  12s parallel deadline"]
-        F1["⑥ JioSaavn\n⑦ Gaana"]
-        F2["⑧ Vagalume\n⑨ Lyrics.ovh"]
-        F3["⑩ Musixmatch\n⑪ AZLyrics"]
-        F4["⑫ SongLyrics\n⑬ ChartLyrics\n⑭ Happi.dev"]
+    subgraph F["📝  TIER 2 — Plain Lyrics  │  12s parallel"]
+        F1["⑥ JioSaavn\n⑦ Gaana"] & F2["⑧ Vagalume\n⑨ Lyrics.ovh"] & F3["⑩ Musixmatch\n⑪ AZLyrics"] & F4["⑫ SongLyrics\n⑬ ChartLyrics\n⑭ Happi.dev"]
     end
 
-    F --> G{"📄  Plain text found?"}
-    G -- "✅  Best priority wins" --> Z
-    G -- "❌  All Tier 2 failed" --> H["🤖  TIER 3 — Gemini AI Fallback\nGemini 1.5 Flash · always-on guarantee"]
+    F --> G{"📄 Plain text found?"}
+    G -- "✅ Best wins" --> Z
+    G -- "❌ All failed" --> H["🤖  TIER 3 — Gemini AI\nAlways-on guarantee"]
     H --> Z
-    Z --> I(["💾  Cache to disk  ·  Instant on next play"])
+    Z --> I(["💾  Cached · Instant next time"])
+```
 
-〔 Source Directory 〕
+<br/>
 
-|   \#   | Source          | Type         | Coverage                              | Method                                    |
-| :----: | :-------------- | :----------: | :------------------------------------ | :---------------------------------------- |
-| ①      | **LRCLib**      | `Synced LRC` | Global, growing rapidly               | Free REST API · direct + search endpoints |
-| ②      | **Kugou**       | `Synced LRC` | 50M+ songs · strongest Asian coverage | JSON API + base64 LRC decode              |
-| ③      | **NetEase**     | `Synced LRC` | Chinese + international               | JSON API with referer auth                |
-| ④      | **Textyl**      | `Synced LRC` | English-heavy, fast                   | Lightweight REST API                      |
-| ⑤      | **Megalobiz**   | `Synced LRC` | International repository              | HTML scrape → span extraction             |
-| ⑥      | **JioSaavn**    | `Plain`      | India's top — TA / HI / TE / ML       | saavn.dev REST API chain                  |
-| ⑦      | **Gaana**       | `Plain`      | Bollywood + South Indian deep catalog | HTML scrape + JSON-LD                     |
-| ⑧      | **Vagalume**    | `Plain`      | Portuguese + international            | Free REST API                             |
-| ⑨      | **Lyrics.ovh**  | `Plain`      | Global, simple English                | Free REST API                             |
-| ⑩      | **Musixmatch**  | `Plain`      | Largest global catalog                | HTML scrape                               |
-| ⑪      | **AZLyrics**    | `Plain`      | Extensive English catalog             | HTML scrape                               |
-| ⑫      | **SongLyrics**  | `Plain`      | Indian + international                | HTML scrape                               |
-| ⑬      | **ChartLyrics** | `Plain`      | Free, no key required                 | XML REST API                              |
-| ⑭      | **Happi.dev**   | `Plain`      | Community-driven                      | REST API (demo key)                       |
-| 🤖      | **Gemini AI**   | `Fallback`   | Anything Gemini knows                 | LLM prompt · guaranteed result            |
+<div align="center">
 
-   See It In Action
+| # | Source | Type | Coverage | Method |
+|:---:|:---|:---:|:---|:---|
+| ① | **LRCLib** | `Synced LRC` | Global, growing rapidly | Free REST API · direct + search |
+| ② | **Kugou** | `Synced LRC` | 50M+ · strongest Asian | JSON API + base64 LRC decode |
+| ③ | **NetEase** | `Synced LRC` | Chinese + international | JSON API + referer auth |
+| ④ | **Textyl** | `Synced LRC` | English-heavy, fast | Lightweight REST API |
+| ⑤ | **Megalobiz** | `Synced LRC` | International repo | HTML scrape → span extraction |
+| ⑥ | **JioSaavn** | `Plain` | India — TA / HI / TE / ML | saavn.dev REST API chain |
+| ⑦ | **Gaana** | `Plain` | Bollywood + South Indian | HTML scrape + JSON-LD |
+| ⑧ | **Vagalume** | `Plain` | Portuguese + international | Free REST API |
+| ⑨ | **Lyrics.ovh** | `Plain` | Global, English | Free REST API |
+| ⑩ | **Musixmatch** | `Plain` | Largest global catalog | HTML scrape |
+| ⑪ | **AZLyrics** | `Plain` | Extensive English catalog | HTML scrape |
+| ⑫ | **SongLyrics** | `Plain` | Indian + international | HTML scrape |
+| ⑬ | **ChartLyrics** | `Plain` | Free, no key needed | XML REST API |
+| ⑭ | **Happi.dev** | `Plain` | Community-driven | REST API (demo key) |
+| 🤖 | **Gemini AI** | `Fallback` | Anything Gemini knows | LLM prompt · guaranteed |
 
-Video Mode
+</div>
 
-Music Mode
+<br/>
 
-🔴   Critical Fixes
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0369a1,100:020c1b&height=2&section=header" width="100%"/>
 
-  - Fixed _is_video_mode not initialised in __init__ → caused progress bar, time
-    display, and auto-advance to silently break on every tick
-  - Added getattr guard in update_ui for belt-and-suspenders safety
-  - Fixed wait, FIRST_COMPLETED only imported inside function on every call →
-    moved to top-level module import
+<br/>
 
-🟠   Lyrics Engine Overhaul
+## 📸 Visual Showcase
 
-  - Completely rewrote _run_fetch_chain — now uses direct executor.submit(fn,
-    *args) (zero lambda/closure risk)
-  - Added _fetch_lrclib direct endpoint (/api/get?track_name=…&duration=…) to
-    Tier 1 — was defined but never called
-  - wait() now receives list(remaining.keys()) instead of live dict-view —
-    eliminates mutation-during-iteration race
-  - Fail-cache TTL raised 10s → 30s (aggressive 10s was blocking legitimate
-    retries)
-  - Tier 1 deadline extended 6s → 8s · Tier 2 deadline 8s → 12s
+<div align="center">
 
-🟡   Reliability Fixes
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:0284c7&height=3&section=header" width="93%"/>
 
-  - _http_get default timeout raised 3.5s → 6.0s (JioSaavn/Gaana regularly
-    need 4–5s)
-  - _is_title_match fuzzy threshold relaxed 0.82 → 0.72 (language suffixes no
-    longer block matches)
-  - saavn.dev now handles both "data": {…} (dict) and "data": [{…}] (list)
-    response schemas
+<img src="video sample pic.png" alt="SANDYPLAY — Video Mode" width="93%"/>
 
-✨   New Features
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0284c7,100:0ea5e9&height=3&section=header" width="93%"/>
 
-  - Dedicated Dolby Studio tab in Control Panel
-  - DTS mode now stores and restores across sessions
-  - Bookmarks persisted in config.json — survive app restarts
-  - _run_tier() helper reduces fetch-chain code by ~60 lines
+**🎬 Video Mode** — Floating island control bar · Whisper AI subtitle overlay · Ambient color extraction · HDR simulation
 
-   Read the Installation Steps Given Below Before Download
+<br/><br/>
 
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  STEP 1   📥  DOWNLOAD                                                       ║
-║           → Click the button above to download SandyPlay_Setup_v1.13.exe     ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  STEP 2   🛠️  INSTALL                                                        ║
-║           → Windows may show a blue SmartScreen warning.                     ║
-║             Click "More Info" → "Run Anyway"  — it is 100% safe.             ║
-║           → The installer auto-configures:                                   ║
-║               ◈ VLC 3 Engine + all plugins                                   ║
-║               ◈ Visual C++ runtimes                                          ║
-║               ◈ Start Menu + Desktop shortcuts                               ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  STEP 3   🚀  LAUNCH                                                         ║
-║           → Open SANDYPLAY from the Desktop shortcut                         ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  STEP 4   🎵  LOAD MEDIA                                                     ║
-║           → Drag & drop files  ·  Ctrl+O (open file)  ·  Ctrl+D (folder)     ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  STEP 5   🤖  AI SETUP  (optional)                                           ║
-║           → Misc → AI Tools                                                  ║
-║           → First Whisper use triggers a one-time model download (~1.5 GB)   ║
-║           → After that: 100% offline, instant on replay                      ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,100:a855f7&height=3&section=header" width="93%"/>
 
-System Requirements
+<img src="audio sample pic.png" alt="SANDYPLAY — Music Mode" width="93%"/>
 
-|             | Minimum             | Recommended                       |
-| :---------- | :------------------ | :-------------------------------- |
-| **OS**      | Windows 10 64-bit   | Windows 11 64-bit                 |
-| **CPU**     | Any dual-core 2 GHz | Quad-core 3 GHz+                  |
-| **RAM**     | 4 GB                | 8 GB+                             |
-| **GPU**     | Integrated graphics | NVIDIA GTX 1060+ (NVDEC)          |
-| **Storage** | 500 MB (app only)   | 3 GB+ (with Whisper models)       |
-| **Network** | Optional            | Required for Dolby.io / Gemini AI |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:8b5cf6&height=3&section=header" width="93%"/>
 
-[!TIP] AI First-run: faster-whisper downloads the Whisper model once (~1.5 GB
-for medium). After that — fully offline, zero internet needed, instant replays
-from cache. For Gemini features: grab a free API key from Google AI Studio — the
-free tier is more than enough.
+**🎵 Music Mode** — Real-time synced LRC lyrics · 48-band spectrum visualizer · Album artwork · Bilingual translation panel
 
-[!IMPORTANT] Supported Formats: MP4 · MKV · AVI · MOV · WMV · WebM · FLV · M4V ·
-MPEG · TS · VOB · 3GP · RM and MP3 · FLAC · WAV · AAC · M4A · OGG · WMA · OPUS ·
-AC3 · EAC3 · THD · ALAC — if LibVLC decodes it, SANDYPLAY plays it.
+</div>
 
-   Every Shortcut at a Glance
+<br/>
 
-▸ Playback Control
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0369a1,100:020c1b&height=2&section=header" width="100%"/>
 
-| Key                          | Action           |     | Key                            | Action           |
-| :--------------------------: | :--------------- | :-: | :----------------------------: | :--------------- |
-| <kbd>Space</kbd>             | Play / Pause     |     | <kbd>S</kbd>                   | Stop             |
-| <kbd>N</kbd>                 | Next Track       |     | <kbd>B</kbd>                   | Previous Track   |
-| <kbd>→</kbd>                 | Seek +10 seconds |     | <kbd>←</kbd>                   | Seek −10 seconds |
-| <kbd>Alt</kbd>\+<kbd>→</kbd> | Seek +30 seconds |     | <kbd>Alt</kbd>\+<kbd>←</kbd>   | Seek −30 seconds |
-| <kbd>↑</kbd>                 | Volume +5%       |     | <kbd>↓</kbd>                   | Volume −5%       |
-| <kbd>M</kbd>                 | Mute / Unmute    |     | <kbd>E</kbd>                   | Frame Step       |
-| <kbd>\]</kbd>                | Speed +0.1×      |     | <kbd>\[</kbd>                  | Speed −0.1×      |
-| <kbd>L</kbd>                 | Toggle Loop      |     | <kbd>Shift</kbd>\+<kbd>S</kbd> | Toggle Shuffle   |
+<br/>
 
-▸ View & Display
+## 🆕 What's New in v1.13
 
-| Key                             | Action             |     | Key                               | Action                  |
-| :-----------------------------: | :----------------- | :-: | :-------------------------------: | :---------------------- |
-| <kbd>F</kbd> / <kbd>Enter</kbd> | Toggle Fullscreen  |     | <kbd>Ctrl</kbd>\+<kbd>Enter</kbd> | Stretch Fullscreen      |
-| <kbd>Esc</kbd>                  | Exit Fullscreen    |     | <kbd>P</kbd>                      | Toggle Playlist Sidebar |
-| <kbd>V</kbd>                    | Toggle Visualizer  |     | <kbd>C</kbd>                      | Cycle Crop Mode         |
-| <kbd>F5</kbd>                   | Effects & EQ Panel |     | <kbd>F6</kbd>                     | Playlist Panel          |
+<details>
+<summary><b>📋 Click to expand full changelog</b></summary>
 
-▸ AI & Lyrics
+<br/>
 
-| Key                           | Action               |     | Key                           | Action                |
-| :---------------------------: | :------------------- | :-: | :---------------------------: | :-------------------- |
-| <kbd>Ctrl</kbd>\+<kbd>L</kbd> | Toggle Lyrics Panel  |     | <kbd>Ctrl</kbd>\+<kbd>T</kbd> | Translate Lyrics → EN |
-| <kbd>G</kbd>                  | Lyrics offset −0.3 s |     | <kbd>H</kbd>                  | Lyrics offset +0.3 s  |
-| <kbd>X</kbd>                  | Cycle Audio Track    |     | <kbd>Z</kbd>                  | Cycle Subtitle Track  |
+**🔴 Critical Fixes**
+- Fixed `_is_video_mode` not initialised in `__init__` → caused progress bar, time display, and auto-advance to silently break on every tick
+- Added `getattr` guard in `update_ui` for belt-and-suspenders safety
+- Fixed `wait, FIRST_COMPLETED` only imported inside function on every call → moved to top-level import
 
-▸ Plus Session Tools
+**🟠 Lyrics Engine Overhaul**
+- Rewrote `_run_fetch_chain` — uses `executor.submit(fn, *args)` directly (zero lambda/closure risk)
+- Added `_fetch_lrclib` **direct endpoint** `/api/get?track_name=…&duration=…` — was defined but never called
+- `wait()` now receives `list(remaining.keys())` — eliminates mutation-during-iteration race
+- Fail-cache TTL raised `10s → 30s` (aggressive 10s was blocking legitimate retries)
+- Tier 1 deadline `6s → 8s` · Tier 2 deadline `8s → 12s`
 
-| Key                                           | Action             |     | Key                                           | Action              |
-| :-------------------------------------------: | :----------------- | :-: | :-------------------------------------------: | :------------------ |
-| <kbd>Ctrl</kbd>\+<kbd>Alt</kbd>\+<kbd>F</kbd> | Toggle Favorite    |     | <kbd>Ctrl</kbd>\+<kbd>Alt</kbd>\+<kbd>R</kbd> | Restore Last Queue  |
-| <kbd>Ctrl</kbd>\+<kbd>Alt</kbd>\+<kbd>S</kbd> | Save Snapshot      |     | <kbd>Ctrl</kbd>\+<kbd>Alt</kbd>\+<kbd>P</kbd> | Resume Last Session |
-| <kbd>Ctrl</kbd>\+<kbd>Alt</kbd>\+<kbd>D</kbd> | Remove Duplicates  |     | <kbd>Ctrl</kbd>\+<kbd>Alt</kbd>\+<kbd>E</kbd> | Export Queue HTML   |
-| <kbd>?</kbd>                                  | Show all shortcuts |     | <kbd>F1</kbd>                                 | About dialog        |
+**🟡 Reliability Fixes**
+- `_http_get` default timeout `3.5s → 6.0s` (JioSaavn/Gaana regularly need 4–5s)
+- `_is_title_match` fuzzy threshold `0.82 → 0.72` (language suffixes no longer block)
+- `saavn.dev` handles both `"data": {…}` (dict) and `"data": [{…}]` (list) schemas
 
-   How It All Connects
+**✨ New Features**
+- Dedicated **Dolby Studio** tab in Control Panel
+- DTS mode **persists across sessions**
+- **Bookmarks** now persist in `config.json` across restarts
+- `_run_tier()` helper reduces fetch-chain code by ~60 lines
 
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0369a1,100:020c1b&height=2&section=header" width="100%"/>
+
+<br/>
+
+## 🚀 Installation
+
+<div align="center">
+
+<a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.13.exe">
+<img src="https://img.shields.io/badge/⬇%EF%B8%8F%20%20DOWNLOAD%20SANDYPLAY%20v1.13%20%20—%20%20Windows%2010%20%2F%2011%20%20·%20%2064-bit%20%20·%20%20Self--Contained-0ea5e9?style=for-the-badge&labelColor=0284c7" height="54" alt="Download"/>
+</a>
+
+</div>
+
+<br/>
+
+> **Step 1 — 📥 Download** → Click the button above
+
+> **Step 2 — 🛠️ Install** → Windows may show a SmartScreen warning. Click **More Info → Run Anyway** (100% safe). The installer auto-configures VLC 3 Engine + plugins, Visual C++ runtimes, Start Menu + Desktop shortcuts.
+
+> **Step 3 — 🚀 Launch** → Open SANDYPLAY from your Desktop shortcut
+
+> **Step 4 — 🎵 Load Media** → Drag & drop · `Ctrl+O` open file · `Ctrl+D` open folder
+
+> **Step 5 — 🤖 AI Setup** → `Misc → AI Tools` · First Whisper use downloads model once (~1.5 GB) · 100% offline after that
+
+<br/>
+
+### System Requirements
+
+<div align="center">
+
+| | Minimum | Recommended |
+|:---|:---|:---|
+| **OS** | Windows 10 64-bit | Windows 11 64-bit |
+| **CPU** | Dual-core 2 GHz | Quad-core 3 GHz+ |
+| **RAM** | 4 GB | 8 GB+ |
+| **GPU** | Integrated graphics | NVIDIA GTX 1060+ (NVDEC) |
+| **Storage** | 500 MB | 3 GB+ (with Whisper models) |
+| **Network** | Optional | Required for Dolby.io / Gemini |
+
+</div>
+
+<br/>
+
+> [!TIP]
+> **AI First-run:** `faster-whisper` downloads the Whisper model once (~1.5 GB for `medium`). After that — **fully offline, instant replay from cache**. For Gemini: free API key from [Google AI Studio](https://aistudio.google.com) works perfectly.
+
+> [!IMPORTANT]
+> **Formats:** `MP4 · MKV · AVI · MOV · WMV · WebM · FLV · M4V · MPEG · TS · VOB · 3GP` and `MP3 · FLAC · WAV · AAC · M4A · OGG · WMA · OPUS · AC3 · EAC3 · THD · ALAC` — if LibVLC decodes it, SANDYPLAY plays it.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0369a1,100:020c1b&height=2&section=header" width="100%"/>
+
+<br/>
+
+## ⌨️ Keyboard Reference
+
+<div align="center">
+
+### 🎬 Playback
+
+| Key | Action | Key | Action |
+|:---:|:---|:---:|:---|
+| `Space` | Play / Pause | `S` | Stop |
+| `N` | Next Track | `B` | Previous Track |
+| `→` | Seek +10s | `←` | Seek −10s |
+| `Alt+→` | Seek +30s | `Alt+←` | Seek −30s |
+| `↑` | Volume +5% | `↓` | Volume −5% |
+| `M` | Mute / Unmute | `E` | Frame Step |
+| `]` | Speed +0.1× | `[` | Speed −0.1× |
+| `L` | Toggle Loop | `Shift+S` | Toggle Shuffle |
+
+### 🖥️ View & Display
+
+| Key | Action | Key | Action |
+|:---:|:---|:---:|:---|
+| `F` / `Enter` | Toggle Fullscreen | `Ctrl+Enter` | Stretch Fullscreen |
+| `Esc` | Exit Fullscreen | `P` | Toggle Playlist |
+| `V` | Toggle Visualizer | `C` | Cycle Crop Mode |
+| `F5` | Effects & EQ Panel | `F6` | Playlist Panel |
+
+### 🤖 AI & Lyrics
+
+| Key | Action | Key | Action |
+|:---:|:---|:---:|:---|
+| `Ctrl+L` | Toggle Lyrics Panel | `Ctrl+T` | Translate Lyrics |
+| `G` | Lyrics offset −0.3s | `H` | Lyrics offset +0.3s |
+| `X` | Cycle Audio Track | `Z` | Cycle Subtitle Track |
+
+### 💾 Session Tools
+
+| Key | Action | Key | Action |
+|:---:|:---|:---:|:---|
+| `Ctrl+Alt+F` | Toggle Favorite | `Ctrl+Alt+R` | Restore Last Queue |
+| `Ctrl+Alt+S` | Save Snapshot | `Ctrl+Alt+P` | Resume Session |
+| `Ctrl+Alt+D` | Remove Duplicates | `Ctrl+Alt+E` | Export Queue HTML |
+| `?` | Show All Shortcuts | `F1` | About Dialog |
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0369a1,100:020c1b&height=2&section=header" width="100%"/>
+
+<br/>
+
+## 🏗️ Architecture
+
+```mermaid
 graph TB
-    subgraph INPUT["📥  Input Sources"]
+    subgraph INPUT["📥 Input Sources"]
         L["📁 Local Files\n.mp4 .mkv .mp3 .flac…"]
         S["📡 Streams\nYouTube · Twitch · HTTP"]
         D["🖱️ Drag & Drop\nBatch folders"]
     end
-
-    subgraph CORE["⚙️  Core Engine  (python-vlc / LibVLC 3.x)"]
+    subgraph CORE["⚙️ Core Engine — python-vlc / LibVLC 3.x"]
         VLC["🎬 VLC Media Player\nDecoding · A/V sync · HW accel"]
-        DSP["🎛️ DSP Chain\nSpatializer · Headphone · Compressor · normvol"]
+        DSP["🎛️ DSP Chain\nSpatializer · Compressor · normvol"]
         EQ["🎚️ 10-Band Equalizer\n±20 dB · auto preamp"]
     end
-
-    subgraph AI["🤖  AI Layer"]
-        W["🎙️ faster-whisper\nLocal subtitle engine (offline)"]
-        G["🧠 Gemini 1.5 Flash\nTranslation · Captions · Smart Playlists"]
-        LY["🎤 Lyrics Network\n14 sources · 3-tier parallel pipeline"]
+    subgraph AI["🤖 AI Layer"]
+        W["🎙️ faster-whisper\nLocal offline subtitles"]
+        G["🧠 Gemini 1.5 Flash\nTranslation · Captions · Playlists"]
+        LY["🎤 Lyrics Network\n14 sources · 3-tier pipeline"]
     end
-
-    subgraph CLOUD["☁️  Cloud Services"]
-        DOL["🎧 Dolby.io\nAudio mastering API"]
+    subgraph CLOUD["☁️ Cloud Services"]
+        DOL["🎧 Dolby.io\nAudio mastering"]
         YT["📺 yt-dlp\n1000+ site resolver"]
     end
-
-    subgraph UI["🖥️  PyQt6 UI  (Glassmorphism)"]
+    subgraph UI["🖥️ PyQt6 UI — Glassmorphism"]
         VW["🎬 VideoWidget\nVLC render surface"]
         MW["🎵 MusicWidget\nArt · Lyrics · Visualizer"]
-        CB["🎛️ Control Bar\nFloating island (fullscreen)"]
+        CB["🎛️ Control Bar\nFloating island fullscreen"]
         VIS["🌊 48-Band Visualizer\nCustom QPainter canvas"]
     end
-
     INPUT --> CORE
     CORE --> DSP --> EQ
     CORE --> AI
     AI --> CLOUD
     CORE --> UI
     AI --> UI
+```
 
-   Built With the Best Tools
+<br/>
 
-| Component            | Technology              | Version | Purpose                                       |
-| :------------------- | :---------------------- | :-----: | :-------------------------------------------- |
-| 🖥️ **GUI Framework** | PyQt6                   | 6.x     | Glassmorphism UI, animations, custom painting |
-| 🎬 **Media Engine**   | python-vlc / LibVLC     | 3.x     | Decoding, playback, hardware acceleration     |
-| 🤖 **AI Subtitles**   | faster-whisper          | latest  | Local on-device speech-to-text (offline)      |
-| 🧠 **LLM Engine**     | Google Gemini 1.5 Flash | API     | Translation, captions, AI smart tools         |
-| ☁️ **Cloud Audio**   | Dolby.io REST API       | v1      | Professional de-noise, master, normalize      |
-| 🎵 **Lyrics \#1**     | LRCLib                  | API     | Synced LRC — primary global source            |
-| 🎵 **Lyrics \#2**     | Kugou                   | API     | Synced LRC — 50M+ Asian catalog               |
-| 🎵 **Lyrics \#3**     | JioSaavn (saavn.dev)    | API     | Plain — India's largest catalog               |
-| 📡 **Streaming**      | yt-dlp                  | latest  | YouTube, Twitch, SoundCloud + 1000 sites      |
-| 🏷️ **Tag Reading**   | mutagen                 | latest  | ID3 / MP4 / FLAC metadata + artwork           |
-| 🔉 **Resampler**      | SoX (via VLC)           | —       | Highest-quality pitch-locked audio            |
-| 📊 **Fuzzy Match**    | difflib                 | stdlib  | Title similarity for lyrics source matching   |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0369a1,100:020c1b&height=2&section=header" width="100%"/>
 
-   Where We're Headed
+<br/>
 
-| Status            | Feature                                                             | Target |
-| :---------------: | :------------------------------------------------------------------ | :----: |
-| ✅ **Done**        | 3-tier parallel lyrics fetch with Gemini AI fallback                | v1.13  |
-| ✅ **Done**        | Dolby.io one-click cloud audio mastering                            | v1.13  |
-| ✅ **Done**        | Whisper AI local subtitle generation (offline)                      | v1.12  |
-| ✅ **Done**        | DTS Studio simulation — Music / Movies / Games                      | v1.12  |
-| 🔄 **In Progress** | Lyrics contributor mode — submit user corrections                   | v1.14  |
-| 🔄 **In Progress** | Apple Music / Spotify album artwork fetch                           | v1.14  |
-| 📋 **Planned**     | Linux (Ubuntu / Debian) native build                                | v1.15  |
-| 📋 **Planned**     | Podcast mode with chapter markers                                   | v1.15  |
-| 📋 **Planned**     | Watch Party — synchronized LAN playback                             | v1.16  |
-| 💡 **Idea**        | macOS support                                                       | TBD    |
-| 💡 **Idea**        | Mobile companion app (Android)                                      | TBD    |
-| 💡 **Idea**        | Gemini-powered "DJ mode" auto-playlist                              | TBD    |
-| 💡 **Idea**        | Discord Rich Presence (Show "Now Playing" on profile)               | TBD    |
-| 💡 **Idea**        | Cloud Sync for settings, queues, & playlists (Drive/Dropbox)        | TBD    |
-| 💡 **Idea**        | Custom CSS/JSON Theme Engine for personalized UI                    | TBD    |
-| 💡 **Idea**        | Dual-language automated lyrics (Original + Translated side-by-side) | TBD    |
+## 🛠️ Tech Stack
 
-   Built With ❤️ by Sandytalks
+<div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   SANDYPLAY is crafted from scratch by Santhosh (Sandytalks)
-   A solo developer building something truly extraordinary.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img src="https://skillicons.dev/icons?i=python,qt,github,vscode&theme=dark" alt="Tech Icons"/>
 
-Instagram GitHub
+<br/><br/>
 
-◈ ─────────────────────────────────────────────────────────── ◈
-  ⭐  If SANDYPLAY elevated your listening or viewing experience,
-      a star on GitHub means the world to this project.
-      It helps others discover it — and fuels the next version.
-◈ ─────────────────────────────────────────────────────────── ◈
+| Component | Technology | Version | Purpose |
+|:---|:---|:---:|:---|
+| 🖥️ **GUI Framework** | PyQt6 | 6.x | Glassmorphism UI, animations, custom painting |
+| 🎬 **Media Engine** | python-vlc / LibVLC | 3.x | Decoding, playback, hardware acceleration |
+| 🤖 **AI Subtitles** | faster-whisper | latest | Local on-device speech-to-text (offline) |
+| 🧠 **LLM Engine** | Google Gemini 1.5 Flash | API | Translation, captions, smart tools |
+| ☁️ **Cloud Audio** | Dolby.io REST API | v1 | De-noise, master, normalize |
+| 🎵 **Lyrics #1** | LRCLib | API | Synced LRC — primary global source |
+| 🎵 **Lyrics #2** | Kugou | API | Synced LRC — 50M+ Asian catalog |
+| 🎵 **Lyrics #3** | JioSaavn (saavn.dev) | API | Plain — India's largest catalog |
+| 📡 **Streaming** | yt-dlp | latest | YouTube, Twitch, SoundCloud + 1000 sites |
+| 🏷️ **Tag Reading** | mutagen | latest | ID3 / MP4 / FLAC metadata + artwork |
+| 🔉 **Resampler** | SoX (via VLC) | — | Highest-quality pitch-locked audio |
+| 📊 **Fuzzy Match** | difflib | stdlib | Title similarity for lyrics matching |
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0369a1,100:020c1b&height=2&section=header" width="100%"/>
+
+<br/>
+
+## 🗺️ Roadmap
+
+<details>
+<summary><b>🔮 Click to expand the full roadmap</b></summary>
+
+<br/>
+
+| Status | Feature | Target |
+|:---:|:---|:---:|
+| ✅ Done | 3-tier parallel lyrics fetch with Gemini AI fallback | v1.13 |
+| ✅ Done | Dolby.io one-click cloud audio mastering | v1.13 |
+| ✅ Done | Whisper AI local subtitle generation (offline) | v1.12 |
+| ✅ Done | DTS Studio simulation — Music / Movies / Games | v1.12 |
+| 🔄 In Progress | Lyrics contributor mode — submit corrections | v1.14 |
+| 🔄 In Progress | Apple Music / Spotify artwork fetch | v1.14 |
+| 📋 Planned | Linux (Ubuntu / Debian) native build | v1.15 |
+| 📋 Planned | Podcast mode with chapter markers | v1.15 |
+| 📋 Planned | Watch Party — synchronized LAN playback | v1.16 |
+| 💡 Idea | Discord Rich Presence — Show "Now Playing" on profile | TBD |
+| 💡 Idea | Cloud Sync for settings, queues & playlists | TBD |
+| 💡 Idea | Custom CSS / JSON Theme Engine | TBD |
+| 💡 Idea | Gemini-powered "DJ Mode" auto-playlist | TBD |
+| 💡 Idea | macOS support | TBD |
+| 💡 Idea | Mobile companion app (Android) | TBD |
+
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0369a1,100:020c1b&height=2&section=header" width="100%"/>
+
+<br/>
+
+## ❓ FAQ
+
+<details>
+<summary><b>Do I need a GPU?</b></summary>
+<br/>
+No. SANDYPLAY works perfectly on CPU-only. An NVIDIA GPU unlocks NVDEC hardware acceleration (toggle with the <code>HW</code> button) for smoother 4K and lower CPU usage — but it's completely optional.
+</details>
+
+<details>
+<summary><b>Does Whisper AI work offline?</b></summary>
+<br/>
+Yes, 100%. After the one-time model download (~1.5 GB for <code>medium</code>), Whisper runs entirely locally with no internet required. Subtitles are cached and load instantly on replay.
+</details>
+
+<details>
+<summary><b>What API keys do I need?</b></summary>
+<br/>
+
+| Feature | Key Required | Free? |
+|:---|:---|:---:|
+| Core playback, EQ, DTS | None | ✅ |
+| Lyrics (all 14 sources) | None | ✅ |
+| Whisper AI subtitles | None | ✅ |
+| Gemini translation & captions | Google AI Studio key | ✅ |
+| Dolby.io cloud mastering | Dolby App Key + Secret | ✅ free tier |
+
+</details>
+
+<details>
+<summary><b>Why aren't lyrics showing?</b></summary>
+<br/>
+
+1. **Check the status bar** — it shows which tier is being searched live
+2. **Manual Search** → `Misc → Search Lyrics Manually` — clean the title (remove "Official Video", remix tags, etc.)
+3. **Paste manually** → `Misc → Paste Lyrics Text` — supports plain text and LRC format
+4. **Indian music** — JioSaavn and Gaana (Tier 2) have the best TA/HI/TE/ML coverage
+</details>
+
+<details>
+<summary><b>Can I use it as a YouTube / streaming client?</b></summary>
+<br/>
+Yes! Press <code>Ctrl+U</code>, paste any YouTube, Twitch, SoundCloud, or Dailymotion URL. SANDYPLAY resolves and plays it via <strong>yt-dlp</strong> (1000+ sites). Playlists auto-expand. Streams mix freely with local files.
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0369a1,100:020c1b&height=2&section=header" width="100%"/>
+
+<br/>
+
+## 🤝 Connect
+
+<div align="center">
+
+**Built from scratch with ❤️ by Santhosh — [Sandytalks](https://www.instagram.com/itsyouhuman/)**
+
+*A solo developer crafting something truly extraordinary.*
+
+<br/>
+
+[![Instagram](https://img.shields.io/badge/@itsyouhuman-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0000)](https://www.instagram.com/itsyouhuman/)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/itsyouhuman/SandyPlay)
+[![Download](https://img.shields.io/badge/⬇%EF%B8%8F_Download_v1.13-0ea5e9?style=for-the-badge&labelColor=0284c7)](https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.13.exe)
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=itsyouhuman/SandyPlay&type=Date&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=itsyouhuman/SandyPlay&type=Date"/>
+  <img src="https://api.star-history.com/svg?repos=itsyouhuman/SandyPlay&type=Date&theme=dark" alt="Star History" width="70%"/>
+</picture>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:0369a1,100:0ea5e9&height=2&section=header" width="100%"/>
+
+<br/>
+
+> ⭐ **If SANDYPLAY elevated your listening or viewing experience, a star on GitHub means the world.**
+> It helps others discover the project — and keeps the motivation burning for the next version.
+
+<br/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,30:0369a1,65:071428,100:000000&height=170&section=footer&animation=fadeIn&text=SANDYPLAY%20v1.13&fontSize=30&fontColor=ffffff&fontAlignY=62&desc=The%20AI%20Media%20Studio%20that%20plays%20everything%20◈%20Free%20%26%20Open%20Source%20◈%20Windows%2010%20%2F%2011&descAlignY=80&descSize=13" width="100%"/>
