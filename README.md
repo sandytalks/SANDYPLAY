@@ -577,7 +577,7 @@ Yes! Press <code>Ctrl+U</code>, paste any YouTube, Twitch, SoundCloud, or Dailym
 
 [![Instagram](https://img.shields.io/badge/@itsyouhuman-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0000)](https://www.instagram.com/itsyouhuman/)
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/itsyouhuman/SandyPlay)
-[![Download](https://img.shields.io/badge/⬇%EF%B8%8F_Download_v1.13-0ea5e9?style=for-the-badge&labelColor=0284c7)](https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.13.exe)
+
 
 <br/>
 
