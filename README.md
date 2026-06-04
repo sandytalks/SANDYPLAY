@@ -578,7 +578,7 @@ graph TB
 
 ## 🗺️ Roadmap
 
-<details>
+
 
 <br/>
 
