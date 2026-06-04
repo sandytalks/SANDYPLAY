@@ -389,7 +389,7 @@ flowchart TD
 
 ## 🚀 Installation
 
-> *Read the installation steps before downloading!*
+> Read the installation steps before downloading!
 
 <div align="center">
 
