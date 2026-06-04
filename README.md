@@ -775,26 +775,24 @@ graph TB
 </div>
 
 <br/><br/>
-
+<br/><br/>
+ 
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!-- ║                      ROADMAP                                 ║ -->
 <!-- ════════════════════════════════════════════════════════════════ -->
-
+ 
 ## <img src="https://img.shields.io/badge/10-ROADMAP-22c55e?style=for-the-badge&labelColor=001a08"/> &nbsp; Where We're Headed
-
+ 
 <br/>
-
 <details>
 <summary><b>&nbsp;🔮 &nbsp; Click to see the full feature roadmap &nbsp;&nbsp;▼</b></summary>
-
 <br/>
-
 | Status | Feature | Target |
 |:---:|:---|:---:|
 | ✅ **Done** | 3-tier parallel lyrics fetch with Gemini AI fallback | v1.13 |
 | ✅ **Done** | Dolby.io one-click cloud audio mastering | v1.13 |
-| ✅ **Done** | Whisper AI local subtitle generation (offline) | v1.13 |
-| ✅ **Done** | DTS Studio simulation — Music / Movies / Games | v1.13 |
+| ✅ **Done** | Whisper AI local subtitle generation (offline) | v1.12 |
+| ✅ **Done** | DTS Studio simulation — Music / Movies / Games | v1.12 |
 | 🔄 **In Progress** | Lyrics contributor mode — submit user corrections | v1.14 |
 | 🔄 **In Progress** | Apple Music / Spotify album artwork fetch | v1.14 |
 | 📋 **Planned** | Linux (Ubuntu / Debian) native build | v1.15 |
@@ -803,157 +801,6 @@ graph TB
 | 💡 **Idea** | macOS support | TBD |
 | 💡 **Idea** | Mobile companion app (Android) | TBD |
 | 💡 **Idea** | Gemini-powered "DJ mode" auto-playlist | TBD |
-
+ 
 </details>
-
 <br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0369a1,100:020c1b&height=1&section=header" width="100%"/>
-</div>
-
-<br/><br/>
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- ║                       FAQ                                    ║ -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://img.shields.io/badge/11-FAQ-8b5cf6?style=for-the-badge&labelColor=0f0f1a"/> &nbsp; Frequently Asked Questions
-
-<br/>
-
-<details>
-<summary><b>&nbsp;❓ &nbsp; Do I need a GPU to use SANDYPLAY? &nbsp;&nbsp;▼</b></summary>
-<br/>
-
-**No** — SANDYPLAY works perfectly with CPU-only decoding. An **NVIDIA GPU** unlocks hardware NVDEC acceleration (toggle with the `HW` button) for smoother 4K playback and significantly reduced CPU load, but it is completely optional.
-
-</details>
-
-<details>
-<summary><b>&nbsp;❓ &nbsp; Does Whisper AI work offline? &nbsp;&nbsp;▼</b></summary>
-<br/>
-
-**Yes, 100%.** After the one-time model download (~1.5 GB for the `medium` model), Whisper runs entirely on your machine — **no internet connection required**. Generated subtitles are cached to disk and load instantly on every subsequent replay.
-
-</details>
-
-<details>
-<summary><b>&nbsp;❓ &nbsp; What API keys do I need? &nbsp;&nbsp;▼</b></summary>
-<br/>
-
-| Feature | Key Required | Free? |
-|:---|:---|:---:|
-| Core playback, EQ, DTS simulation | None | ✅ |
-| Lyrics fetching (all 14 sources) | None | ✅ |
-| Whisper AI subtitles | None | ✅ |
-| Gemini AI translation & captions | Google AI Studio key | ✅ free tier |
-| Dolby.io cloud audio mastering | Dolby App Key + Secret | ✅ free tier |
-
-</details>
-
-<details>
-<summary><b>&nbsp;❓ &nbsp; Why aren't lyrics showing for my track? &nbsp;&nbsp;▼</b></summary>
-<br/>
-
-1. **Check the status bar** — it shows exactly which tier is being searched in real time
-2. **Try Manual Search** → `Misc → Search Lyrics Manually` → clean the title (remove "Official Video", "Remix", year tags, etc.)
-3. **Paste manually** → `Misc → Paste Lyrics Text` — supports both plain text and LRC format
-4. **Indian music tip** — JioSaavn and Gaana have the best Tamil/Hindi/Telugu/Malayalam coverage; they run in Tier 2 if Tier 1 synced sources miss
-
-</details>
-
-<details>
-<summary><b>&nbsp;❓ &nbsp; Can I use SANDYPLAY as a YouTube / streaming client? &nbsp;&nbsp;▼</b></summary>
-<br/>
-
-**Absolutely.** Press `Ctrl+U`, paste any YouTube, Twitch, SoundCloud, or Dailymotion URL, and SANDYPLAY resolves and plays it via **yt-dlp** (supports 1000+ sites). Playlists auto-expand. Streams mix freely with local files in your queue.
-
-</details>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0369a1,100:020c1b&height=1&section=header" width="100%"/>
-</div>
-
-<br/><br/>
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- ║                     CONNECT                                  ║ -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://img.shields.io/badge/12-CONNECT-ef4444?style=for-the-badge&labelColor=1a0000"/> &nbsp; Built With ❤️ by Sandytalks
-
-<br/>
-
-<div align="center">
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   SANDYPLAY is crafted from scratch by Santhosh (Sandytalks)
-   A solo developer building something truly extraordinary.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-<br/>
-
-[![Instagram](https://img.shields.io/badge/@itsyouhuman-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0000)](https://www.instagram.com/itsyouhuman/)&emsp;[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/itsyouhuman/SandyPlay)
-
-<br/><br/>
-
-<!-- Star History -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://api.star-history.com/svg?repos=itsyouhuman/SandyPlay&type=Date&theme=dark"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://api.star-history.com/svg?repos=itsyouhuman/SandyPlay&type=Date"/>
-  <img src="https://api.star-history.com/svg?repos=itsyouhuman/SandyPlay&type=Date&theme=dark"
-    alt="Star History Chart" width="72%"/>
-</picture>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,33:0369a1,66:071428,100:0ea5e9&height=2&section=header" width="100%"/>
-
-<br/>
-
-```
-◈ ─────────────────────────────────────────────────────────── ◈
-  ⭐  If SANDYPLAY elevated your listening or viewing experience,
-      a star on GitHub means the world to this project.
-      It helps others discover it — and fuels the next version.
-◈ ─────────────────────────────────────────────────────────── ◈
-```
-
-</div>
-
-<br/>
-
-
-<!-- ════ FOOTER WAVE ════ -->
-<div align="center" style="margin-top: 40px;">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 180" width="100%">
-    <defs>
-      <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%"   stop-color="#0ea5e9"/>
-        <stop offset="30%"  stop-color="#0369a1"/>
-        <stop offset="65%"  stop-color="#071428"/>
-        <stop offset="100%" stop-color="#000000"/>
-      </linearGradient>
-    </defs>
-    <path fill="url(#waveGrad)"
-      d="M0,60 C240,120 480,0 720,60 C960,120 1200,20 1440,80 L1440,180 L0,180 Z"/>
-    <text x="50%" y="128" text-anchor="middle"
-      font-family="Arial, sans-serif" font-size="28" fill="#ffffff" font-weight="bold">
-      SANDYPLAY v1.13
-    </text>
-    <text x="50%" y="152" text-anchor="middle"
-      font-family="Arial, sans-serif" font-size="13" fill="#cbd5e1">
-      The AI Media Studio that plays everything ◈ Free &amp; Open Source
-    </text>
-  </svg>
-</div>
-
-<!-- ══════════════════════  FOOTER WAVE  ══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,40:0369a1,75:071428,100:030712&height=150&section=footer&animation=fadeIn" width="100%"/>
