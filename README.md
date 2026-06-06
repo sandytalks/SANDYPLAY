@@ -516,8 +516,6 @@ graph TB
 
 ## 🗺️ Roadmap
 
-<details>
-<summary><b>🔮 Click to expand the full roadmap</b></summary>
 
 <br/>
 
@@ -531,8 +529,8 @@ graph TB
 | ✅ Done | Video color controls (brightness/contrast/saturation/hue) | v1.13 |
 | ✅ Done | Deinterlacing (7 modes) | v1.13 |
 | ✅ Done | Whisper AI auto-generate toggle | v1.13 |
-| ✅ Done | Whisper AI local subtitle generation (14 models, offline) | v1.12 |
-| ✅ Done | DTS Studio simulation — Music / Movies / Games | v1.12 |
+| ✅ Done | Whisper AI local subtitle generation (14 models, offline) | v1.13 |
+| ✅ Done | DTS Studio simulation — Music / Movies / Games | v1.13 |
 | 🔄 In Progress | Lyrics contributor mode — submit user corrections | v1.14 |
 | 🔄 In Progress | Apple Music / Spotify album artwork fetch | v1.14 |
 | 📋 Planned | Linux (Ubuntu / Debian) native build | v1.15 |
