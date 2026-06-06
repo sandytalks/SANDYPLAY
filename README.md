@@ -14,7 +14,6 @@
 
 [![Release](https://img.shields.io/badge/VERSION-v1.13-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=020c1b)](https://github.com/itsyouhuman/SandyPlay/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/itsyouhuman/SandyPlay/total?style=for-the-badge&color=22c55e&label=DOWNLOADS&logo=github&labelColor=020c1b)](https://github.com/itsyouhuman/SandyPlay/releases)
-[![Windows](https://img.shields.io/badge/WINDOWS-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b)](https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.13.exe)
 [![Python](https://img.shields.io/badge/PYTHON-3.10%2B-FFD43B?style=for-the-badge&logo=python&logoColor=black&labelColor=020c1b)](https://python.org)
 [![License](https://img.shields.io/badge/LICENSE-MIT-a855f7?style=for-the-badge&labelColor=020c1b)](LICENSE)
 
@@ -622,7 +621,6 @@ Yes! Press <code>Ctrl+U</code>, paste any YouTube, Twitch, SoundCloud, or Dailym
 
 [![Instagram](https://img.shields.io/badge/@itsyouhuman-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0000)](https://www.instagram.com/itsyouhuman/)
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/itsyouhuman/SandyPlay)
-[![Download](https://img.shields.io/badge/⬇%EF%B8%8F_Download_v1.13-0ea5e9?style=for-the-badge&labelColor=0284c7)](https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.13.exe)
 
 <br/>
 
