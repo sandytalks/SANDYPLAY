@@ -279,7 +279,7 @@ TRACK STARTS
 
 **🎬 Video Mode** — Floating island control bar · Whisper AI subtitle overlay · Ambient color extraction · HDR simulation · Live color/deinterlace controls
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0284c7,100:0ea5e9&height=3&section=header" width="93%"/>
+<img src="video sample pic.png" width="93%"/>
 
 <br/>
 
@@ -287,7 +287,7 @@ TRACK STARTS
 
 **🎵 Music Mode** — Real-time synced LRC lyrics · 48-band ~90fps PyAV-synced visualizer · Album artwork · Bilingual translation panel
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:8b5cf6&height=3&section=header" width="93%"/>
+<img src="audio sample pic.png" width="93%"/>
 
 </div>
 
@@ -359,7 +359,7 @@ TRACK STARTS
 
 <div align="center">
 
-### ⬇️ Download SANDYPLAY v1.13
+### ⬇️ Download and read the Steps Before Installation
 
 [![Download Button](https://img.shields.io/badge/⬇%EF%B8%8F%20%20DOWNLOAD%20SandyPlay_Setup_v1.13.exe%20%20—%20%20Windows%2010%20%2F%2011%20%2064--bit%20%20—%20%20Self--Contained-0ea5e9?style=for-the-badge&labelColor=0284c7)](https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.13.exe)
 
