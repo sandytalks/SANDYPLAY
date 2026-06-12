@@ -177,37 +177,9 @@ Designed and developed by **Santhosh (Sandytalks)** — built for people who tak
 
 ## 📦 Installation
 
-### Requirements
 
-```
-Python 3.10+
-VLC Media Player (64-bit)  →  https://www.videolan.org
-```
 
-### Install Dependencies
-
-```bash
-pip install PyQt6 python-vlc yt-dlp faster-whisper mutagen dolbyio-rest-apis
-```
-
-> **Optional but recommended:**
-> ```bash
-> pip install pyav numpy  # For waveform-synced visualizer
-> ```
-
-### Run from Source
-
-```bash
-git clone https://github.com/sandytalks/SANDYPLAY.git
-cd SANDYPLAY
-python sandyplay.py
-```
-
-### Windows Installer
-
-Download the latest `.exe` from [**Releases →**](https://github.com/sandytalks/SANDYPLAY/releases/latest)
-
-> No Python required. VLC must still be installed separately.
+Download the latest `.exe` from [**Releases →**](https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.14.exe)
 
 ---
 
