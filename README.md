@@ -549,7 +549,7 @@ Channels **auto-refresh every 24 hours** from cached `iptv_playlist.m3u`. Adult 
 
 <div align="center">
 
-<a href="https://github.com/sandytalks/SANDYPLAY/releases/latest">
+<a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplayv1_15/SandyPlay_Setup_v1.15.exe">
 <img src="https://img.shields.io/badge/⬇️%20%20DOWNLOAD%20SANDYPLAY%20v1.15%20—%20Windows%2010%20%2F%2011%20·%2064--bit%20·%20Self--Contained-0ea5e9?style=for-the-badge&labelColor=0284c7" height="54" alt="Download SandyPlay"/>
 </a>
 
