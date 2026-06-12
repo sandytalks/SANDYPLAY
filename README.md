@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![Release](https://img.shields.io/badge/VERSION-v1.14-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=020c1b)](https://github.com/sandytalks/SANDYPLAY/releases/latest)
+[![Release](https://img.shields.io/badge/VERSION-v1.15-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=020c1b)](https://github.com/sandytalks/SANDYPLAY/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/sandytalks/SANDYPLAY/total?style=for-the-badge&color=22c55e&label=DOWNLOADS&logo=github&labelColor=020c1b)](https://github.com/sandytalks/SANDYPLAY/releases)
 [![Windows](https://img.shields.io/badge/WINDOWS-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b)](https://github.com/sandytalks/SANDYPLAY/releases/latest)
 [![Python](https://img.shields.io/badge/PYTHON-3.10%2B-FFD43B?style=for-the-badge&logo=python&logoColor=black&labelColor=020c1b)](https://python.org)
@@ -58,7 +58,7 @@
 <br/>
 
 > [!NOTE]
-> **SANDYPLAY v1.14** is not just a media player — it is a **complete AI multimedia production studio** for Windows, built by a solo developer from scratch.
+> **SANDYPLAY v1.15** is not just a media player — it is a **complete AI multimedia production studio** for Windows, built by a solo developer from scratch.
 > Powered by **LibVLC** + **PyQt6** glassmorphism UI, integrating **OpenAI Whisper** (100% offline subtitles), **Gemini 1.5 Flash** (translation, smart playlists, AI captions), and **Dolby.io** (one-click professional cloud audio mastering).
 >
 > **Free. Open-source. Self-contained.**
@@ -262,6 +262,8 @@
 | **📂 Playlist Save** | `#EXTM3U` format |
 | **⏱️ Progress** | Custom `SeekSlider` · click-to-seek · hover-tooltip · `set_position()` |
 | **📣 OSD** | Centered overlay with fade animation · `QGraphicsOpacityEffect` + `QPropertyAnimation` |
+| **🪟 Mini Player** | Compact floating mode for distraction-free listening |
+| **⏱️ Sleep Timer** | Auto-shutdown playback after a chosen number of minutes |
 
 </details>
 
@@ -548,7 +550,7 @@ Channels **auto-refresh every 24 hours** from cached `iptv_playlist.m3u`. Adult 
 <div align="center">
 
 <a href="https://github.com/sandytalks/SANDYPLAY/releases/latest">
-<img src="https://img.shields.io/badge/⬇️%20%20DOWNLOAD%20SANDYPLAY%20v1.14%20—%20Windows%2010%20%2F%2011%20·%2064--bit%20·%20Self--Contained-0ea5e9?style=for-the-badge&labelColor=0284c7" height="54" alt="Download SandyPlay"/>
+<img src="https://img.shields.io/badge/⬇️%20%20DOWNLOAD%20SANDYPLAY%20v1.15%20—%20Windows%2010%20%2F%2011%20·%2064--bit%20·%20Self--Contained-0ea5e9?style=for-the-badge&labelColor=0284c7" height="54" alt="Download SandyPlay"/>
 </a>
 
 </div>
@@ -801,8 +803,10 @@ graph TB
 | ✅ Done | Online Music Studio (YouTube + JioSaavn + SoundCloud + Apple) | v1.14 |
 | ✅ Done | Online TV Studio (IPTV by Genre / Language / Region) | v1.14 |
 | ✅ Done | DTS mode + bookmarks persist across sessions | v1.14 |
-| 🔄 In Progress | Lyrics contributor mode — submit corrections | v1.15 |
-| 🔄 In Progress | Apple Music / Spotify album artwork fetch | v1.15 |
+| ✅ Done | Stunning Modern Installer UI with custom AI Banners & Typography | v1.15 |
+| ✅ Done | Multi-thread concurrency engine & Portable FFmpeg detection | v1.15 |
+| ✅ Done | Mini Player / compact floating window | v1.15 |
+| ✅ Done | Sleep Timer — auto-shutdown playback | v1.15 |
 | 📋 Planned | Linux (Ubuntu / Debian) native build | v1.16 |
 | 📋 Planned | Podcast mode with RSS feed + chapter markers | v1.16 |
 | 📋 Planned | Watch Party — synchronized LAN playback | v1.17 |
@@ -810,7 +814,6 @@ graph TB
 | 💡 Idea | Cloud sync for settings, queues, and playlists | TBD |
 | 💡 Idea | Custom JSON Theme Engine | TBD |
 | 💡 Idea | Gemini-powered "DJ Mode" — smart auto-playlist | TBD |
-| 💡 Idea | Mini Player / compact floating window | TBD |
 | 💡 Idea | macOS support | TBD |
 | 💡 Idea | Android companion remote control app | TBD |
 
@@ -987,4 +990,4 @@ Dolby.io REST APIs (commercial, free tier) · Google Gemini API (commercial, fre
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,30:0369a1,65:071428,100:000000&height=200&section=footer&animation=fadeIn&text=SANDYPLAY%20v1.14&fontSize=36&fontColor=ffffff&fontAlignY=58&desc=The%20AI%20Media%20Studio%20that%20plays%20everything%20◈%20Free%20%26%20Open%20Source%20◈%20Windows%2010%20%2F%2011&descAlignY=78&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,30:0369a1,65:071428,100:000000&height=200&section=footer&animation=fadeIn&text=SANDYPLAY%20v1.15&fontSize=36&fontColor=ffffff&fontAlignY=58&desc=The%20AI%20Media%20Studio%20that%20plays%20everything%20◈%20Free%20%26%20Open%20Source%20◈%20Windows%2010%20%2F%2011&descAlignY=78&descSize=14" width="100%"/>
