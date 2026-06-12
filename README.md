@@ -294,7 +294,7 @@
 
 <br/>
 
-## 🎤 Lyrics Engine
+## 🎤 Lyrics Engine - World's 🥇 Lyrics Fetching System by Sandytalks
 
 <div align="center">
 
@@ -543,7 +543,7 @@ Channels **auto-refresh every 24 hours** from cached `iptv_playlist.m3u`. Adult 
 
 <br/>
 
-## 🚀 Installation
+## 🚀 Installation - Read the Steps Before Installation
 
 <div align="center">
 
@@ -583,45 +583,6 @@ Channels **auto-refresh every 24 hours** from cached `iptv_playlist.m3u`. Adult 
 </div>
 
 <br/>
-
-### Run from Source
-
-```bash
-# 1. Clone
-git clone https://github.com/sandytalks/SANDYPLAY.git
-cd SANDYPLAY
-
-# 2. Install dependencies
-pip install PyQt6 python-vlc yt-dlp faster-whisper mutagen dolbyio-rest-apis
-
-# Optional (for waveform-synced visualizer bars)
-pip install av numpy
-
-# 3. Launch
-python sandyplay.py
-```
-
-> **VLC must be installed separately:** https://www.videolan.org (64-bit version)
-
-### Configure AI Features
-
-```bash
-# Gemini (translation, captions, smart playlist, AI fallback lyrics)
-# Option A — environment variable
-set GEMINI_API_KEY=your_key_here        # Windows CMD
-$env:GEMINI_API_KEY="your_key_here"     # PowerShell
-
-# Option B — edit sandyplay.py line ~30
-MY_GEMINI_API_KEY = "your_key_here"
-```
-
-Get your **free** Gemini key at [aistudio.google.com](https://aistudio.google.com/app/apikey)
-
-```
-# Dolby.io Cloud Audio Mastering
-Go to: Misc → Dolby & DTS Studio tab
-Enter: App Key + App Secret from dolby.io (free tier available)
-```
 
 <br/>
 
@@ -827,8 +788,6 @@ graph TB
 
 ## 🗺️ Roadmap
 
-<details>
-<summary><b>🔮 Click to expand the full roadmap</b></summary>
 
 <br/>
 
@@ -838,7 +797,7 @@ graph TB
 | ✅ Done | Dolby.io one-click cloud audio mastering | v1.13 |
 | ✅ Done | Whisper AI local subtitle generation (offline) | v1.13 |
 | ✅ Done | DTS Studio simulation — Music / Movies / Games | v1.13 |
-| ✅ Done | Hardware SDR FM Tuner (RTL-SDR) | v1.13 |
+| ✅ Done | Online FM and Hardware SDR FM Tuner for Offline(RTL-SDR) | v1.13 |
 | ✅ Done | Online Music Studio (YouTube + JioSaavn + SoundCloud + Apple) | v1.14 |
 | ✅ Done | Online TV Studio (IPTV by Genre / Language / Region) | v1.14 |
 | ✅ Done | DTS mode + bookmarks persist across sessions | v1.14 |
@@ -968,10 +927,10 @@ Here's how you can help:
 ```
 MIT License
 
-Copyright (c) 2024 Santhosh (Sandytalks)
+Copyright (c) 2026 Santhosh (Sandytalks)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
+of this software and associated documentation files (the "Sandyplay"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
