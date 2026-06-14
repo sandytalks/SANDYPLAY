@@ -26,10 +26,11 @@
 
 <div align="center">
 
-[![AI](https://img.shields.io/badge/AI-Whisper%20%7C%20Gemini%201.5-8b5cf6?style=for-the-badge&logo=openai&logoColor=white&labelColor=0f0f1a)](https://aistudio.google.com)
+[![AI](https://img.shields.io/badge/AI-Whisper%20%7C%20Gemini%201.5%20%2F%202.5-8b5cf6?style=for-the-badge&logo=openai&logoColor=white&labelColor=0f0f1a)](https://aistudio.google.com)
 [![Audio](https://img.shields.io/badge/AUDIO-Dolby.io%20%7C%20SoX%20HiFi-f97316?style=for-the-badge&logoColor=white&labelColor=0f0f1a)](https://dolby.io)
 [![Engine](https://img.shields.io/badge/ENGINE-LibVLC%203.x-FF8800?style=for-the-badge&logoColor=white&labelColor=0f0f1a)](https://videolan.org)
 [![Streaming](https://img.shields.io/badge/STREAMING-yt--dlp%201000%2B-ef4444?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0f0f1a)](https://github.com/yt-dlp/yt-dlp)
+[![Podcasts](https://img.shields.io/badge/PODCASTS-iTunes%20%7C%20RSS-0ea5e9?style=for-the-badge&logo=podcastindex&logoColor=white&labelColor=0f0f1a)](#-online-music-video--podcast-studios)
 [![Stars](https://img.shields.io/github/stars/sandytalks/SANDYPLAY?style=for-the-badge&color=eab308&logo=github&label=STARS&labelColor=0f0f1a)](https://github.com/sandytalks/SANDYPLAY/stargazers)
 
 </div>
@@ -42,6 +43,7 @@
 [✨ Features](#-complete-feature-breakdown) &nbsp;·&nbsp;
 [🎤 Lyrics Engine](#-lyrics-engine) &nbsp;·&nbsp;
 [📻 Radio & TV](#-online-radio-studio) &nbsp;·&nbsp;
+[🎵 Online Studios](#-online-music-video--podcast-studios) &nbsp;·&nbsp;
 [🚀 Install](#-installation) &nbsp;·&nbsp;
 [⌨️ Keybinds](#-keyboard-reference) &nbsp;·&nbsp;
 [🏗️ Architecture](#-architecture) &nbsp;·&nbsp;
@@ -59,10 +61,10 @@
 
 > [!NOTE]
 > **SANDYPLAY v1.15** is not just a media player — it is a **complete AI multimedia production studio** for Windows, built by a solo developer from scratch.
-> Powered by **LibVLC** + **PyQt6** glassmorphism UI, integrating **OpenAI Whisper** (100% offline subtitles), **Gemini 1.5 Flash** (translation, smart playlists, AI captions), and **Dolby.io** (one-click professional cloud audio mastering).
+> Powered by **LibVLC** + **PyQt6** glassmorphism UI, integrating **OpenAI Whisper** (100% offline subtitles), **Gemini 1.5 / 2.5 Flash** (translation, smart playlists, AI captions, in-app chat), and **Dolby.io** (one-click professional cloud audio mastering).
 >
 > **Free. Open-source. Self-contained.**
-> `14+ lyrics sources` · `48-band real-time visualizer` · `dynamic ambient theming` · `DTS studio simulation` · `NVDEC hardware acceleration` · `300+ radio stations` · `IPTV by region`
+> `14+ lyrics sources` · `48-band real-time visualizer` · `dynamic ambient theming` · `DTS studio simulation` · `NVDEC hardware acceleration` · `300+ radio stations` · `IPTV by region` · `online music/video studios` · `global podcasts + RSS`
 
 <br/>
 
@@ -113,6 +115,10 @@
 | 🔊 DTS Studio Simulation (5 modes) | ✅ | ⚠️ basic | ⚠️ basic | ❌ | ❌ |
 | 💾 Named JSON Session Snapshots | ✅ | ❌ | ❌ | ⚠️ playlists | ⚠️ playlists |
 | 📡 YouTube / Twitch / 1000+ Site Streaming | ✅ | ✅ | ❌ | ❌ | ❌ |
+| 🎵 Multi-source Online Music Studio | ✅ | ❌ | ❌ | ❌ | ❌ |
+| 🎥 YouTube Trending Video Studio | ✅ | ❌ | ❌ | ❌ | ❌ |
+| 🎙️ Global Podcast Studio + Custom RSS | ✅ | ❌ | ❌ | ❌ | ❌ |
+| 🌐 Built-in Web Browser + Sandytalks AI | ✅ | ❌ | ❌ | ❌ | ❌ |
 | 🎛️ 10-Band Parametric Equalizer | ✅ | ⚠️ basic | ❌ | ✅ | ✅ |
 | ⚡ Hardware NVDEC / GPU Decoding | ✅ | ✅ | ✅ | ❌ | ❌ |
 | 🖥️ Glassmorphism UI (12+ themes) | ✅ | ❌ | ❌ | ⚠️ skins | ⚠️ skins |
@@ -251,7 +257,7 @@
 | Module | Details |
 |:---|:---|
 | **📦 Formats** | MP4 · MKV · AVI · MOV · WMV · WebM · FLV · M4V · MPEG · TS · VOB · 3GP + MP3 · FLAC · WAV · AAC · M4A · OGG · WMA · OPUS · AC3 · EAC3 · THD · ALAC |
-| **📡 Streaming** | yt-dlp resolver · best-video+audio format selection · playlist auto-expand · all streams mix with local files |
+| **📡 Streaming** | yt-dlp resolver · selectable audio/video quality · playlist auto-expand · direct play/download from online studios · all streams mix with local files |
 | **🏎️ Speed** | 0.25× – 4.0× pitch-locked · `]` / `[` keys · `set_rate()` API · synced to tempo spin control |
 | **🔁 Loop / Shuffle** | Per-session persistent · shuffle uses `random.randint` for true randomness |
 | **🔖 Bookmarks** | Up to 40 per file · `[mm:ss]` labeled · jump-to · clear · persisted in `config.json` |
@@ -264,6 +270,23 @@
 | **📣 OSD** | Centered overlay with fade animation · `QGraphicsOpacityEffect` + `QPropertyAnimation` |
 | **🪟 Mini Player** | Compact floating mode for distraction-free listening |
 | **⏱️ Sleep Timer** | Auto-shutdown playback after a chosen number of minutes |
+
+</details>
+
+<details open>
+<summary><b>🌐 Online Discovery & Tools</b></summary>
+
+<br/>
+
+| Module | Details |
+|:---|:---|
+| **🎵 Online Music Studio** | Discover, search, stream, favorite, playlist, and download music from YouTube Music, YouTube Global, JioSaavn, SoundCloud, and Apple Music |
+| **🎥 Online Video Studio** | YouTube trending/search studio with country, language, category, playlist-only search, favorites, custom playlists, and quality download |
+| **🎙️ Online Podcast Studio** | iTunes podcast discovery by country, category, and language · custom RSS feeds · episode streaming · favorites · downloads |
+| **⬇️ Stream Downloads** | Low / Medium / High / Original quality prompts · MP3 extraction for audio · MP4 output for video · portable FFmpeg detection |
+| **🌐 Web Browser** | PyQt6 WebEngine browser with back, forward, refresh, home, and URL bar |
+| **✨ Sandytalks AI** | Built-in Gemini chat window using Gemini 2.5 Flash for quick questions inside the player |
+| **🖼️ Image Cache** | Remote artwork and thumbnails cached under `~/.sandyplay/cache/images/` for faster repeat browsing |
 
 </details>
 
@@ -497,23 +520,36 @@ Channels **auto-refresh every 24 hours** from cached `iptv_playlist.m3u`. Adult 
 
 <br/>
 
-## 🎵 Online Music & Video Studios
+## 🎵 Online Music, Video & Podcast Studios
 
 ### Online Music Studio
-- **🔥 Discover tab** — trending by country + language + genre (Apple iTunes RSS feed)
-- **🎵 YouTube Music** — `ytsearch10` audio results with thumbnails
-- **📺 YouTube Global** — `ytsearch15` general results
-- **🎧 JioSaavn** — `autocomplete.get` API → 500×500 artwork
-- **☁️ SoundCloud** — `scsearch15` results
-- **🍎 Apple Music** — iTunes search API (15 tracks)
-- Grid view with 200×150 thumbnail icons · double-click to resolve + play
-- Language filters: India (Hindi / Tamil / Telugu…) · Global (English / Korean…) · Japan · France · Germany · Brazil
+- **🔥 Discover tab** — top songs by country, language, and genre using Apple iTunes RSS first, then `ytsearch200` for more results
+- **🎵 Search sources** — YouTube Music, YouTube Global, JioSaavn, SoundCloud, and Apple Music run side-by-side in separate tabs
+- **📂 Playlist mode** — search JioSaavn playlists/albums, Apple Music albums, and YouTube Music playlists; open playlist contents in a new tab
+- **⭐ Favorites + My Playlists** — save stream entries locally, create named playlists, play an entire saved playlist, or delete stale lists
+- **⬇ Download Selected** — choose Low / Medium / High / Original quality; audio downloads are extracted to MP3 through FFmpeg when available
+- **🖼️ Fast artwork** — 200×150 thumbnail grid with cached remote images in `~/.sandyplay/cache/images/`
+- **🌍 Filters** — India (Hindi / Tamil / Telugu / Punjabi / Malayalam / Kannada / Bengali), Global/US/UK/Canada/Australia, Japan, France, Germany, Brazil
 
 ### Online Video Studio
-- **🔥 Trending Videos** — country + language + category filters
-- **🔍 Search Results** — `ytsearch100` results with 280×157 thumbnails
-- Categories: All · Music · Gaming · News · Movies · Sports
-- Plays video via yt-dlp best-quality stream resolver
+- **🔥 Trending Videos** — `ytsearch400` powered discovery by country, language, and category
+- **🔍 Search Results** — search videos, channels, topics, or switch on playlist-only mode
+- **📂 Video playlists** — save entries into custom video playlists, play the whole list, remove entries, or delete a playlist
+- **⭐ Favorites** — persistent video favorites with thumbnail artwork
+- **⬇ Quality downloads** — Low (≤480p), Medium (≤720p), High (≤1080p), or Original best-video+audio output
+- **🎚️ Streaming quality settings** — next-stream video quality: Original / 1080p / 720p / 480p / 360p / 144p
+
+### Online Podcast Studio
+- **🎙️ Global podcast discovery** — iTunes Search / Top Podcasts feeds with country filters: US, GB, IN, AU, CA, DE, FR, JP, BR
+- **🗂️ Categories** — Arts, Business, Comedy, Education, Fiction, Health & Fitness, History, Music, News, Science, Sports, Technology, True Crime, TV & Film, and more
+- **🗣️ Language filter** — All, English, Tamil, Hindi, Malayalam, Telugu, Spanish, French, German
+- **📻 Episodes view** — click a podcast to load RSS episodes, read the show summary, stream an episode, or download it
+- **➕ Custom RSS** — paste any podcast feed URL and play it directly from SANDYPLAY
+- **❤️ Podcast favorites** — saved in `podcast_favorites.json` and reloadable from the Podcasts window
+
+### Built-in Web Tools
+- **🌐 Web Browser** — in-app browser powered by PyQt6 WebEngine with navigation controls and URL bar
+- **✨ Sandytalks AI** — Gemini 2.5 Flash chat dialog for quick questions without leaving the player
 
 <br/>
 
@@ -533,6 +569,7 @@ Channels **auto-refresh every 24 hours** from cached `iptv_playlist.m3u`. Adult 
 | SoX resampler | ✅ | Pitch-locked speed control |
 | Start Menu + Desktop shortcut | ✅ | Ready to launch immediately |
 | RTL-SDR binaries | ❌ | Download separately if using hardware FM |
+| PyQt6 WebEngine | ⚠️ | Required for the built-in browser window |
 | faster-whisper AI model | ⬇️ | ~1.5 GB one-time download on first AI subtitle use |
 | Gemini API key | 🔑 | Free — get from Google AI Studio |
 | Dolby.io credentials | 🔑 | Free tier — get from dolby.io |
@@ -580,7 +617,7 @@ Channels **auto-refresh every 24 hours** from cached `iptv_playlist.m3u`. Adult 
 | **RAM** | 4 GB | 8 GB+ (16 GB for large Whisper models) |
 | **GPU** | Integrated graphics | NVIDIA GTX 1060+ for NVDEC |
 | **Storage** | 500 MB | 3 GB+ with Whisper `medium` model |
-| **Network** | Optional | Required for radio / TV / Dolby / Gemini |
+| **Network** | Optional | Required for radio / TV / online studios / podcasts / Dolby / Gemini |
 
 </div>
 
@@ -605,11 +642,20 @@ SANDYPLAY/
     ├── iptv_playlist.m3u         # Cached IPTV playlist (auto-refreshes daily)
     ├── radio_favorites.json      # Saved FM radio favorites
     ├── tv_favorites.json         # Saved TV channel favorites
+    ├── music_favorites.json      # Saved online music favorites
+    ├── video_favorites.json      # Saved online video favorites
+    ├── music_playlists.json      # Custom online music playlists
+    ├── video_playlists.json      # Custom online video playlists
+    ├── podcast_favorites.json    # Saved podcast subscriptions
     ├── plus/
     │   ├── last_session.json     # Auto-saved session (every 2 min)
     │   ├── library.json          # Favorites + Recently Played (35 tracks)
+    │   ├── history.json          # Playback resume positions
     │   └── snapshots/            # Named session snapshots (unlimited)
     │       └── *.json
+    ├── cache/
+    │   └── images/               # Cached online thumbnails/artwork
+    │       └── <md5hash>.img
     ├── lyrics/                   # Cached lyrics — MD5-keyed JSON per track
     │   └── <md5hash>.json
     ├── artwork/                  # Cached album artwork — MD5-keyed PNG/JPG
@@ -711,17 +757,19 @@ graph TB
         S["📡 Streams\nYouTube · Twitch · HTTP"]
         D["🖱️ Drag & Drop\nBatch folders"]
         R["📻 Radio / TV\nOnline + SDR hardware"]
+        O["🎵 Online Studios\nMusic · Video · Podcasts · RSS"]
     end
 
     subgraph CORE["⚙️ Core Engine — python-vlc / LibVLC 3.x"]
         VLC["🎬 VLC Media Player\nDecoding · A/V sync · HW accel"]
         DSP["🎛️ DSP Chain\nSpatializer · Compressor · normvol · headphone"]
         EQ["🎚️ 10-Band Equalizer\n±20 dB · auto preamp · VLC AudioEqualizer API"]
+        DL["⬇️ Download Pipeline\nyt-dlp · FFmpeg detection\nMP3 / MP4 output"]
     end
 
     subgraph AI["🤖 AI Layer"]
         W["🎙️ faster-whisper\nLocal offline subtitles\n99 languages"]
-        G["🧠 Gemini 1.5 Flash\nTranslation · Captions\nSmart Playlists · Lyrics fallback"]
+        G["🧠 Gemini\n1.5 Flash tools · 2.5 Flash chat\nTranslation · Captions · Lyrics fallback"]
         LY["🎤 Lyrics Network\n14+ sources · 3-tier pipeline\nThreadPoolExecutor parallel"]
         AE["📊 AudioEnergyExtractor\npyav + numpy RMS per frame\nVisualizer real sync"]
     end
@@ -730,6 +778,8 @@ graph TB
         DOL["🎧 Dolby.io\nde-noise + master + normalize\ndlb:// protocol"]
         YT["📺 yt-dlp\n1000+ site stream resolver\nbest-video+audio format"]
         IPTV["📺 IPTV Sources\niptv-org · PlutoTV · Plex\nRoku · PBS · Tubi · + more"]
+        IT["🍎 iTunes / Apple APIs\nTop songs · albums · podcasts\nRSS + Search + Lookup"]
+        RSS["🎙️ Podcast RSS\nCustom feeds · episode parsing"]
     end
 
     subgraph UI["🖥️ PyQt6 Glassmorphism UI"]
@@ -738,6 +788,7 @@ graph TB
         CB["🎛️ Control Bar\nFloating island fullscreen\nSeekSlider QPainter"]
         VIS["🌊 48-Band Visualizer\nVisualizerCanvas QPainter\n~30fps real audio sync"]
         DB["📊 Dashboard\n4-card stats\nBatch progress bar"]
+        OD["🌐 Online Dialogs\nMusic · Video · Podcast · Browser · AI"]
     end
 
     INPUT --> CORE
@@ -768,12 +819,14 @@ graph TB
 | 🖥️ **GUI Framework** | PyQt6 6.x | Glassmorphism UI, animations, custom painting |
 | 🎬 **Media Engine** | python-vlc / LibVLC 3.x | Decoding, playback, DSP, hardware acceleration |
 | 🤖 **AI Subtitles** | faster-whisper | 100% local on-device speech-to-text |
-| 🧠 **LLM Engine** | Google Gemini 1.5 Flash API | Translation, captions, smart tools, lyrics fallback |
+| 🧠 **LLM Engine** | Google Gemini 1.5 Flash + 2.5 Flash API | Translation, captions, smart tools, lyrics fallback, in-app AI chat |
 | ☁️ **Cloud Audio** | Dolby.io REST API v1 | De-noise, master, normalize audio |
 | 🎵 **Lyrics #1** | LRCLib (free REST API) | Synced LRC — primary global source |
 | 🎵 **Lyrics #2** | Kugou (JSON API) | Synced LRC — 50M+ Asian catalog |
 | 🎵 **Lyrics #3** | JioSaavn via saavn.dev | Plain — India's largest music catalog |
 | 📡 **Streaming** | yt-dlp (latest) | YouTube, Twitch, SoundCloud + 1000+ sites |
+| 🍎 **Discovery APIs** | iTunes RSS / Search / Lookup | Top songs, albums, podcast charts, podcast feeds |
+| 🌐 **Embedded Browser** | PyQt6-WebEngine | In-app browser panel |
 | 🏷️ **Tag Reading** | mutagen | ID3 / MP4 / FLAC metadata + artwork URL |
 | 📊 **Audio Energy** | pyav + numpy | RMS frame extraction for visualizer sync |
 | 🔉 **Resampler** | SoX via VLC `--audio-resampler=soxr` | Pitch-locked speed, highest quality |
@@ -807,8 +860,12 @@ graph TB
 | ✅ Done | Multi-thread concurrency engine & Portable FFmpeg detection | v1.15 |
 | ✅ Done | Mini Player / compact floating window | v1.15 |
 | ✅ Done | Sleep Timer — auto-shutdown playback | v1.15 |
+| ✅ Done | Online Video Studio with trending/search/playlists/downloads | v1.15 |
+| ✅ Done | Podcast Studio with iTunes discovery, favorites, Custom RSS, episode downloads | v1.15 |
+| ✅ Done | Built-in Web Browser and Sandytalks AI Gemini chat | v1.15 |
+| ✅ Done | Streaming quality controls for audio and video | v1.15 |
 | 📋 Planned | Linux (Ubuntu / Debian) native build | v1.16 |
-| 📋 Planned | Podcast mode with RSS feed + chapter markers | v1.16 |
+| 📋 Planned | Podcast chapter marker UI | v1.16 |
 | 📋 Planned | Watch Party — synchronized LAN playback | v1.17 |
 | 💡 Idea | Discord Rich Presence — "Now Playing" on profile | TBD |
 | 💡 Idea | Cloud sync for settings, queues, and playlists | TBD |
@@ -816,8 +873,6 @@ graph TB
 | 💡 Idea | Gemini-powered "DJ Mode" — smart auto-playlist | TBD |
 | 💡 Idea | macOS support | TBD |
 | 💡 Idea | Android companion remote control app | TBD |
-
-</details>
 
 <br/>
 
@@ -850,7 +905,9 @@ Yes, 100% offline after the one-time model download (~1.5 GB for <code>medium</c
 | Whisper AI subtitles | None | ✅ |
 | FM Radio (300+ streams) | None | ✅ |
 | IPTV (1000s of channels) | None | ✅ |
+| Online music, video, podcasts, RSS feeds | None | ✅ |
 | Gemini translation & captions | Google AI Studio key | ✅ |
+| Sandytalks AI chat | Google AI Studio key | ✅ |
 | Dolby.io cloud mastering | Dolby App Key + Secret | ✅ free tier |
 </details>
 
