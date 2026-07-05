@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0,2,3,30&height=320&section=header&text=SANDYPLAY&fontSize=120&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=◈%20AI-Powered%20%E2%80%A2%20Dolby-Enhanced%20%E2%80%A2%20Glassmorphism%20Media%20Studio%20◈&descAlignY=64&descSize=17&fontStyle=bold" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0,2,3,30&height=320&section=header&text=SANDYPLAY&fontSize=120&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=◈%20AI-Powered%20•%20Dolby-Enhanced%20•%20Glassmorphism%20Media%20Studio%20◈&descAlignY=64&descSize=17&fontStyle=bold" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=1200&color=0EA5E9&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=45&lines=🤖+Whisper+AI+—+Offline+Subtitle+Generation+in+99+Languages;🎧+Dolby.io+Cloud+Audio+Mastering+—+Studio+Quality+in+1+Click;🎤+14%2B+Lyrics+Sources+—+Synced+LRC+%2B+Plain+%2B+AI+Fallback;🌐+Translate+Lyrics+Instantly+into+5+Languages+via+Gemini;🌊+48-Band+Visualizer+%2B+Dynamic+Ambient+Color+Theming;⚡+NVDEC+Hardware+Decoding+%2B+SoX+HiFi+Resampling+Engine;🎛️+10-Band+Parametric+EQ+%2B+DTS+Studio+5-Mode+Simulation;📻+300%2B+Radio+Stations+%2B+RTL-SDR+Hardware+FM+Tuner;📺+Live+IPTV+by+Genre+%2F+Language+%2F+Region+—+Updated+Daily;💾+Named+Session+Snapshots+%2B+Smart+Vibe+Queue+Sorting" alt="Feature Showcase" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=1200&color=0EA5E9&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=45&lines=🤖+Whisper+AI+—+Offline+Subtitle+Generation+in+99+Languages;🎧+Dolby.io+Cloud+Audio+Mastering+—+Studio+Quality+in+1+Click;🎤+14%2B+Lyrics+Sources+—+Synced+LRC+%2B+Plain+%2B+AI+Fallback;🌐+Translate+Lyrics+Instantly+into+5+Languages+via+Gemini;🌊+48-Band+Visualizer+%2B+Dynamic+Ambient+Color+Theming;⚡+NVDEC+Hardware+Decoding+%2B+SoX+HiFi+Resampling+Engine;🎛️+10-Band+Parametric+EQ+%2B+DTS+Studio+5-Mode+Simulation;📻+300%2B+Radio+Stations+%2B+RTL-SDR+Hardware+FM+Tuner;📺+Live+IPTV+by+Genre+%2F+Language+%2F+Region+—+Updated+Daily;🎌+Online+Anime+Studio+—+Tamil+%2F+Hindi+%2F+Telugu+Dubbed" alt="Feature Showcase" />
 
 </div>
 
@@ -30,7 +30,7 @@
 [![Audio](https://img.shields.io/badge/AUDIO-Dolby.io%20%7C%20SoX%20HiFi-f97316?style=for-the-badge&logoColor=white&labelColor=0f0f1a)](https://dolby.io)
 [![Engine](https://img.shields.io/badge/ENGINE-LibVLC%203.x-FF8800?style=for-the-badge&logoColor=white&labelColor=0f0f1a)](https://videolan.org)
 [![Streaming](https://img.shields.io/badge/STREAMING-yt--dlp%201000%2B-ef4444?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0f0f1a)](https://github.com/yt-dlp/yt-dlp)
-[![Podcasts](https://img.shields.io/badge/PODCASTS-iTunes%20%7C%20RSS-0ea5e9?style=for-the-badge&logo=podcastindex&logoColor=white&labelColor=0f0f1a)](#-online-music-video--podcast-studios)
+[![Anime](https://img.shields.io/badge/ANIME-AniNeko%20%7C%20AnimeSalt-F47521?style=for-the-badge&logoColor=white&labelColor=0f0f1a)](#-online-anime-studio)
 [![Stars](https://img.shields.io/github/stars/sandytalks/SANDYPLAY?style=for-the-badge&color=eab308&logo=github&label=STARS&labelColor=0f0f1a)](https://github.com/sandytalks/SANDYPLAY/stargazers)
 
 </div>
@@ -43,6 +43,7 @@
 [✨ Features](#-complete-feature-breakdown) &nbsp;·&nbsp;
 [🎤 Lyrics Engine](#-lyrics-engine) &nbsp;·&nbsp;
 [📻 Radio & TV](#-online-radio-studio) &nbsp;·&nbsp;
+[🎌 Anime Studio](#-online-anime-studio) &nbsp;·&nbsp;
 [🎵 Online Studios](#-online-music-video--podcast-studios) &nbsp;·&nbsp;
 [🚀 Install](#-installation) &nbsp;·&nbsp;
 [⌨️ Keybinds](#-keyboard-reference) &nbsp;·&nbsp;
@@ -64,7 +65,7 @@
 > Powered by **LibVLC** + **PyQt6** glassmorphism UI, integrating **OpenAI Whisper** (100% offline subtitles), **Gemini 1.5 / 2.5 Flash** (translation, smart playlists, AI captions, in-app chat), and **Dolby.io** (one-click professional cloud audio mastering).
 >
 > **Free. Open-source. Self-contained.**
-> `14+ lyrics sources` · `48-band real-time visualizer` · `dynamic ambient theming` · `DTS studio simulation` · `NVDEC hardware acceleration` · `300+ radio stations` · `IPTV by region` · `online music/video studios` · `global podcasts + RSS`
+> `14+ lyrics sources` · `48-band real-time visualizer` · `dynamic ambient theming` · `DTS studio simulation` · `NVDEC hardware acceleration` · `300+ radio stations` · `IPTV by region` · `online music/video/anime studios` · `global podcasts + RSS` · `GoodbyeDPI ISP bypass`
 
 <br/>
 
@@ -115,10 +116,12 @@
 | 🔊 DTS Studio Simulation (5 modes) | ✅ | ⚠️ basic | ⚠️ basic | ❌ | ❌ |
 | 💾 Named JSON Session Snapshots | ✅ | ❌ | ❌ | ⚠️ playlists | ⚠️ playlists |
 | 📡 YouTube / Twitch / 1000+ Site Streaming | ✅ | ✅ | ❌ | ❌ | ❌ |
+| 🎌 Online Anime Studio (Dubbed + Multi-lang) | ✅ | ❌ | ❌ | ❌ | ❌ |
 | 🎵 Multi-source Online Music Studio | ✅ | ❌ | ❌ | ❌ | ❌ |
 | 🎥 YouTube Trending Video Studio | ✅ | ❌ | ❌ | ❌ | ❌ |
 | 🎙️ Global Podcast Studio + Custom RSS | ✅ | ❌ | ❌ | ❌ | ❌ |
 | 🌐 Built-in Web Browser + Sandytalks AI | ✅ | ❌ | ❌ | ❌ | ❌ |
+| 🔒 ISP Bypass (GoodbyeDPI + DoH DNS) | ✅ | ❌ | ❌ | ❌ | ❌ |
 | 🎛️ 10-Band Parametric Equalizer | ✅ | ⚠️ basic | ❌ | ✅ | ✅ |
 | ⚡ Hardware NVDEC / GPU Decoding | ✅ | ✅ | ✅ | ❌ | ❌ |
 | 🖥️ Glassmorphism UI (12+ themes) | ✅ | ❌ | ❌ | ⚠️ skins | ⚠️ skins |
@@ -127,6 +130,7 @@
 | 🔖 Per-file Bookmarks + A-B Repeat | ✅ | ✅ | ✅ | ❌ | ❌ |
 | 🏷️ AI Metadata Cleaner | ✅ | ❌ | ❌ | ⚠️ plugin | ❌ |
 | 🎵 Bilingual Lyrics View (Original + Translation) | ✅ | ❌ | ❌ | ❌ | ❌ |
+| ▶️ Continue Overlay + Up Next Card | ✅ | ❌ | ❌ | ❌ | ❌ |
 
 <br/>
 
@@ -140,7 +144,7 @@
 
 | 🎬 Cinephiles | 🎵 Audiophiles | 🧑‍💻 Developers | 🌏 Multi-language Users |
 |:---:|:---:|:---:|:---:|
-| AI subtitles in any language, HDR simulation, hardware-accelerated 4K playback | Dolby mastering, 10-band EQ, DTS modes, SoX HiFi resampling, 200% volume boost | Open-source Python + LibVLC stack, extensible architecture, single-file app | Tamil · Hindi · Telugu · Malayalam lyrics & real-time Gemini translation |
+| AI subtitles in any language, HDR simulation, hardware-accelerated 4K playback | Dolby mastering, 10-band EQ, DTS modes, SoX HiFi resampling, 200% volume boost | Open-source Python + LibVLC stack, extensible architecture, single-file app | Tamil · Hindi · Telugu · Malayalam lyrics & real-time Gemini translation · Dubbed Anime |
 
 </div>
 
@@ -246,6 +250,9 @@
 | **🔊 Volume Slider** | Same custom `SeekSlider` · 0–200% range · icon updates per level |
 | **🪞 Glass Cards** | `QGraphicsDropShadowEffect` on artwork · radial gradient backgrounds · `rgba` borders |
 | **📊 Dashboard** | 4-card stats header (Total / Music / Video / Lyrics) · batch fetch progress bar |
+| **▶️ Continue Overlay** | Floating "Continue from [timestamp]?" prompt on resume · auto-dismisses after 8 seconds |
+| **⏭️ Up Next Card** | Bottom-right overlay showing next track title + countdown timer · "Play Now" shortcut button |
+| **🎬 Quality Picker** | Floating popup panel · Video: Original / 1080p / 720p / 480p / 360p / 144p · Audio: Original / 320kbps / 256kbps / 128kbps / 64kbps · live re-play at new quality |
 
 </details>
 
@@ -274,12 +281,29 @@
 </details>
 
 <details open>
+<summary><b>🔒 ISP Bypass & Network Engine (NEW in v1.15)</b></summary>
+
+<br/>
+
+| Module | Details |
+|:---|:---|
+| **🛡️ GoodbyeDPI Integration** | Launches `goodbyedpi.exe` via UAC elevation · WinDivert-based ISP DPI bypass · auto-detects if already running · ref-counted start/stop |
+| **🌐 DNS-over-HTTPS Fallback** | Custom `socket.getaddrinfo` override · tries Alibaba DoH (223.5.5.5) first (best for India/Asia) → Google (8.8.8.8) → Cloudflare (1.1.1.1) on ISP DNS failure |
+| **📡 DNS Cache** | Thread-safe in-memory IP cache per hostname · eliminates repeat DNS lookups for radio/streaming endpoints |
+| **🔀 HLS Stream Proxy** | Local `ThreadingHTTPServer` on `127.0.0.1` · rewrites `.m3u8` segment URLs through proxy · handles both HLS variants and TS chunks · retry-on-fail (3 attempts) |
+| **🎌 Anime VPN Integration** | Each anime fetch auto-starts GoodbyeDPI with configurable preset · waits 2.5s for driver init · stops VPN cleanly on thread exit |
+| **⚙️ VPN Presets** | `-5` through `-9` preset flags control bypass aggressiveness (DPI mode) · user-selectable per session |
+
+</details>
+
+<details open>
 <summary><b>🌐 Online Discovery & Tools</b></summary>
 
 <br/>
 
 | Module | Details |
 |:---|:---|
+| **🎌 Online Anime Studio** | Browse recent & popular anime · search with live autocomplete · browse by dubbed language (Tamil, Hindi, Telugu, Malayalam, English, Spanish, French, Portuguese) · episode list · stream or download episodes · favorites & custom playlists |
 | **🎵 Online Music Studio** | Discover, search, stream, favorite, playlist, and download music from YouTube Music, YouTube Global, JioSaavn, SoundCloud, and Apple Music |
 | **🎥 Online Video Studio** | YouTube trending/search studio with country, language, category, playlist-only search, favorites, custom playlists, and quality download |
 | **🎙️ Online Podcast Studio** | iTunes podcast discovery by country, category, and language · custom RSS feeds · episode streaming · favorites · downloads |
@@ -443,7 +467,7 @@ AIR Vividh Bharati · Hits of Bollywood · Hits of Lata Mangeshkar · Hits of Mo
 
 <br/>
 
-50 Cent · ABBA · Adele · Aerosmith · Andy Williams · Arctic Monkeys · Aretha Franklin · Ariana Grande · Avicii · Avril Lavigne · Backstreet Boys · Bad Bunny · Beyoncé · Billy Joel · Bing Crosby · Black Sabbath · Blur · Bob Dylan · Bob Marley · Bon Jovi · Bruno Mars · Bryan Adams · Calvin Harris · Camila Cabello · Celine Dion · Charlie Puth · Cher · Chicago · Christina Aguilera · Coldplay · David Bowie · Dean Martin · Def Leppard · Depeche Mode · Diana Ross · Dire Straits · Donna Summer · Dr Dre · Drake · Dua Lipa · Duran Duran · Eagles · Ed Sheeran · Ella Fitzgerald · Elton John · Elvis Presley · Eminem · Enrique Iglesias · Eric Clapton · Eurythmics · Fleetwood Mac · Frank Sinatra · Garth Brooks · Genesis · George Michael · Green Day · Guns N Roses · Harry Styles · Imagine Dragons · Iron Maiden · Jennifer Lopez · Johnny Cash · Journey · Justin Bieber · Justin Timberlake · Kanye West · Katy Perry · Kelly Clarkson · Kendrick Lamar · Kings of Leon · Lady Gaga · Led Zeppelin · Linda Ronstadt · Louis Armstrong · Madonna · Mariah Carey · Maroon 5 · Metallica · Michael Jackson · Miley Cyrus · Muse · Nat King Cole · New Order · Nirvana · Oasis · One Direction · Paul McCartney · Pet Shop Boys · Phil Collins · Pink Floyd · Post Malone · Prince · Queen · Radiohead · Rihanna · Rod Stewart · Roxette · Santana · Shakira · Shania Twain · Sia · Spice Girls · Stevie Wonder · Taylor Swift · Tears for Fears · The Cure · The Killers · The Weeknd · The Who · Tina Turner · Tom Petty · Tony Bennett · Travis Scott · Twenty One Pilots · U2 · Whitney Houston · + more
+50 Cent · ABBA · Adele · Aerosmith · Andy Williams · Arctic Monkeys · Aretha Franklin · Ariana Grande · Avicii · Avril Lavigne · Backstreet Boys · Bad Bunny · Beyoncé · Billy Joel · Bing Crosby · Black Sabbath · Blur · Bob Dylan · Bob Marley · Bon Jovi · Bruno Mars · Bryan Adams · Calvin Harris · Camila Cabello · Celine Dion · Charlie Puth · Cher · Chicago · Christina Aguilera · Coldplay · David Bowie · Dean Martin · Def Leppard · Demi Lovato · Depeche Mode · Diana Ross · Dire Straits · Donna Summer · Dr Dre · Drake · Dua Lipa · Duran Duran · Eagles · Ed Sheeran · Ella Fitzgerald · Elton John · Elvis Presley · Eminem · Enrique Iglesias · Erasure · Eric Clapton · Eurythmics · Fleetwood Mac · Frank Sinatra · Garth Brooks · Genesis · George Michael · George Strait · Green Day · Guns N Roses · Harry Styles · Imagine Dragons · Iron Maiden · J Balvin · Jennifer Lopez · Johnny Cash · Journey · Justin Bieber · Justin Timberlake · Kanye West · Karol G · Katy Perry · Kelly Clarkson · Kendrick Lamar · Kings of Leon · Lady Gaga · Led Zeppelin · Linda Ronstadt · Louis Armstrong · Madonna · Mariah Carey · Maroon 5 · Metallica · Michael Jackson · Miley Cyrus · Muse · Nat King Cole · New Order · Niall Horan · Nina Simone · Nirvana · Oasis · One Direction · Paul McCartney · Perry Como · Pet Shop Boys · Phil Collins · Pink · Pink Floyd · Post Malone · Prince · Queen · Radiohead · REM · Rihanna · Rod Stewart · Roxette · Santana · Shakira · Shania Twain · Shawn Mendes · Sia · Simple Minds · Spandau Ballet · Spice Girls · Stevie Wonder · Taylor Swift · Tears for Fears · The Cure · The Killers · The Smiths · The Weeknd · The Who · Tina Turner · Tom Petty · Tony Bennett · Travis Scott · Twenty One Pilots · U2 · Wham · Whitney Houston · + more
 
 </details>
 
@@ -452,7 +476,7 @@ AIR Vividh Bharati · Hits of Bollywood · Hits of Lata Mangeshkar · Hits of Mo
 
 <br/>
 
-0N K-Pop · Asian World Radio · Big B Radio KPOP · BTS Radio · CBS Power Radio · Conexion Kpop · DFM K-POP · Exclusively BTS · Fred Film Radio Korean · Generacion Kpop · Hotmix K-Pop · JeonjuFM · K-Pop 24 · K-RADIO · LibertyMP KPop · Listen.moe Kpop · MapoFM · Mnet K-Pop · OnlyHit K-Pop · REYFM Kpop · SBS PopAsia · Vibe Radio Kpop · + more
+0N K-Pop · AFN GO HUMPHREYS The Eagle · Asian World Radio · Big B Radio KPOP · BTS Radio · CBS Power Radio · Classic Odyssey · Conexion Kpop · Conexion Kpop Girls Groups · DFM K-POP · Exclusively BTS · Fred Film Radio Korean · Generacion Kpop · Hotmix K-Pop · JeonjuFM · Juka Radio Kpop · K-Pop 24 · K-RADIO · LibertyMP KPop · Listen.moe Kpop · MapoFM · Mnet K-Pop · Oldpop Cafe · OnlyHit K-Pop · Pyongyang FM · Replay News · REYFM Kpop · SBS PopAsia · SCN Seongseo · SoneFM · Vibe Radio Kpop · WOW CCM · + more
 
 </details>
 
@@ -476,7 +500,7 @@ AIR Vividh Bharati · Hits of Bollywood · Hits of Lata Mangeshkar · Hits of Mo
 
 <br/>
 
-BBC Radio 1 / 2 / 3 / 4 / 5 Live / 6 Music · BBC World Service · BBC News HD (720p HLS) · KEXP Seattle · NPR News · WNYC New York · Radio Paradise Mellow + Rock · SomaFM Underground 80s (128k + 256k) · Darusalam Radio · FUNKY RADIO · Mega 96.3 LA · Z 92 Miami
+BBC Radio 1 / 2 / 3 / 4 / 5 Live / 6 Music · BBC World Service · BBC News HD (720p HLS) · KEXP Seattle · NPR News · WNYC New York · Radio Paradise Mellow + Rock · SomaFM Underground 80s (128k + 256k) · Darusalam Radio · FUNKY RADIO · Lux FM · Mega 96.3 LA · Z 92 Miami
 
 </details>
 
@@ -520,6 +544,55 @@ Channels **auto-refresh every 24 hours** from cached `iptv_playlist.m3u`. Adult 
 
 <br/>
 
+## 🎌 Online Anime Studio
+
+<div align="center">
+
+> **Discover, search, and stream dubbed anime across 8 languages — powered by AniNeko & AnimeSalt**
+
+</div>
+
+<br/>
+
+### How It Works
+
+SANDYPLAY's **Online Anime Studio** connects to two anime platforms in parallel:
+
+| Platform | Role | Specialty |
+|:---|:---|:---|
+| **AniNeko** | Recent & popular anime · global search · English/Spanish/French/Portuguese dubs | Fast scraper · live autocomplete · episode list |
+| **AnimeSalt** | South Asian dubbed content · Tamil / Hindi / Telugu / Malayalam | Language-category browse · multi-page parallel fetch |
+
+### Features
+
+- **🔥 Recent & Popular tabs** — Latest episode updates and ongoing popular series
+- **🌐 Browse by Language** — Tamil · Hindi · Telugu · Malayalam · English · Spanish · French · Portuguese — each with dedicated fetcher
+- **🔍 Live Search Autocomplete** — 400ms debounce · suggestions popup while typing · both global and language-specific search
+- **📺 Episode Viewer** — Click any anime card → episode list loads · stream any episode directly into SANDYPLAY's media engine
+- **❤️ Favorites** — Save any anime to `~/.sandyplay/anime_favorites.json` · persistent across sessions
+- **📋 Custom Playlists** — Create named playlists · add/remove anime · play entire playlist in sequence
+- **🖼️ Poster Grid** — Thumbnail card grid with lazy image loading · hover effects · double-click to view episodes
+- **🔒 ISP Bypass** — Each fetch automatically activates GoodbyeDPI with configurable preset · seamless for regions with blocked anime sites
+
+### Anime Language Coverage
+
+| Language | Source | Dubbed Content |
+|:---:|:---|:---|
+| 🇮🇳 Tamil | AnimeSalt | Tamil-dubbed anime by category |
+| 🇮🇳 Hindi | AnimeSalt | Hindi-dubbed anime by category |
+| 🇮🇳 Telugu | AnimeSalt | Telugu-dubbed anime by category |
+| 🇮🇳 Malayalam | AnimeSalt | Malayalam-dubbed anime by category |
+| 🇬🇧 English | AniNeko | English-subbed + dubbed catalog |
+| 🇪🇸 Spanish | AniNeko | Spanish-dubbed catalog |
+| 🇫🇷 French | AniNeko | French-dubbed catalog |
+| 🇧🇷 Portuguese | AniNeko | Portuguese-dubbed catalog |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0369a1,100:020c1b&height=2" width="100%"/>
+
+<br/>
+
 ## 🎵 Online Music, Video & Podcast Studios
 
 ### Online Music Studio
@@ -537,7 +610,7 @@ Channels **auto-refresh every 24 hours** from cached `iptv_playlist.m3u`. Adult 
 - **📂 Video playlists** — save entries into custom video playlists, play the whole list, remove entries, or delete a playlist
 - **⭐ Favorites** — persistent video favorites with thumbnail artwork
 - **⬇ Quality downloads** — Low (≤480p), Medium (≤720p), High (≤1080p), or Original best-video+audio output
-- **🎚️ Streaming quality settings** — next-stream video quality: Original / 1080p / 720p / 480p / 360p / 144p
+- **🎚️ Streaming quality settings** — next-stream video quality: Original / 1080p / 720p / 480p / 360p / 144p · Audio: Original / 320kbps / 256kbps / 128kbps / 64kbps
 
 ### Online Podcast Studio
 - **🎙️ Global podcast discovery** — iTunes Search / Top Podcasts feeds with country filters: US, GB, IN, AU, CA, DE, FR, JP, BR
@@ -569,6 +642,7 @@ Channels **auto-refresh every 24 hours** from cached `iptv_playlist.m3u`. Adult 
 | SoX resampler | ✅ | Pitch-locked speed control |
 | Start Menu + Desktop shortcut | ✅ | Ready to launch immediately |
 | RTL-SDR binaries | ❌ | Download separately if using hardware FM |
+| GoodbyeDPI (ISP bypass) | ⚠️ | Optional `vpn/goodbyedpi.exe` — for anime/stream unblocking |
 | PyQt6 WebEngine | ⚠️ | Required for the built-in browser window |
 | faster-whisper AI model | ⬇️ | ~1.5 GB one-time download on first AI subtitle use |
 | Gemini API key | 🔑 | Free — get from Google AI Studio |
@@ -617,7 +691,7 @@ Channels **auto-refresh every 24 hours** from cached `iptv_playlist.m3u`. Adult 
 | **RAM** | 4 GB | 8 GB+ (16 GB for large Whisper models) |
 | **GPU** | Integrated graphics | NVIDIA GTX 1060+ for NVDEC |
 | **Storage** | 500 MB | 3 GB+ with Whisper `medium` model |
-| **Network** | Optional | Required for radio / TV / online studios / podcasts / Dolby / Gemini |
+| **Network** | Optional | Required for radio / TV / anime / online studios / podcasts / Dolby / Gemini |
 
 </div>
 
@@ -634,6 +708,8 @@ Channels **auto-refresh every 24 hours** from cached `iptv_playlist.m3u`. Adult 
 ```
 SANDYPLAY/
 ├── sandyplay.py                  # Entire application — single Python file
+├── vpn/
+│   └── goodbyedpi.exe            # GoodbyeDPI ISP bypass (optional, for anime/stream unblocking)
 ├── rtl-sdr/
 │   └── x64/
 │       └── rtl_fm.exe            # RTL-SDR binary (optional, hardware FM radio)
@@ -647,6 +723,8 @@ SANDYPLAY/
     ├── music_playlists.json      # Custom online music playlists
     ├── video_playlists.json      # Custom online video playlists
     ├── podcast_favorites.json    # Saved podcast subscriptions
+    ├── anime_favorites.json      # Saved anime favorites (NEW)
+    ├── anime_playlists.json      # Custom anime playlists (NEW)
     ├── plus/
     │   ├── last_session.json     # Auto-saved session (every 2 min)
     │   ├── library.json          # Favorites + Recently Played (35 tracks)
@@ -758,6 +836,7 @@ graph TB
         D["🖱️ Drag & Drop\nBatch folders"]
         R["📻 Radio / TV\nOnline + SDR hardware"]
         O["🎵 Online Studios\nMusic · Video · Podcasts · RSS"]
+        AN["🎌 Anime Studio\nAniNeko · AnimeSalt"]
     end
 
     subgraph CORE["⚙️ Core Engine — python-vlc / LibVLC 3.x"]
@@ -774,6 +853,12 @@ graph TB
         AE["📊 AudioEnergyExtractor\npyav + numpy RMS per frame\nVisualizer real sync"]
     end
 
+    subgraph NET["🔒 Network & Bypass Engine"]
+        VPN["🛡️ GoodbyeDPI\nISP DPI bypass\nWinDivert driver"]
+        DOH["🌐 DoH DNS Resolver\nAlibaba · Google · Cloudflare\nFallback chain"]
+        PROXY["📡 HLS Proxy Server\nLocalhost m3u8 rewriter\nSegment retry"]
+    end
+
     subgraph CLOUD["☁️ Cloud Services"]
         DOL["🎧 Dolby.io\nde-noise + master + normalize\ndlb:// protocol"]
         YT["📺 yt-dlp\n1000+ site stream resolver\nbest-video+audio format"]
@@ -788,16 +873,17 @@ graph TB
         CB["🎛️ Control Bar\nFloating island fullscreen\nSeekSlider QPainter"]
         VIS["🌊 48-Band Visualizer\nVisualizerCanvas QPainter\n~30fps real audio sync"]
         DB["📊 Dashboard\n4-card stats\nBatch progress bar"]
-        OD["🌐 Online Dialogs\nMusic · Video · Podcast · Browser · AI"]
+        OD["🌐 Online Dialogs\nMusic · Video · Podcast · Anime · Browser · AI"]
+        OV["▶️ Smart Overlays\nContinueOverlay · UpNextCard\nQualityPickerPopup"]
     end
 
     INPUT --> CORE
-    CORE --> DSP --> EQ
     CORE --> AI
-    AI --> CLOUD
-    CORE --> UI
+    CORE --> NET
+    NET --> CLOUD
     AI --> UI
     CLOUD --> UI
+    CORE --> UI
 ```
 
 <br/>
@@ -821,6 +907,8 @@ graph TB
 | 🤖 **AI Subtitles** | faster-whisper | 100% local on-device speech-to-text |
 | 🧠 **LLM Engine** | Google Gemini 1.5 Flash + 2.5 Flash API | Translation, captions, smart tools, lyrics fallback, in-app AI chat |
 | ☁️ **Cloud Audio** | Dolby.io REST API v1 | De-noise, master, normalize audio |
+| 🎌 **Anime Scraper** | AniNeko + AnimeSalt (custom scraper) | Dubbed anime discovery, episodes, language filter |
+| 🛡️ **ISP Bypass** | GoodbyeDPI + DoH DNS override | Bypass DPI blocking, DNS poisoning for streaming |
 | 🎵 **Lyrics #1** | LRCLib (free REST API) | Synced LRC — primary global source |
 | 🎵 **Lyrics #2** | Kugou (JSON API) | Synced LRC — 50M+ Asian catalog |
 | 🎵 **Lyrics #3** | JioSaavn via saavn.dev | Plain — India's largest music catalog |
@@ -864,9 +952,16 @@ graph TB
 | ✅ Done | Podcast Studio with iTunes discovery, favorites, Custom RSS, episode downloads | v1.15 |
 | ✅ Done | Built-in Web Browser and Sandytalks AI Gemini chat | v1.15 |
 | ✅ Done | Streaming quality controls for audio and video | v1.15 |
+| ✅ Done | **Online Anime Studio** — Tamil/Hindi/Telugu/Malayalam/English dubbed anime | v1.15 |
+| ✅ Done | **GoodbyeDPI ISP bypass** — unblock streaming sites via WinDivert | v1.15 |
+| ✅ Done | **DNS-over-HTTPS fallback** — Alibaba/Google/Cloudflare DoH resolver | v1.15 |
+| ✅ Done | **HLS Stream Proxy** — local m3u8 rewriter for seamless segment delivery | v1.15 |
+| ✅ Done | **Continue Overlay** — "Resume from [timestamp]?" prompt on file open | v1.15 |
+| ✅ Done | **Up Next Card** — floating countdown overlay before next track auto-plays | v1.15 |
+| ✅ Done | **Quality Picker Popup** — live video/audio quality switcher with instant re-play | v1.15 |
 | 📋 Planned | Linux (Ubuntu / Debian) native build | v1.16 |
-| 📋 Planned | Podcast chapter marker UI | v1.16 |
-| 📋 Planned | Watch Party — synchronized LAN playback | v1.17 |
+| 📋 Planned | Podcast chapter marker UI | v1.17 |
+| 📋 Planned | Watch Party — synchronized LAN playback | v1.18 |
 | 💡 Idea | Discord Rich Presence — "Now Playing" on profile | TBD |
 | 💡 Idea | Cloud sync for settings, queues, and playlists | TBD |
 | 💡 Idea | Custom JSON Theme Engine | TBD |
@@ -905,6 +1000,7 @@ Yes, 100% offline after the one-time model download (~1.5 GB for <code>medium</c
 | Whisper AI subtitles | None | ✅ |
 | FM Radio (300+ streams) | None | ✅ |
 | IPTV (1000s of channels) | None | ✅ |
+| Online Anime Studio | None | ✅ |
 | Online music, video, podcasts, RSS feeds | None | ✅ |
 | Gemini translation & captions | Google AI Studio key | ✅ |
 | Sandytalks AI chat | Google AI Studio key | ✅ |
@@ -937,9 +1033,21 @@ Choose a smaller model (tiny / base / small) from <code>Misc → AI Tools → Wh
 </details>
 
 <details>
+<summary><b>How does the ISP bypass / anime unblocking work?</b></summary>
+<br/>
+SANDYPLAY uses two complementary techniques:
+
+1. **GoodbyeDPI** — when the Anime Studio fetches content, it optionally activates `goodbyedpi.exe` (a WinDivert-based DPI bypass tool). This prevents ISPs from detecting and blocking streaming traffic. The tool starts with UAC elevation, waits 2.5s for the WinDivert driver to initialize, then fetches proceed normally.
+
+2. **DNS-over-HTTPS (DoH)** — the app replaces the system's `socket.getaddrinfo` function. If standard DNS fails (ISP DNS poisoning), it automatically retries via Alibaba (223.5.5.5 — fastest for India/Asia), then Google (8.8.8.8), then Cloudflare (1.1.1.1). All resolved IPs are cached in memory for fast repeat lookups.
+
+Both features are completely optional and only activate during anime/stream fetching.
+</details>
+
+<details>
 <summary><b>Does it work on macOS or Linux?</b></summary>
 <br/>
-The Python + PyQt6 + LibVLC stack is cross-platform, but SANDYPLAY is primarily tested and packaged for Windows. Some components (RTL-SDR binary path, Windows registry VLC detection, Win32 hwnd rendering) are Windows-specific. Community PRs for Linux/macOS are welcome.
+The Python + PyQt6 + LibVLC stack is cross-platform, but SANDYPLAY is primarily tested and packaged for Windows. Some components (RTL-SDR binary path, Windows registry VLC detection, Win32 hwnd rendering, GoodbyeDPI) are Windows-specific. Community PRs for Linux/macOS are welcome.
 </details>
 
 <details>
@@ -965,6 +1073,7 @@ Here's how you can help:
 - 💡 **Suggest features** — open a Discussion tagged `enhancement`
 - 📻 **Add radio stations** — PR a new entry to `STATIONS` dict
 - 📺 **Add TV channels** — PR a new entry to `TV_CHANNELS` dict
+- 🎌 **Add anime sources** — suggest new anime platforms or fix scrapers
 - 🌍 **Improve lyrics coverage** — suggest new sources or fix scrapers
 - 📣 **Share it** — tell your audiophile and cinephile friends
 
@@ -1002,7 +1111,8 @@ copies or substantial portions of the Software.
 
 **Third-party acknowledgements:**  
 VLC (LGPL) · FFmpeg (LGPL/GPL) · OpenAI Whisper (MIT) · PyQt6 (GPL/Commercial) · yt-dlp (Unlicense)  
-Dolby.io REST APIs (commercial, free tier) · Google Gemini API (commercial, free tier)
+Dolby.io REST APIs (commercial, free tier) · Google Gemini API (commercial, free tier)  
+GoodbyeDPI (MIT) · AniNeko / AnimeSalt (scraped, educational use)
 
 <br/>
 
