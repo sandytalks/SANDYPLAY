@@ -4,17 +4,6 @@
 
 </div>
 
-<div align="center">
-
-[![Release](https://img.shields.io/badge/VERSION-v1.15-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=020c1b)](https://github.com/sandytalks/SANDYPLAY/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/sandytalks/SANDYPLAY/total?style=for-the-badge&color=22c55e&label=DOWNLOADS&logo=github&labelColor=020c1b)](https://github.com/sandytalks/SANDYPLAY/releases)
-[![Windows](https://img.shields.io/badge/WINDOWS-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b)](https://github.com/sandytalks/SANDYPLAY/releases/latest)
-[![Python](https://img.shields.io/badge/PYTHON-3.10%2B-FFD43B?style=for-the-badge&logo=python&logoColor=black&labelColor=020c1b)](https://python.org)
-[![License](https://img.shields.io/badge/LICENSE-MIT-a855f7?style=for-the-badge&labelColor=020c1b)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/sandytalks/SANDYPLAY?style=for-the-badge&color=eab308&logo=github&label=STARS&labelColor=0f0f1a)](https://github.com/sandytalks/SANDYPLAY/stargazers)
-
-</div>
-
 <br/>
 
 <div align="center">
