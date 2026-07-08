@@ -16,8 +16,8 @@
 <strong>A complete AI multimedia production studio — not just a media player.</strong>
 
 <p>
-OpenAI Whisper (offline subtitles) · Gemini AI (translation &amp; chat) · Dolby.io (cloud mastering)<br/>
-LibVLC engine · PyQt6 glassmorphism UI · 14+ lyrics sources · 48-band visualizer
+OpenAI Whisper (offline subtitles) · Sandytalks AI (music chatbot) · Dolby.io (cloud mastering)<br/>
+LibVLC engine · PyQt6 glassmorphism UI · 15 lyrics sources · 48-band visualizer
 </p>
 
 <br/>
@@ -45,12 +45,12 @@ LibVLC engine · PyQt6 glassmorphism UI · 14+ lyrics sources · 48-band visuali
 
 <ul>
 <li>🤖 <strong>AI Subtitles</strong> — Whisper generates subtitles offline in 99 languages</li>
+<li>💬 <strong>Sandytalks AI</strong> — Built-in Google Gemini chatbot for deep music knowledge</li>
 <li>☁️ <strong>Dolby Mastering</strong> — One-click cloud audio enhancement</li>
-<li>🎤 <strong>14+ Lyrics Sources</strong> — Synced karaoke with AI fallback</li>
-<li>🌐 <strong>Lyrics Translation</strong> — Real-time bilingual display via Gemini</li>
-<li>🌊 <strong>48-Band Visualizer</strong> — Real audio-synced at ~30fps</li>
-<li>🔊 <strong>DTS Studio</strong> — 5 simulation modes for immersive audio</li>
-<li>🎛️ <strong>10-Band EQ</strong> — Professional parametric equalizer</li>
+<li>🎤 <strong>15 Lyrics Sources</strong> — Synced karaoke with 3-tier parallel fallback</li>
+<li>🔊 <strong>10 Speaker Modes</strong> — Spatial 3D Audio, Studio Hi-Fi, Dolby Surround</li>
+<li>🎛️ <strong>DTS Studio &amp; 10-Band EQ</strong> — Dynamic parametric equalizer and filters</li>
+<li>🛡️ <strong>Auto ISP Bypass</strong> — Built-in DNS-over-HTTPS (DoH) for throttled sites</li>
 <li>📡 <strong>Stream Anything</strong> — YouTube, Twitch, 1000+ sites via yt-dlp</li>
 </ul>
 
@@ -63,9 +63,9 @@ LibVLC engine · PyQt6 glassmorphism UI · 14+ lyrics sources · 48-band visuali
 <tr><th>Feature</th><th>SANDYPLAY</th><th>VLC</th><th>foobar</th></tr>
 <tr><td>AI Offline Subtitles</td><td>✅</td><td>❌</td><td>❌</td></tr>
 <tr><td>Cloud Audio Mastering</td><td>✅</td><td>❌</td><td>❌</td></tr>
-<tr><td>Synced Lyrics (14+ src)</td><td>✅</td><td>❌</td><td>⚠️</td></tr>
-<tr><td>Lyrics Translation</td><td>✅</td><td>❌</td><td>❌</td></tr>
-<tr><td>AI Command Palette</td><td>✅</td><td>❌</td><td>❌</td></tr>
+<tr><td>Synced Lyrics (15 src)</td><td>✅</td><td>❌</td><td>⚠️</td></tr>
+<tr><td>Sandytalks AI Chatbot</td><td>✅</td><td>❌</td><td>❌</td></tr>
+<tr><td>Built-in ISP Bypass (DoH)</td><td>✅</td><td>❌</td><td>❌</td></tr>
 <tr><td>Anime Studio</td><td>✅</td><td>❌</td><td>❌</td></tr>
 <tr><td>300+ Radio Stations</td><td>✅</td><td>❌</td><td>❌</td></tr>
 <tr><td>Live IPTV</td><td>✅</td><td>❌</td><td>❌</td></tr>
@@ -87,20 +87,20 @@ LibVLC engine · PyQt6 glassmorphism UI · 14+ lyrics sources · 48-band visuali
 <h3>🤖 AI Engine</h3>
 <p>
 Whisper local subtitles<br/>
-Gemini translation &amp; chat<br/>
+<strong>Sandytalks AI</strong> music chat<br/>
+Gemini translation<br/>
 AI smart playlists<br/>
-AI video captions<br/>
-Natural language commands<br/>
-AI metadata cleaner
+AI metadata cleaner<br/>
+Natural language commands
 </p>
 </td>
 <td align="center" width="33%" valign="top">
 <h3>🎧 Audio Engine</h3>
 <p>
+10 Speaker Output Modes<br/>
+DTS (Music/Movies/Games)<br/>
 Dolby.io cloud mastering<br/>
-DTS 5-mode simulation<br/>
 10-band parametric EQ<br/>
-10 speaker modes<br/>
 SoX HiFi resampler<br/>
 0.25×–4.0× speed control
 </p>
@@ -109,10 +109,10 @@ SoX HiFi resampler<br/>
 <h3>🎬 Video Engine</h3>
 <p>
 LibVLC 3.x + NVDEC<br/>
-HDR simulation<br/>
+8 Aspect Ratios<br/>
+5 Crop Modes<br/>
 7 deinterlace modes<br/>
-8 aspect ratios<br/>
-Dynamic ambient theming<br/>
+Live color adjustments<br/>
 External subtitle support
 </p>
 </td>
@@ -147,7 +147,7 @@ Auto-save every 2 min<br/>
 Named snapshots<br/>
 Favorites &amp; recent plays<br/>
 A-B repeat &amp; bookmarks<br/>
-ISP bypass (GoodbyeDPI)<br/>
+DNS-over-HTTPS Bypass<br/>
 Mini player &amp; sleep timer
 </p>
 </td>
@@ -174,7 +174,7 @@ The most advanced open-source lyrics system built into a media player — **3-ti
 ⑪ AZLyrics · ⑫ SongLyrics · ⑬ ChartLyrics · ⑭ Happi.dev · ⑮ Lyrist</p>
 
 <p><strong>Tier 3 — AI Fallback</strong> (always works)<br/>
-🤖 Gemini AI generates lyrics — guaranteed, never fails</p>
+🤖 Sandytalks AI generates lyrics — guaranteed, never fails</p>
 
 </td>
 <td width="45%" valign="top">
@@ -216,12 +216,59 @@ flowchart TD
     end
     F --> G{"Plain found?"}
     G -- Yes --> Z
-    G -- No --> H["🤖 TIER 3 — Gemini AI"]
+    G -- No --> H["🤖 TIER 3 — Sandytalks AI"]
     H --> Z
     Z --> I(["💾 Cached"])
 ```
 
 </details>
+
+<br/>
+
+---
+
+## 🎧 Audio & Video Formats
+
+Natively powered by LibVLC, SANDYPLAY supports virtually every media format without requiring external codec packs.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎵 Audio Formats (12)</h3>
+<ul>
+<li><code>.mp3</code> <code>.wav</code> <code>.flac</code> <code>.m4a</code> <code>.ogg</code> <code>.aac</code></li>
+<li><code>.wma</code> <code>.opus</code> <code>.alac</code> <code>.ac3</code> <code>.eac3</code> <code>.thd</code></li>
+</ul>
+<p><strong>Speaker Output Modes:</strong></p>
+<ul>
+<li>Stereo / Reverse Stereo</li>
+<li>Left (Mono) / Right (Mono)</li>
+<li>Dolby Surround</li>
+<li>Surround 2.1 / 5.1 / 7.1</li>
+<li>Spatial 3D Audio</li>
+<li>Studio High-Fidelity</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎬 Video Formats (15)</h3>
+<ul>
+<li><code>.mp4</code> <code>.mkv</code> <code>.avi</code> <code>.mov</code> <code>.webm</code></li>
+<li><code>.flv</code> <code>.wmv</code> <code>.m4v</code> <code>.mpeg</code> <code>.mpg</code></li>
+<li><code>.ts</code> <code>.vob</code> <code>.3gp</code> <code>.rm</code> <code>.rmvb</code></li>
+</ul>
+<p><strong>Video Control:</strong></p>
+<ul>
+<li><strong>8 Aspect Ratios</strong>: 16:9, 4:3, 21:9, 16:10, 1.85:1, 2.35:1, 1:1, Original</li>
+<li><strong>5 Crop Modes</strong>: 16:9, 4:3, 21:9, 1:1, Original</li>
+<li>Live Contrast, Brightness, Saturation, Gamma &amp; Hue</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -304,7 +351,7 @@ Stream dubbed anime across **8 languages** — powered by AniNeko & AnimeSalt.
 <li>📺 Episode viewer with direct streaming</li>
 <li>❤️ Favorites &amp; custom playlists</li>
 <li>🖼️ Poster grid with lazy image loading</li>
-<li>🔒 Auto ISP bypass via GoodbyeDPI</li>
+<li>🔒 Auto ISP bypass via DNS-over-HTTPS</li>
 </ul>
 
 </td>
@@ -406,7 +453,7 @@ Sandytalks AI Chat<br/>
 <table>
 <tr><td>✅ Bundled</td><td>LibVLC + all codecs, Python runtime, SoX, VC++ runtimes</td></tr>
 <tr><td>⬇️ Auto-download</td><td>Whisper AI model (~1.5 GB on first use)</td></tr>
-<tr><td>🔑 Optional</td><td>Gemini API key (<a href="https://aistudio.google.com">get free</a>) · Dolby.io credentials (<a href="https://dolby.io">get free</a>)</td></tr>
+<tr><td>🔑 Optional</td><td>Google Account (for AI Chat) · Dolby.io credentials (cloud audio)</td></tr>
 </table>
 
 <br/>
@@ -427,7 +474,7 @@ Sandytalks AI Chat<br/>
 
 <details>
 <summary><strong>What API keys do I need?</strong></summary>
-<p><strong>None</strong> for core playback, EQ, DTS, visualizer, lyrics, radio, IPTV, anime, and all online studios. Gemini (free) for translation/AI chat. Dolby.io (free tier) for cloud mastering.</p>
+<p><strong>None</strong> for core playback, EQ, DTS, visualizer, lyrics, radio, IPTV, anime, and all online studios. A simple Google Account sign-in gives you access to the Sandytalks AI chatbot. Dolby.io (free tier) is optional for cloud mastering.</p>
 </details>
 
 <details>
@@ -481,10 +528,10 @@ graph TB
         VLC["Decoder + A/V Sync"] & DSP["DSP + EQ"] & DL["yt-dlp + FFmpeg"]
     end
     subgraph AI["🤖 AI"]
-        W["Whisper"] & G["Gemini"] & LY["Lyrics 14+"] & AE["Audio Energy"]
+        W["Whisper"] & G["Sandytalks AI"] & LY["Lyrics 15+"] & AE["Audio Energy"]
     end
     subgraph NET["🔒 Network"]
-        VPN["GoodbyeDPI"] & DOH["DoH DNS"] & PROXY["HLS Proxy"]
+        VPN["GoodbyeDPI"] & DOH["DoH Fallback DNS"] & PROXY["HLS Proxy"]
     end
     subgraph UI["🖥️ PyQt6 UI"]
         VW["Video + Music Widgets"] & VIS["Visualizer"] & CB["Controls"]
@@ -505,10 +552,10 @@ graph TB
 <tr><td>🖥️</td><td>PyQt6</td><td>Glassmorphism UI</td></tr>
 <tr><td>🎬</td><td>LibVLC 3.x</td><td>Media engine + NVDEC</td></tr>
 <tr><td>🤖</td><td>faster-whisper</td><td>Offline AI subtitles</td></tr>
-<tr><td>🧠</td><td>Gemini 1.5/2.5</td><td>Translation, AI chat</td></tr>
+<tr><td>🧠</td><td>Gemini 1.5/2.5</td><td>Sandytalks AI chatbot, translation</td></tr>
 <tr><td>☁️</td><td>Dolby.io</td><td>Cloud audio mastering</td></tr>
 <tr><td>📡</td><td>yt-dlp</td><td>1000+ site streaming</td></tr>
-<tr><td>🛡️</td><td>GoodbyeDPI</td><td>ISP bypass</td></tr>
+<tr><td>🛡️</td><td>DoH + GoodbyeDPI</td><td>ISP bypass via Alibaba/Cloudflare</td></tr>
 <tr><td>🏷️</td><td>mutagen</td><td>Media tag reading</td></tr>
 </table>
 
@@ -590,3 +637,18 @@ SANDYPLAY/
 
 <br/><br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sandytalks/SANDYPLAY&type=Date&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sandytalks/SANDYPLAY&type=Date"/>
+  <img src="https://api.star-history.com/svg?repos=sandytalks/SANDYPLAY&type=Date&theme=dark" alt="Star History" width="60%"/>
+</picture>
+
+<br/><br/>
+
+<p>⭐ <strong>If SANDYPLAY improved your experience, a star helps others find it.</strong></p>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=160&section=footer&animation=fadeIn&text=SANDYPLAY%20v1.15&fontSize=30&fontColor=ffffff&fontAlignY=55&desc=Free%20%26%20Open%20Source%20◈%20Windows%2010%20/%2011&descAlignY=78&descSize=13" width="100%"/>
