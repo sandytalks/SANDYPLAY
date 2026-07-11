@@ -620,7 +620,7 @@ SANDYPLAY/
 
 ## 📄 License
 
-**MIT License** — Copyright © 2026 Santhosh (Sandytalks)
+**MIT License** — Copyright © 2026 Sandytalks
 
 <sub>Third-party: VLC (LGPL) · FFmpeg (LGPL/GPL) · Whisper (MIT) · PyQt6 (GPL) · yt-dlp (Unlicense) · Dolby.io · Gemini API · GoodbyeDPI (MIT)</sub>
 
