@@ -337,7 +337,7 @@ Stream dubbed anime across **8 languages** — powered by AniNeko & AnimeSalt.
 <tr><td>🇮🇳 Tamil — AnimeSalt</td><td>🇬🇧 English — AniNeko</td></tr>
 <tr><td>🇮🇳 Hindi — AnimeSalt</td><td>🇪🇸 Spanish — AniNeko</td></tr>
 <tr><td>🇮🇳 Telugu — AnimeSalt</td><td>🇫🇷 French — AniNeko</td></tr>
-<tr><td>🇮🇳 Malayalam — AnimeSalt</td><td>🇧🇷 Portuguese — AniNeko</td></tr>
+<tr><td>🇮🇳 Malayalam — AnimeSalt</td><td>🇧🇷 Japanese — AniNeko</td></tr>
 </table>
 
 </td>
