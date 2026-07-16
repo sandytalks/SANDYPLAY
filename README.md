@@ -1,7 +1,6 @@
 
 # Welcome to SANDYPLAY!
 
-This is my new GitHub Pages site.
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=280&section=header&text=SANDYPLAY&fontSize=110&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI-Powered%20Media%20Studio%20for%20Windows&descAlignY=62&descSize=20&fontStyle=bold" width="100%"/>
