@@ -1,5 +1,4 @@
 
-# Welcome to SANDYPLAY!
 
 <div align="center">
 
