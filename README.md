@@ -1,8 +1,4 @@
 
----
-layout: default
----
-
 # Welcome to SANDYPLAY!
 
 This is my new GitHub Pages site.
