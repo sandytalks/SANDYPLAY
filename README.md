@@ -25,7 +25,7 @@ LibVLC engine · PyQt6 glassmorphism UI · 15 lyrics sources · 48-band visualiz
 <br/>
 
 <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/sandyplay1.16/SandyPlay_Setup_v1.16.exe">
-<img src="https://img.shields.io/badge/⬇%20Download%20SANDYPLAY%20v1.15-0ea5e9?style=for-the-badge&labelColor=020c1b" height="42" alt="Download"/>
+<img src="https://img.shields.io/badge/⬇%20Download%20SANDYPLAY%20v1.16-0ea5e9?style=for-the-badge&labelColor=020c1b" height="42" alt="Download"/>
 </a>
 
 <br/>
