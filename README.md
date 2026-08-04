@@ -590,10 +590,9 @@ SANDYPLAY/
 
 <table>
 <tr><th></th><th>Milestone</th><th>Version</th></tr>
-<tr><td>✅</td><td>Lyrics engine · Dolby · Whisper · DTS · FM radio</td><td>v1.13</td></tr>
-<tr><td>✅</td><td>Music studio · IPTV · session persistence</td><td>v1.14</td></tr>
-<tr><td>✅</td><td>Anime · ISP bypass · Video/Podcast studios · Mini player · AI chat</td><td>v1.15</td></tr>
-<tr><td>📋</td><td>Linux native build</td><td>v1.16</td></tr>
+<tr><td>✅</td><td>Lyrics engine · Dolby · Whisper · DTS · FM radio</td><td>v1.14</td></tr>
+<tr><td>✅</td><td>Music studio · IPTV · session persistence</td><td>v1.15</td></tr>
+<tr><td>✅</td><td>Anime · ISP bypass · Video/Podcast studios · Mini player · AI chat</td><td>v1.16</td></tr>
 <tr><td>📋</td><td>Podcast chapters · Watch Party (LAN sync)</td><td>v1.17–18</td></tr>
 <tr><td>💡</td><td>Discord presence · Cloud sync · DJ Mode · macOS · Android remote</td><td>Future</td></tr>
 </table>
@@ -632,9 +631,9 @@ SANDYPLAY/
 
 <div align="center">
 
-<p><strong>Built with ❤️ by <a href="https://www.instagram.com/itsyouhuman/">Santhosh</a></strong></p>
+<p><strong>Built with ❤️ by <a href="https://www.instagram.com/ifyouhuman/">Santhosh</a></strong></p>
 
-<a href="https://www.instagram.com/itsyouhuman/"><img src="https://img.shields.io/badge/@itsyouhuman-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/itsyouhuman/"><img src="https://img.shields.io/badge/@ifyouhuman-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;&nbsp;
 <a href="https://github.com/sandytalks/SANDYPLAY"><img src="https://img.shields.io/badge/sandytalks-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
