@@ -8,7 +8,7 @@
 
 <a href="https://github.com/sandytalks/SANDYPLAY/releases/latest"><img src="https://img.shields.io/badge/v1.16-0ea5e9?style=flat-square&logo=github&logoColor=white&label=release" alt="Release"/></a>&nbsp;
 <a href="https://github.com/sandytalks/SANDYPLAY/releases"><img src="https://img.shields.io/github/downloads/sandytalks/SANDYPLAY/total?style=flat-square&color=22c55e&label=downloads" alt="Downloads"/></a>&nbsp;
-<a href="LICENSE"><img src="https://img.shields.io/badge/MIT-a855f7?style=flat-square&label=license" alt="License"/></a>&nbsp;
+<a href="LICENSE"><img src="https://img.shields.io/badge/GPL 3.0-a855f7?style=flat-square&label=license" alt="License"/></a>&nbsp;
 <a href="https://github.com/sandytalks/SANDYPLAY/stargazers"><img src="https://img.shields.io/github/stars/sandytalks/SANDYPLAY?style=flat-square&color=eab308&label=stars" alt="Stars"/></a>&nbsp;
 <a href="https://github.com/sandytalks/SANDYPLAY/releases/latest"><img src="https://img.shields.io/badge/10%20/%2011-0078D6?style=flat-square&logo=windows&logoColor=white&label=windows" alt="Windows"/></a>&nbsp;
 <a href="https://python.org"><img src="https://img.shields.io/badge/3.10+-FFD43B?style=flat-square&logo=python&logoColor=black&label=python" alt="Python"/></a>
