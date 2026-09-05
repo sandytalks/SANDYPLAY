@@ -851,7 +851,8 @@ Press <code>E</code> to crossfade to the next track, <code>W</code> to crossfade
 | ✅ Done | Lyrics · Dolby.io · Whisper · DTS · Hardware FM | v1.14 |
 | ✅ Done | Music Studio · IPTV · Session snapshots | v1.15 |
 | ✅ Done | Anime Studio · ISP bypass · Video/Podcast studios | v1.16 |
-| ✅ Done | JioSaavn 320kbps · Spotify · Sophos SSL · Silero VAD v6 | v1.17 |
+| ✅ Done | JioSaavn 320kbps · Spotify · Sophos SSL · Silero VAD v6 | v1.17|
+| 📋 Building | Audio relay integration with Sandyplay | v1.18|
 | 📋 Building | **Online OTT Studio** | **v1.19** |
 | 💡 Planned | Discord Rich Presence · Watch Party · DJ Mode · macOS | Future |
 
