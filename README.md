@@ -24,14 +24,10 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.17.exe">
+  <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/sandyplay1.17/SandyPlay_Setup_v1.17.exe">
     <img src="https://img.shields.io/static/v1?label=DOWNLOAD&message=SANDYPLAY%20v1.17%20INSTALLER&color=0ea5e9&style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b" height="42" alt="Download SandyPlay Setup v1.17"/>
   </a>
   <br/><br/>
-  <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.17.exe"><b>Direct Download Link: SandyPlay_Setup_v1.17.exe</b></a> (380 MB Standalone Windows Installer)
-</p>
-
-<sub>⚡ <b>Self-Contained Installer</b> &bull; Windows 10 / 11 (64-bit) &bull; No Python or external dependencies required</sub>
 
 </div>
 
@@ -881,11 +877,11 @@ SANDYPLAY/
 <div align="center">
 
 <p align="center">
-  <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.17.exe">
+  <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/sandyplay1.17/SandyPlay_Setup_v1.17.exe">
     <img src="https://img.shields.io/static/v1?label=%E2%AC%87%20DOWNLOAD&message=SANDYPLAY%20v1.17%20INSTALLER&color=0ea5e9&style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b" height="42" alt="Download SandyPlay Setup v1.17"/>
   </a>
   <br/><br/>
-  <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.17.exe"><b>Click Here to Download: SandyPlay_Setup_v1.17.exe</b></a>
+  <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/sandyplay1.17/SandyPlay_Setup_v1.17.exe"><b>Click Here to Download: SandyPlay_Setup_v1.17.exe</b></a>
 </p>
 
 </div>
