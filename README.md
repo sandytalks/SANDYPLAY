@@ -1,34 +1,37 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=300&section=header&text=SANDYPLAY&fontSize=105&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI-Powered%20Multimedia%20Studio%20%26%20Hardware%20Receiver&descAlignY=62&descSize=20&fontStyle=bold" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0ea5e9,50:6366f1,100:8b5cf6&amp;height=300&amp;section=header&amp;text=SANDYPLAY&amp;fontSize=105&amp;fontAlignY=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=AI-Powered%20Multimedia%20Studio%20%2B%20Hardware%20Receiver&amp;descAlignY=62&amp;descSize=20&amp;fontStyle=bold" width="100%" alt="SANDYPLAY Banner"/>
 
 <br/>
 
 <!-- BADGES BAR -->
-<a href="https://github.com/sandytalks/SANDYPLAY/releases/latest"><img src="https://img.shields.io/badge/Release-v1.17-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Release v1.17"/></a>&nbsp;
-<a href="https://github.com/sandytalks/SANDYPLAY/releases"><img src="https://img.shields.io/github/downloads/sandytalks/SANDYPLAY/total?style=for-the-badge&color=22c55e&logo=tqdm&logoColor=white&label=Downloads" alt="Downloads"/></a>&nbsp;
-<a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL%203.0-a855f7?style=for-the-badge&logo=gnu&logoColor=white" alt="GPL 3.0"/></a>&nbsp;
-<a href="https://github.com/sandytalks/SANDYPLAY/stargazers"><img src="https://img.shields.io/github/stars/sandytalks/SANDYPLAY?style=for-the-badge&color=eab308&logo=apachespark&logoColor=white&label=Stars" alt="Stars"/></a>&nbsp;
-<a href="https://github.com/sandytalks/SANDYPLAY/releases/latest"><img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a>&nbsp;
-<a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.12+"/></a>
-
-<br/><br/>
+<p align="center">
+  <a href="https://github.com/sandytalks/SANDYPLAY/releases/latest"><img src="https://img.shields.io/badge/Release-v1.17-0ea5e9?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Release v1.17"/></a>&nbsp;
+  <a href="https://github.com/sandytalks/SANDYPLAY/releases"><img src="https://img.shields.io/badge/Downloads-v1.17_Active-22c55e?style=for-the-badge&amp;logo=tqdm&amp;logoColor=white" alt="Downloads"/></a>&nbsp;
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL_3.0-a855f7?style=for-the-badge&amp;logo=gnu&amp;logoColor=white" alt="GPL 3.0"/></a>&nbsp;
+  <a href="https://github.com/sandytalks/SANDYPLAY/stargazers"><img src="https://img.shields.io/badge/Stars-sandytalks-eab308?style=for-the-badge&amp;logo=apachespark&amp;logoColor=white" alt="Stars"/></a>&nbsp;
+  <a href="https://github.com/sandytalks/SANDYPLAY/releases/latest"><img src="https://img.shields.io/badge/Platform-Windows_10_%2F_11-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows"/></a>&nbsp;
+  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python 3.12+"/></a>
+</p>
 
 <p align="center">
-<b>Faster-Whisper</b> (99-Language Offline AI Subtitles · Silero VAD v6) &nbsp;·&nbsp; <b>Sandytalks AI</b> (Gemini 2.5 Flash)<br/>
-<b>Dolby.io</b> (Cloud Audio Mastering) &nbsp;·&nbsp; <b>JioSaavn 320kbps &amp; Spotify</b> (pyDes Decrypted) &nbsp;·&nbsp; <b>LibVLC 3.x</b> (NVDEC 4K)<br/>
-<b>RTL-SDR Hardware FM</b> &nbsp;·&nbsp; <b>GoodbyeDPI + DoH</b> (ISP &amp; Campus Bypass) &nbsp;·&nbsp; <b>15-Provider Lyrics Engine</b> &nbsp;·&nbsp; <b>48-Band Visualizer</b>
+  <b>Faster-Whisper</b> (99-Language Offline AI Subtitles &bull; Silero VAD v6) &nbsp;&bull;&nbsp; <b>Sandytalks AI</b> (Gemini 2.5 Flash)<br/>
+  <b>Dolby.io</b> (Cloud Audio Mastering) &nbsp;&bull;&nbsp; <b>JioSaavn 320kbps &amp; Spotify</b> (pyDes Decrypted) &nbsp;&bull;&nbsp; <b>LibVLC 3.x</b> (NVDEC 4K)<br/>
+  <b>RTL-SDR Hardware FM</b> &nbsp;&bull;&nbsp; <b>GoodbyeDPI + DoH</b> (ISP &amp; Campus Bypass) &nbsp;&bull;&nbsp; <b>15-Provider Lyrics Engine</b> &nbsp;&bull;&nbsp; <b>48-Band Visualizer</b>
 </p>
 
 <br/>
 
-<a href="https://github.com/sandytalks/SANDYPLAY/releases/download/sandyplay1.17/SandyPlay_Setup_v1.17.exe">
-<img src="https://img.shields.io/badge/DOWNLOAD%20SANDYPLAY%20v1.17%20INSTALLER-0ea5e9?style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b" height="52" alt="Download SandyPlay Setup v1.17"/>
-</a>
+<p align="center">
+  <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.17.exe">
+    <img src="https://img.shields.io/badge/DOWNLOAD_SANDYPLAY_v1.17_INSTALLER-0ea5e9?style=for-the-badge&amp;logo=windows&amp;logoColor=white&amp;labelColor=020c1b" height="50" alt="Download SandyPlay Setup v1.17"/>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.17.exe"><b>Direct Download Link: SandyPlay_Setup_v1.17.exe</b></a> (380 MB Standalone Windows Installer)
+</p>
 
-<br/><br/>
-<sub>⚡ <b>Self-Contained Installer</b> · Windows 10 / 11 (64-bit) · No Python or external dependencies required</sub>
+<sub>⚡ <b>Self-Contained Installer</b> &bull; Windows 10 / 11 (64-bit) &bull; No Python or external dependencies required</sub>
 
 </div>
 
@@ -36,31 +39,31 @@
 
 ---
 
-## 🧠 What Makes SANDYPLAY Unique?
+<h2 id="what-makes-sandyplay-unique">🧠 What Makes SANDYPLAY Unique?</h2>
 
-> SANDYPLAY is not a media player. It is a **complete multimedia studio** — engineered from the ground up with AI-native architecture, hardware integration, enterprise-grade network bypass, audiophile DSP, and a full online content ecosystem. Everything runs locally, offline-capable, and without subscriptions.
+<blockquote>
+SANDYPLAY is not a media player. It is a <b>complete multimedia studio</b> &mdash; engineered from the ground up with AI-native architecture, hardware integration, enterprise-grade network bypass, audiophile DSP, and a full online content ecosystem. Everything runs locally, offline-capable, and without subscriptions.
+</blockquote>
 
 <br/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=4&section=header" width="100%"/>
+<h2 id="the-definitive-comparison">🏆 The Definitive Comparison</h2>
 
-## 🏆 The Definitive Comparison
+<p><em>How SANDYPLAY stacks up against the best in the world.</em></p>
 
-*How SANDYPLAY stacks up against the best in the world.*
-
-<table>
+<table width="100%">
 <thead>
 <tr>
-<th align="left">Feature</th>
-<th align="center">🏅 SANDYPLAY</th>
-<th align="center">VLC 3.x</th>
-<th align="center">PotPlayer</th>
-<th align="center">MPC-HC</th>
-<th align="center">foobar2000</th>
-<th align="center">Kodi</th>
-<th align="center">MPV</th>
+  <th align="left">Feature</th>
+  <th align="center">🏅 SANDYPLAY</th>
+  <th align="center">VLC 3.x</th>
+  <th align="center">PotPlayer</th>
+  <th align="center">MPC-HC</th>
+  <th align="center">foobar2000</th>
+  <th align="center">Kodi</th>
+  <th align="center">MPV</th>
 </tr>
 </thead>
 <tbody>
@@ -102,49 +105,59 @@
 </tbody>
 </table>
 
-> ✅ = Native built-in &nbsp;·&nbsp; ⚠️ = Partial / Plugin-required &nbsp;·&nbsp; ❌ = Not available
+<p><em>✅ = Native built-in &nbsp;&bull;&nbsp; ⚠️ = Partial / Plugin-required &nbsp;&bull;&nbsp; ❌ = Not available</em></p>
 
 <br/>
 
 ---
 
-## 🤖 AI &amp; Intelligence Layer
+<h2 id="ai-and-intelligence-layer">🤖 AI &amp; Intelligence Layer</h2>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🎤 Faster-Whisper Subtitle Engine
+<h3>🎤 Faster-Whisper Subtitle Engine</h3>
 
-> **100% offline** · 99 languages · Silero VAD v6 neural silence filter
+<p><b>100% offline</b> &bull; 99 languages &bull; Silero VAD v6 neural silence filter</p>
 
-- **Model selection**: Tiny → Large-v3 (auto-cached on first use, ~1.5 GB)
-- **Silero VAD v6** strips silence before transcription for maximum accuracy
-- **SRT output** permanently cached per track — zero re-transcription on replay
-- **Auto-trigger** for video files — subtitles appear automatically
-- **Manual override**: `Ctrl+T` or AI Tools menu
-- **Sub sync hotkeys**: `R` / `Shift+R` (−0.1s / −0.5s), `T` / `Shift+T` (+0.1s / +0.5s)
-- **Subtitle track cycle**: `Z`
+<ul>
+  <li><b>Model selection:</b> Tiny &rarr; Large-v3 (auto-cached on first use, ~1.5 GB)</li>
+  <li><b>Silero VAD v6:</b> Strips silence before transcription for maximum accuracy</li>
+  <li><b>SRT output:</b> Permanently cached per track &mdash; zero re-transcription on replay</li>
+  <li><b>Auto-trigger:</b> For video files &mdash; subtitles appear automatically</li>
+  <li><b>Manual override:</b> <code>Ctrl+T</code> or AI Tools menu</li>
+  <li><b>Sub sync hotkeys:</b> <code>R</code> / <code>Shift+R</code> (&minus;0.1s / &minus;0.5s), <code>T</code> / <code>Shift+T</code> (+0.1s / +0.5s)</li>
+  <li><b>Subtitle track cycle:</b> <code>Z</code></li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
-### ✨ Sandytalks AI (Gemini 2.5 Flash)
+<h3>✨ Sandytalks AI (Gemini 2.5 Flash)</h3>
 
-> Media-aware chatbot grounded in live ID3 tags and LRCLib lyrics
+<p><em>Media-aware chatbot grounded in live ID3 tags and LRCLib lyrics</em></p>
 
-| AI Tool | What It Does |
-|---------|-------------|
-| **AI Clean Metadata** | Auto-corrects title, artist, album via Gemini |
-| **AI Smart Playlist** | Generates mood/genre-matched queue |
-| **AI Recommend Next** | Suggests next track from listening history |
-| **AI Summarize Lyrics** | Poetic Gemini-powered lyric meaning card |
-| **AI Command Palette** | Natural language media commands |
-| **Translate Lyrics → EN** | Full lyrics → English via Gemini |
-| **Translate Lyrics → TA** | Full lyrics → Tamil via Gemini |
-| **Translate Caption → EN/TA** | Whisper subtitle translation |
-| **Bilingual Lyrics View** | Side-by-side original + translated panel |
-| **Instant Video Caption** | One-click Gemini scene description |
+<table width="100%">
+<thead>
+<tr>
+  <th align="left">AI Tool</th>
+  <th align="left">What It Does</th>
+</tr>
+</thead>
+<tbody>
+<tr><td><b>AI Clean Metadata</b></td><td>Auto-corrects title, artist, album via Gemini</td></tr>
+<tr><td><b>AI Smart Playlist</b></td><td>Generates mood/genre-matched queue</td></tr>
+<tr><td><b>AI Recommend Next</b></td><td>Suggests next track from listening history</td></tr>
+<tr><td><b>AI Summarize Lyrics</b></td><td>Poetic Gemini-powered lyric meaning card</td></tr>
+<tr><td><b>AI Command Palette</b></td><td>Natural language media commands</td></tr>
+<tr><td><b>Translate Lyrics &rarr; EN</b></td><td>Full lyrics &rarr; English via Gemini</td></tr>
+<tr><td><b>Translate Lyrics &rarr; TA</b></td><td>Full lyrics &rarr; Tamil via Gemini</td></tr>
+<tr><td><b>Translate Caption &rarr; EN/TA</b></td><td>Whisper subtitle translation</td></tr>
+<tr><td><b>Bilingual Lyrics View</b></td><td>Side-by-side original + translated panel</td></tr>
+<tr><td><b>Instant Video Caption</b></td><td>One-click Gemini scene description</td></tr>
+</tbody>
+</table>
 
 </td>
 </tr>
@@ -154,50 +167,56 @@
 
 ---
 
-## 🎤 3-Tier Parallel Lyrics Engine
+<h2 id="3-tier-parallel-lyrics-engine">🎤 3-Tier Parallel Lyrics Engine</h2>
 
-> **15 providers · 3 tiers · Guaranteed delivery every time**
+<p><b>15 providers &bull; 3 tiers &bull; Guaranteed delivery every time</b></p>
 
-<table>
+<table width="100%">
 <tr>
 <td width="55%" valign="top">
 
-**⚡ Tier 1 — Synced LRC** *(8-second parallel deadline)*
-> ① LRCLib · ② Kugou (50M+ tracks) · ③ NetEase · ④ Textyl · ⑤ Megalobiz
+<p><b>⚡ Tier 1 &mdash; Synced LRC</b> <i>(8-second parallel deadline)</i><br/>
+&emsp;① LRCLib &bull; ② Kugou (50M+ tracks) &bull; ③ NetEase &bull; ④ Textyl &bull; ⑤ Megalobiz</p>
 
-**📝 Tier 2 — Plain Lyrics** *(12-second parallel deadline)*
-> ⑥ JioSaavn · ⑦ Gaana · ⑧ Vagalume · ⑨ Lyrics.ovh · ⑩ Musixmatch
-> ⑪ AZLyrics · ⑫ SongLyrics · ⑬ ChartLyrics · ⑭ Happi.dev · ⑮ Lyrist
+<p><b>📝 Tier 2 &mdash; Plain Lyrics</b> <i>(12-second parallel deadline)</i><br/>
+&emsp;⑥ JioSaavn &bull; ⑦ Gaana &bull; ⑧ Vagalume &bull; ⑨ Lyrics.ovh &bull; ⑩ Musixmatch<br/>
+&emsp;⑪ AZLyrics &bull; ⑫ SongLyrics &bull; ⑬ ChartLyrics &bull; ⑭ Happi.dev &bull; ⑮ Lyrist</p>
 
-**🤖 Tier 3 — Sandytalks AI Synthesis** *(100% guaranteed)*
-> When all 14 providers return empty, Gemini 2.5 Flash synthesizes exact lyrics from the track's ID3 title, artist, and album metadata.
+<p><b>🤖 Tier 3 &mdash; Sandytalks AI Synthesis</b> <i>(100% guaranteed)</i><br/>
+&emsp;When all 14 providers return empty, Gemini 2.5 Flash synthesizes exact lyrics from the track's ID3 title, artist, and album metadata.</p>
 
 </td>
 <td width="45%" valign="top">
 
-**Pipeline Intelligence:**
-- 📂 Instant disk cache (MD5-keyed JSON per track)
-- 📄 Sidecar `.lrc` and `.txt` file auto-detection
-- ⚡ Parallel multi-provider execution (no serial waiting)
-- 🎯 Fuzzy title matching (Levenshtein ratio > 0.72)
-- 🔄 4 title variant queries per provider
-- 📦 Batch pre-fetch: 200 tracks simultaneously
-- ⏱️ Manual sync: `G` / `Shift+G` (−0.3s / −1.0s), `H` / `Shift+H` (+0.3s / +1.0s)
-- 🎵 Synced karaoke panel with word-level highlight
+<h4>Pipeline Intelligence:</h4>
+
+<ul>
+  <li>📂 <b>Instant disk cache:</b> MD5-keyed JSON per track</li>
+  <li>📄 <b>Sidecar support:</b> Auto-detects <code>.lrc</code> and <code>.txt</code> files</li>
+  <li>⚡ <b>Parallel execution:</b> Multi-provider query (no serial waiting)</li>
+  <li>🎯 <b>Fuzzy matching:</b> Levenshtein ratio &gt; 0.72</li>
+  <li>🔄 <b>4 title variant queries</b> per provider</li>
+  <li>📦 <b>Batch pre-fetch:</b> 200 tracks simultaneously</li>
+  <li>⏱️ <b>Manual sync:</b> <code>G</code> / <code>Shift+G</code> (&minus;0.3s / &minus;1.0s), <code>H</code> / <code>Shift+H</code> (+0.3s / +1.0s)</li>
+  <li>🎵 <b>Synced karaoke panel</b> with word-level highlight</li>
+</ul>
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><strong>🔍 Click to expand — Lyrics Pipeline Flowchart</strong></summary>
+<summary><strong>🔍 Click to expand &mdash; Lyrics Pipeline Flowchart</strong></summary>
 <br/>
 
 ```mermaid
 flowchart TD
-    A(["🎵 Track Loaded"]) --> B{"📂 Disk Cache\nMD5 key?"}
-    B -- Hit --> Z(["✨ Render Synced\nKaraoke Lyrics"])
-    B -- Miss --> C{"📄 Sidecar\n.lrc / .txt?"}
+    A(["🎵 Track Loaded"]) --> B{"📂 Disk Cache
+MD5 key?"}
+    B -- Hit --> Z(["✨ Render Synced
+Karaoke Lyrics"])
+    B -- Miss --> C{"📄 Sidecar
+.lrc / .txt?"}
     C -- Found --> Z
     C -- None --> D
     subgraph D["⚡ TIER 1 — Synced LRC (8s Parallel)"]
@@ -211,7 +230,8 @@ flowchart TD
     end
     F --> G{"Plain Match?"}
     G -- Yes --> Z
-    G -- No --> H["🤖 TIER 3 — Sandytalks AI\nGemini 2.5 Flash"]
+    G -- No --> H["🤖 TIER 3 — Sandytalks AI
+Gemini 2.5 Flash"]
     H --> Z
     Z --> I(["💾 ~/.sandyplay/lyrics/"])
 ```
@@ -222,50 +242,68 @@ flowchart TD
 
 ---
 
-## 🎧 Audiophile DSP Engine
+<h2 id="audiophile-dsp-engine">🎧 Audiophile DSP Engine</h2>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🔊 10 Hardware Speaker Profiles
+<h3>🔊 10 Hardware Speaker Profiles</h3>
 
-*Each profile applies dedicated acoustic EQ curves + real-time DSP spatializer (extracted from `_speaker_audio_profile` in `player54.py`).*
+<p><em>Each profile applies dedicated acoustic EQ curves + real-time DSP spatializer (extracted from <code>_speaker_audio_profile</code> in <code>player54.py</code>):</em></p>
 
-| Mode | DSP Signature |
-|------|--------------|
-| **Stereo** | Natural Pristine Stereo (flat) |
-| **Reverse Stereo** | L/R Swapped + Spatial Phase |
-| **Left (Mono)** | Left Mono Balanced |
-| **Right (Mono)** | Right Mono Balanced |
-| **Surround 2.1** | Subwoofer LFE Pump + Satellite Separation |
-| **Dolby Surround** | Cinema Center Dialog + Surround Matrix |
-| **Surround 5.1** | 3D Virtual Theater + Deep Subwoofer LFE |
-| **Surround 7.1** | 360° IMAX Dome Immersion + Ultra LFE |
-| **Spatial 3D Audio** | Binaural HRTF Virtualization (Out-of-Head) |
-| **Studio High-Fidelity** | Audiophile Master Reference (Transparent) |
+<table width="100%">
+<thead>
+<tr>
+  <th align="left">Mode</th>
+  <th align="left">DSP Signature</th>
+</tr>
+</thead>
+<tbody>
+<tr><td><b>Stereo</b></td><td>Natural Pristine Stereo (flat)</td></tr>
+<tr><td><b>Reverse Stereo</b></td><td>L/R Swapped + Spatial Phase</td></tr>
+<tr><td><b>Left (Mono)</b></td><td>Left Mono Balanced</td></tr>
+<tr><td><b>Right (Mono)</b></td><td>Right Mono Balanced</td></tr>
+<tr><td><b>Surround 2.1</b></td><td>Subwoofer LFE Pump + Satellite Separation</td></tr>
+<tr><td><b>Dolby Surround</b></td><td>Cinema Center Dialog + Surround Matrix</td></tr>
+<tr><td><b>Surround 5.1</b></td><td>3D Virtual Theater + Deep Subwoofer LFE</td></tr>
+<tr><td><b>Surround 7.1</b></td><td>360&deg; IMAX Dome Immersion + Ultra LFE</td></tr>
+<tr><td><b>Spatial 3D Audio</b></td><td>Binaural HRTF Virtualization (Out-of-Head)</td></tr>
+<tr><td><b>Studio High-Fidelity</b></td><td>Audiophile Master Reference (Transparent)</td></tr>
+</tbody>
+</table>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎛️ DTS Studio + DSP Processing
+<h3>🎛️ DTS Studio + DSP Processing</h3>
 
-**DTS Content Modes** *(simulated with live DSP from `player54.py`)*
+<p><b>DTS Content Modes</b> <em>(simulated with live DSP from <code>player54.py</code>):</em></p>
 
-| Mode | DSP Effect |
-|------|-----------|
-| 🎵 **Music** | +2 dB 62 Hz bass + +2 dB 8 kHz air |
-| 🎬 **Movies** | +3 dB sub-bass + +2.5 dB vocal clarity |
-| 🎮 **Games** | +3 dB 4 kHz + +3.5 dB 8 kHz spatial |
-| ⭐ **Custom Audio** | Manual EQ takes full control |
-| ❌ **Off** | Flat DSP passthrough |
+<table width="100%">
+<thead>
+<tr>
+  <th align="left">Mode</th>
+  <th align="left">DSP Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>🎵 <b>Music</b></td><td>+2 dB 62 Hz bass + +2 dB 8 kHz air</td></tr>
+<tr><td>🎬 <b>Movies</b></td><td>+3 dB sub-bass + +2.5 dB vocal clarity</td></tr>
+<tr><td>🎮 <b>Games</b></td><td>+3 dB 4 kHz + +3.5 dB 8 kHz spatial</td></tr>
+<tr><td>⭐ <b>Custom Audio</b></td><td>Manual EQ takes full control</td></tr>
+<tr><td>❌ <b>Off</b></td><td>Flat DSP passthrough</td></tr>
+</tbody>
+</table>
 
-**Additional Processing:**
-- 🎚️ **10-Band Parametric EQ** with per-band fine control
-- 🔊 **Dynamic Punch Expander** — +2.5 dB 62 Hz, +1.5 dB 1 kHz vocal
-- 🎵 **SoX HiFi Resampler** — transparent upsampling
-- ☁️ **Dolby.io Cloud Mastering** — loudness normalization, noise suppression
-- ⚡ **0.25× – 4.0×** pitch-preserved speed (`[` / `]` keys)
+<h4>Additional Processing:</h4>
+<ul>
+  <li>🎚️ <b>10-Band Parametric EQ</b> with per-band fine control</li>
+  <li>🔊 <b>Dynamic Punch Expander:</b> +2.5 dB 62 Hz, +1.5 dB 1 kHz vocal</li>
+  <li>🎵 <b>SoX HiFi Resampler:</b> Transparent upsampling</li>
+  <li>☁️ <b>Dolby.io Cloud Mastering:</b> Loudness normalization, noise suppression</li>
+  <li>⚡ <b>0.25&times; &ndash; 4.0&times;</b> pitch-preserved speed (<code>[</code> / <code>]</code> keys)</li>
+</ul>
 
 </td>
 </tr>
@@ -275,74 +313,121 @@ flowchart TD
 
 ---
 
-## 🎬 Playback Engine &amp; Video Controls
+<h2 id="playback-engine-and-video-controls">🎬 Playback Engine &amp; Video Controls</h2>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Core Engine
+<h3>⚙️ Core Engine</h3>
+<ul>
+  <li><b>LibVLC 3.x</b> &mdash; Battle-tested C++ multimedia core</li>
+  <li><b>NVDEC 4K hardware acceleration</b> &mdash; GPU-decoded video on NVIDIA</li>
+  <li><b>yt-dlp</b> &mdash; 1000+ site stream extractor</li>
+  <li><b>Playwright</b> &mdash; Headless Chromium for DRM-lite stream resolution</li>
+  <li><b>Parallel Stream Proxy (port 8001)</b> &mdash; Real-time mux of split video + audio CDN streams</li>
+</ul>
 
-- **LibVLC 3.x** — battle-tested C++ multimedia core
-- **NVDEC 4K hardware acceleration** — GPU-decoded video on NVIDIA
-- **yt-dlp** — 1000+ site stream extractor
-- **Playwright** — headless Chromium for DRM-lite stream resolution
-- **Parallel Stream Proxy** (port 8001) — real-time mux of split video + audio CDN streams
-
-### ▶️ Playback (from `create_menu_bar` in `player54.py`)
-
-- Play / Pause · Stop · Next / Previous
-- **Crossfade to Next** `E` · **Crossfade to Prev** `W`
-- **Crossfade Duration +1s** `Shift+E` · **−1s** `Shift+W`
-- Seek −10s / +10s · Seek −30s / +30s (`Alt+Arrow`)
-- Volume Up / Down (`↑`/`↓`) · Mute `M`
-- Speed `[` / `]` · Loop `L` · Stop `S`
-- Cycle Audio Track `X` · Cycle Subtitle Track `Z`
+<h3>▶️ Playback Controls</h3>
+<ul>
+  <li>Play / Pause &bull; Stop &bull; Next / Previous</li>
+  <li><b>Crossfade to Next:</b> <code>E</code> &bull; <b>Crossfade to Prev:</b> <code>W</code></li>
+  <li><b>Crossfade Duration:</b> <code>Shift+E</code> (+1s) &bull; <code>Shift+W</code> (&minus;1s)</li>
+  <li><b>Seek:</b> &minus;10s / +10s (<code>&larr;</code>/<code>&rarr;</code>) &bull; &minus;30s / +30s (<code>Alt+&larr;</code>/<code>Alt+&rarr;</code>)</li>
+  <li><b>Volume:</b> <code>&uarr;</code> / <code>&darr;</code> &bull; <b>Mute:</b> <code>M</code></li>
+  <li><b>Speed:</b> <code>[</code> / <code>]</code> &bull; <b>Loop:</b> <code>L</code> &bull; <b>Stop:</b> <code>S</code></li>
+  <li><b>Cycle Audio Track:</b> <code>X</code> &bull; <b>Cycle Subtitle Track:</b> <code>Z</code></li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 Video Processing
+<h3>🎬 Video Processing</h3>
 
-**8 Aspect Ratios:**
-`16:9` · `4:3` · `21:9` · `16:10` · `1.85:1` · `2.35:1` · `1:1` · `Original`
+<p><b>8 Aspect Ratios:</b><br/>
+<code>16:9</code> &bull; <code>4:3</code> &bull; <code>21:9</code> &bull; <code>16:10</code> &bull; <code>1.85:1</code> &bull; <code>2.35:1</code> &bull; <code>1:1</code> &bull; <code>Original</code></p>
 
-**5 Crop Modes:**
-`16:9` · `4:3` · `21:9` · `1:1` · `Original` — cycle with `C`
+<p><b>5 Crop Modes (cycle with <code>C</code>):</b><br/>
+<code>16:9</code> &bull; <code>4:3</code> &bull; <code>21:9</code> &bull; <code>1:1</code> &bull; <code>Original</code></p>
 
-**7 Deinterlace Algorithms:**
-`Yadif` · `Blend` · `Bob` · `Discard` · `Linear` · `Mean` · `X`
+<p><b>7 Deinterlace Algorithms:</b><br/>
+<code>Yadif</code> &bull; <code>Blend</code> &bull; <code>Bob</code> &bull; <code>Discard</code> &bull; <code>Linear</code> &bull; <code>Mean</code> &bull; <code>X</code></p>
 
-**Live Adjustments:**
-- Contrast · Brightness · Saturation · Gamma · Hue
-- Zoom In/Out (`Ctrl+Scroll`) · Reset Zoom
-- Frame Size → Aspect Ratio → Window Size menus
-
-**Subtitle Rendering:**
-- External `.srt` / `.ass` / `.vtt` / `.sub` support
-- Whisper-generated `.srt` auto-loaded per track
-- Sub delay fine-sync: `R/T` (±0.1s), `Shift+R/T` (±0.5s)
-
-**Screenshot:** `Video → Screenshot` — saves full-res frame
+<h4>Live Video Adjustments:</h4>
+<ul>
+  <li>Contrast &bull; Brightness &bull; Saturation &bull; Gamma &bull; Hue</li>
+  <li>Zoom In/Out (<code>Ctrl+Scroll</code>) &bull; Reset Zoom</li>
+  <li>Frame Size &rarr; Aspect Ratio &rarr; Window Size menus</li>
+  <li><b>Subtitle Rendering:</b> External <code>.srt</code> / <code>.ass</code> / <code>.vtt</code> / <code>.sub</code></li>
+  <li><b>Sub Delay Sync:</b> <code>R/T</code> (&plusmn;0.1s), <code>Shift+R/T</code> (&plusmn;0.5s)</li>
+  <li><b>Screenshot:</b> <code>Video &rarr; Screenshot</code> (saves full-res frame)</li>
+</ul>
 
 </td>
 </tr>
 </table>
 
-### 🎵 Supported Formats
+<h3>🎵 Supported Formats</h3>
 
-<table>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+  <h4>Audio (12+ formats)</h4>
+  <code>mp3</code> <code>flac</code> <code>wav</code> <code>m4a</code> <code>aac</code> <code>ogg</code> <code>opus</code> <code>alac</code> <code>wma</code> <code>ac3</code> <code>eac3</code> <code>thd</code>
+</td>
+<td width="50%" valign="top">
+  <h4>Video (15+ formats)</h4>
+  <code>mp4</code> <code>mkv</code> <code>avi</code> <code>mov</code> <code>webm</code> <code>flv</code> <code>wmv</code> <code>m4v</code> <code>mpeg</code> <code>mpg</code> <code>ts</code> <code>vob</code> <code>3gp</code> <code>rm</code> <code>rmvb</code>
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<h2 id="online-music-studio">🎵 Online Music Studio</h2>
+
+<p><b>One unified search across JioSaavn (320kbps) &bull; YouTube &bull; Spotify catalog</b></p>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**Audio (12+ formats)**
-`mp3` `flac` `wav` `m4a` `aac` `ogg` `opus` `alac` `wma` `ac3` `eac3` `thd`
+<h3>🎵 JioSaavn 320kbps Engine</h3>
+<ul>
+  <li><b>jiosaavnpy + pyDes decryption:</b> Fetches and decrypts CDN URLs locally</li>
+  <li><b>Direct 320 kbps <code>.m4a</code> streams:</b> No quality cap</li>
+  <li><b>Search:</b> By song, album, artist, or playlist</li>
+  <li><b>Metadata:</b> Artwork, duration, and ID3 tags fetched simultaneously</li>
+</ul>
+
+<h3>🎧 Spotify Catalog Discovery</h3>
+<ul>
+  <li><b>Zero authentication:</b> No account required</li>
+  <li><b>Browse:</b> Tracks, albums, artists, and playlists</li>
+  <li><b>Resolution:</b> Resolves to playable streams via yt-dlp</li>
+  <li><b>Campus ready:</b> Works seamlessly with GoodbyeDPI ISP bypass</li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
-**Video (15+ formats)**
-`mp4` `mkv` `avi` `mov` `webm` `flv` `wmv` `m4v` `mpeg` `mpg` `ts` `vob` `3gp` `rm` `rmvb`
+<h3>▶️ YouTube Music &amp; Video</h3>
+<ul>
+  <li><b>Search + Trending:</b> In one unified panel</li>
+  <li><b>Resolution selector:</b> 360p &rarr; 4K UHD</li>
+  <li><b>Auto-queue:</b> Playlists and channels</li>
+  <li><b>Stream proxy:</b> Real-time mux of split video + audio CDN streams</li>
+</ul>
+
+<h3>🎙️ iTunes Podcast Discovery</h3>
+<ul>
+  <li><b>Global directory:</b> Browse with iTunes RSS feeds</li>
+  <li><b>Category-based discovery:</b> News, Tech, Comedy, Science</li>
+  <li><b>Direct playback:</b> Instant streaming with full seek support</li>
+  <li><b>Auto-artwork:</b> High-resolution cover art &amp; episode info</li>
+</ul>
 
 </td>
 </tr>
@@ -352,84 +437,51 @@ flowchart TD
 
 ---
 
-## 🎵 Online Music Studio
+<h2 id="online-tv---live-iptv-studio">📺 Online TV &mdash; Live IPTV Studio</h2>
 
-> **One unified search** across JioSaavn (320kbps) · YouTube · Spotify catalog
+<p><b>10 aggregated public IPTV networks &bull; Searchable &bull; Auto-deduplicated</b></p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 JioSaavn 320kbps Engine
-- **jiosaavnpy + pyDes decryption** — fetches and decrypts CDN URL locally
-- Direct 320 kbps `.m4a` streams — no quality cap
-- Search by song, album, artist, or playlist
-- Artwork, duration, and ID3 tags fetched simultaneously
-
-### 🎧 Spotify Catalog Discovery
-- **Zero authentication** — no account required
-- Browse tracks, albums, artists, and playlists
-- Resolve to playable streams via yt-dlp
-- Works seamlessly with GoodbyeDPI ISP bypass
-
-</td>
-<td width="50%" valign="top">
-
-### ▶️ YouTube Music &amp; Video
-- **Search + Trending** in one unified panel
-- Resolution selector (360p → 4K)
-- Auto-queue playlists and channels
-- Stream proxy for split audio/video CDN URLs
-
-### 🎙️ iTunes Podcast Discovery
-- Browse global podcast directory with iTunes RSS
-- Category-based discovery
-- Direct episode playback with seek support
-- Auto-artwork and episode metadata
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## 📺 Online TV — Live IPTV Studio
-
-> **10 aggregated public IPTV networks · searchable · auto-deduplicated**
-
-<table>
+<table width="100%">
 <tr>
 <td width="55%" valign="top">
 
-**10 Aggregated Sources:**
+<h4>10 Aggregated Sources:</h4>
 
-| Source | Coverage |
-|--------|---------|
-| **iptv-org** | Global community directory |
-| **Free-TV** | Free-to-air international channels |
-| **PlutoTV** | 200+ US streaming live channels |
-| **Samsung TV+** | Samsung Smart TV free content |
-| **Plex** | Plex free live TV catalog |
-| **Roku** | Roku Channel live streams |
-| **PBS** | US public broadcasting |
-| **Stirr** | Sinclair Broadcasting streams |
-| **Tubi** | Tubi live TV library |
-| **LocalNow** | Local and regional US news |
+<table width="100%">
+<thead>
+<tr>
+  <th align="left">Source</th>
+  <th align="left">Coverage</th>
+</tr>
+</thead>
+<tbody>
+<tr><td><b>iptv-org</b></td><td>Global community directory</td></tr>
+<tr><td><b>Free-TV</b></td><td>Free-to-air international channels</td></tr>
+<tr><td><b>PlutoTV</b></td><td>200+ US streaming live channels</td></tr>
+<tr><td><b>Samsung TV+</b></td><td>Samsung Smart TV free content</td></tr>
+<tr><td><b>Plex</b></td><td>Plex free live TV catalog</td></tr>
+<tr><td><b>Roku</b></td><td>Roku Channel live streams</td></tr>
+<tr><td><b>PBS</b></td><td>US public broadcasting</td></tr>
+<tr><td><b>Stirr</b></td><td>Sinclair Broadcasting streams</td></tr>
+<tr><td><b>Tubi</b></td><td>Tubi live TV library</td></tr>
+<tr><td><b>LocalNow</b></td><td>Local and regional US news</td></tr>
+</tbody>
+</table>
 
 </td>
 <td width="45%" valign="top">
 
-**Browse &amp; Filter:**
+<h4>Browse &amp; Filter:</h4>
 
-- 🌐 **All Channels** — complete deduplicated directory
-- 🎥 **Genre Wise** — News · Movies · Music · Kids · Sports
-- 🗣️ **Language Wise** — Tamil · Hindi · English · Korean · Spanish...
-- 🌍 **Region Wise** — India (state-level) · USA · UK · Japan
-- ❤️ **Favorites** — persistent across restarts
-- 🔍 **Instant fuzzy search** — real-time filtering
-- 🖼️ **Channel logos** — auto-fetched and cached
+<ul>
+  <li>🌐 <b>All Channels:</b> Complete deduplicated directory</li>
+  <li>🎥 <b>Genre Wise:</b> News &bull; Movies &bull; Music &bull; Kids &bull; Sports</li>
+  <li>🗣️ <b>Language Wise:</b> Tamil &bull; Hindi &bull; English &bull; Korean &bull; Spanish...</li>
+  <li>🌍 <b>Region Wise:</b> India (state-level) &bull; USA &bull; UK &bull; Japan</li>
+  <li>❤️ <b>Favorites:</b> Persistent across restarts</li>
+  <li>🔍 <b>Instant fuzzy search:</b> Real-time filtering</li>
+  <li>🖼️ <b>Channel logos:</b> Auto-fetched and cached</li>
+</ul>
 
 </td>
 </tr>
@@ -439,35 +491,45 @@ flowchart TD
 
 ---
 
-## 📻 FM Studio — Hardware + 300+ Online Stations
+<h2 id="fm-studio---hardware--300-online-stations">📻 FM Studio &mdash; Hardware + 300+ Online Stations</h2>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 📡 RTL-SDR Hardware FM Tuner
-- Plug in any **RTL-SDR USB dongle** for true over-the-air FM
-- Frequency range: **76 MHz – 108 MHz**
-- Fine-tune with nudge controls
-- `F8` opens the FM Studio instantly
-- Favorites panel with persistent station memory
-- Station logo auto-fetch via Radio Browser API
+<h3>📡 RTL-SDR Hardware FM Tuner</h3>
+<ul>
+  <li>Plug in any <b>RTL-SDR USB dongle</b> for true over-the-air FM</li>
+  <li>Frequency range: <b>76 MHz &ndash; 108 MHz</b></li>
+  <li>Fine-tune with nudge controls</li>
+  <li><code>F8</code> opens the FM Studio instantly</li>
+  <li>Favorites panel with persistent station memory</li>
+  <li>Station logo auto-fetch via Radio Browser API</li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 300+ Online Stations
+<h3>🌐 300+ Online Stations</h3>
 
-| Category | Count &amp; Highlights |
-|----------|----------------------|
-| 🎶 Tamil | 32 (AIR, Ilayaraja Hits, AR Rahman 24/7, Mirchi) |
-| 🎵 Hindi | 8 (Vividh Bharati, Mirchi Top 20, Bollywood Retro) |
-| 🎤 Artists | 100+ (Taylor Swift, BTS, Coldplay, Anirudh, Yuvan) |
-| 🌟 K-Pop | 30+ (BTS Radio, SBS PopAsia, K-Rock) |
-| 🎼 Classical | BBC Radio 3, WQXR, Jazz24, Calm Radio |
-| 🎸 Rock | KEXP Seattle, Radio Paradise, 1.FM |
-| 📰 News | BBC World Service, NPR News, France Info |
-| 💃 EDM | SomaFM, 1.FM Trance, Defected Radio |
+<table width="100%">
+<thead>
+<tr>
+  <th align="left">Category</th>
+  <th align="left">Count &amp; Highlights</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>🎶 <b>Tamil</b></td><td>32 (AIR, Ilayaraja Hits, AR Rahman 24/7, Mirchi)</td></tr>
+<tr><td>🎵 <b>Hindi</b></td><td>8 (Vividh Bharati, Mirchi Top 20, Bollywood Retro)</td></tr>
+<tr><td>🎤 <b>Artists</b></td><td>100+ (Taylor Swift, BTS, Coldplay, Anirudh, Yuvan)</td></tr>
+<tr><td>🌟 <b>K-Pop</b></td><td>30+ (BTS Radio, SBS PopAsia, K-Rock)</td></tr>
+<tr><td>🎼 <b>Classical</b></td><td>BBC Radio 3, WQXR, Jazz24, Calm Radio</td></tr>
+<tr><td>🎸 <b>Rock</b></td><td>KEXP Seattle, Radio Paradise, 1.FM</td></tr>
+<tr><td>📰 <b>News</b></td><td>BBC World Service, NPR News, France Info</td></tr>
+<tr><td>💃 <b>EDM</b></td><td>SomaFM, 1.FM Trance, Defected Radio</td></tr>
+</tbody>
+</table>
 
 </td>
 </tr>
@@ -477,30 +539,40 @@ flowchart TD
 
 ---
 
-## 🎌 Anime Studio — 8 Languages
+<h2 id="anime-studio---8-languages">🎌 Anime Studio &mdash; 8 Languages</h2>
 
-> Direct video extraction via **AniNeko** &amp; **AnimeSalt** — dubbed + subbed
+<p><b>Direct video extraction via AniNeko &amp; AnimeSalt &mdash; dubbed + subbed</b></p>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-| Indian Regional | International |
-|----------------|---------------|
-| 🇮🇳 Tamil — AnimeSalt | 🇬🇧 English — AniNeko |
-| 🇮🇳 Hindi — AnimeSalt | 🇪🇸 Spanish — AniNeko |
-| 🇮🇳 Telugu — AnimeSalt | 🇫🇷 French — AniNeko |
-| 🇮🇳 Malayalam — AnimeSalt | 🇯🇵 Japanese — AniNeko |
+<table width="100%">
+<thead>
+<tr>
+  <th align="left">Indian Regional</th>
+  <th align="left">International</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>🇮🇳 Tamil &mdash; AnimeSalt</td><td>🇬🇧 English &mdash; AniNeko</td></tr>
+<tr><td>🇮🇳 Hindi &mdash; AnimeSalt</td><td>🇪🇸 Spanish &mdash; AniNeko</td></tr>
+<tr><td>🇮🇳 Telugu &mdash; AnimeSalt</td><td>🇫🇷 French &mdash; AniNeko</td></tr>
+<tr><td>🇮🇳 Malayalam &mdash; AnimeSalt</td><td>🇯🇵 Japanese &mdash; AniNeko</td></tr>
+</tbody>
+</table>
 
 </td>
 <td width="50%" valign="top">
 
-- 🔥 Popular &amp; Ongoing feeds — updated hourly
-- 🔍 Instant fuzzy search with category tags
-- 📺 Multi-quality streams (360p – 1080p)
-- ❤️ Persistent favorites and custom watchlists
-- 🖼️ High-DPI anime posters with lazy caching
-- 🔒 Zero blocking — DNS-over-HTTPS always active
+<ul>
+  <li>🔥 <b>Popular &amp; Ongoing feeds:</b> Updated hourly</li>
+  <li>🔍 <b>Instant fuzzy search:</b> With category tags</li>
+  <li>📺 <b>Multi-quality streams:</b> 360p &ndash; 1080p</li>
+  <li>❤️ <b>Persistent favorites:</b> And custom watchlists</li>
+  <li>🖼️ <b>High-DPI anime posters:</b> With lazy caching</li>
+  <li>🔒 <b>Zero blocking:</b> DNS-over-HTTPS always active</li>
+</ul>
 
 </td>
 </tr>
@@ -510,39 +582,44 @@ flowchart TD
 
 ---
 
-## 🛡️ Network &amp; Security Layer
+<h2 id="network-and-security-layer">🛡️ Network &amp; Security Layer</h2>
 
-> Built for college campus networks and corporate firewalls — SANDYPLAY **always connects**.
+<p><em>Built for college campus networks and corporate firewalls &mdash; SANDYPLAY <b>always connects</b>.</em></p>
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-### 🔒 Sophos SSL Injection
-Auto-detects `SecurityAppliance_SSL_CA.pem` and injects it into:
-- Python default SSL context
-- `requests` session CA bundle
-- `yt-dlp` HTTPS verification
-
-Zero manual setup — plug and stream on any corporate network.
-
-</td>
-<td width="33%" valign="top">
-
-### 🚫 GoodbyeDPI (WinDivert)
-- Bypasses ISP **deep packet inspection** throttling
-- Preset `-7` mode — optimal for media streaming
-- WinDivert kernel driver for packet-level bypass
-- Auto-starts before stream fetch, auto-stops after
+<h3>🔒 Sophos SSL Injection</h3>
+<p>Auto-detects <code>SecurityAppliance_SSL_CA.pem</code> and injects it into:</p>
+<ul>
+  <li>Python default SSL context</li>
+  <li><code>requests</code> session CA bundle</li>
+  <li><code>yt-dlp</code> HTTPS verification</li>
+</ul>
+<p><em>Zero manual setup &mdash; plug and stream on any corporate network.</em></p>
 
 </td>
 <td width="33%" valign="top">
 
-### 🌐 DNS-over-HTTPS
-- All DNS queries routed over HTTPS (encrypted)
-- Providers: **Cloudflare** (1.1.1.1) + Alibaba fallback
-- Prevents DNS-based content blocking
-- Essential for anime, radio, and IPTV in restricted regions
+<h3>🚫 GoodbyeDPI (WinDivert)</h3>
+<ul>
+  <li>Bypasses ISP <b>deep packet inspection</b> throttling</li>
+  <li>Preset <code>-7</code> mode &mdash; optimal for media streaming</li>
+  <li>WinDivert kernel driver for packet-level bypass</li>
+  <li>Auto-starts before stream fetch, auto-stops after</li>
+</ul>
+
+</td>
+<td width="33%" valign="top">
+
+<h3>🌐 DNS-over-HTTPS</h3>
+<ul>
+  <li>All DNS queries routed over HTTPS (encrypted)</li>
+  <li>Providers: <b>Cloudflare</b> (1.1.1.1) + Alibaba fallback</li>
+  <li>Prevents DNS-based content blocking</li>
+  <li>Essential for anime, radio, and IPTV in restricted regions</li>
+</ul>
 
 </td>
 </tr>
@@ -552,49 +629,59 @@ Zero manual setup — plug and stream on any corporate network.
 
 ---
 
-## 🎨 Themes &amp; UI
+<h2 id="themes-and-ui">🎨 Themes &amp; UI</h2>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 13 Glassmorphism Theme Presets
+<h3>🎨 13 Glassmorphism Theme Presets</h3>
 
-*(defined as `COLOR_THEME_PRESETS` in `player54.py`)*
+<p><em>(Defined as <code>COLOR_THEME_PRESETS</code> in <code>player54.py</code>)</em></p>
 
-| Theme | Accent |
-|-------|--------|
-| 🪻 Lavender | `#b593fa` |
-| 🔵 Sky Blue | `#0ea5e9` |
-| 🟣 Purple Haze | `#8b5cf6` |
-| 🟠 Sunset Orange | `#f97316` |
-| 🟢 Emerald | `#22c55e` |
-| 🔴 Crimson | `#ef4444` |
-| 🟡 Golden Glow | `#eab308` |
-| 🩷 Hot Pink | `#ec4899` |
-| 🔷 Deep Indigo | `#4f46e5` |
-| 🩵 Teal Surge | `#14b8a6` |
-| 🌊 Ocean Cyan | `#06b6d4` |
-| 🟤 Copper | `#b45309` |
-| ⚪ Moonlight | `#e2e8f0` |
-| 🎨 **Custom HEX** | Any color you want |
+<table width="100%">
+<thead>
+<tr>
+  <th align="left">Theme</th>
+  <th align="left">Accent HEX</th>
+</tr>
+</thead>
+<tbody>
+<tr><td><span style="color:#b593fa;">●</span> <b>Lavender</b></td><td><code>#b593fa</code></td></tr>
+<tr><td><span style="color:#0ea5e9;">●</span> <b>Sky Blue</b></td><td><code>#0ea5e9</code></td></tr>
+<tr><td><span style="color:#8b5cf6;">●</span> <b>Purple Haze</b></td><td><code>#8b5cf6</code></td></tr>
+<tr><td><span style="color:#f97316;">●</span> <b>Sunset Orange</b></td><td><code>#f97316</code></td></tr>
+<tr><td><span style="color:#22c55e;">●</span> <b>Emerald</b></td><td><code>#22c55e</code></td></tr>
+<tr><td><span style="color:#ef4444;">●</span> <b>Crimson</b></td><td><code>#ef4444</code></td></tr>
+<tr><td><span style="color:#eab308;">●</span> <b>Golden Glow</b></td><td><code>#eab308</code></td></tr>
+<tr><td><span style="color:#ec4899;">●</span> <b>Hot Pink</b></td><td><code>#ec4899</code></td></tr>
+<tr><td><span style="color:#4f46e5;">●</span> <b>Deep Indigo</b></td><td><code>#4f46e5</code></td></tr>
+<tr><td><span style="color:#14b8a6;">●</span> <b>Teal Surge</b></td><td><code>#14b8a6</code></td></tr>
+<tr><td><span style="color:#06b6d4;">●</span> <b>Ocean Cyan</b></td><td><code>#06b6d4</code></td></tr>
+<tr><td><span style="color:#b45309;">●</span> <b>Copper</b></td><td><code>#b45309</code></td></tr>
+<tr><td><span style="color:#e2e8f0;">●</span> <b>Moonlight</b></td><td><code>#e2e8f0</code></td></tr>
+<tr><td>🌈 <b>Custom HEX</b></td><td><em>Any color you want</em></td></tr>
+</tbody>
+</table>
 
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ UI Features
+<h3>🖥️ UI Features</h3>
 
-- **Dark glassmorphism** base — midnight `#0F172A` background
-- **Custom accent color** applied globally everywhere
-- **48-band real-time visualizer** — `V` key toggle
-- **Synced karaoke panel** — word-level lyric highlight, `Ctrl+L`
-- **Fullscreen** `F` · **Fullscreen Stretch** `Ctrl+Enter`
-- **Playlist sidebar** toggle `P`
-- **Floating OSD** — on-screen display for volume/speed changes
-- **Sleep Timer** — auto-pause at scheduled time
-- **Album art display** — high-DPI with smooth lazy loading
-- **Queue management**: shuffle, dedup, sort, same-folder mix
-- **Export Queue HTML** `Ctrl+Alt+E`
+<ul>
+  <li><b>Dark glassmorphism base:</b> Midnight <code>#0F172A</code> background</li>
+  <li><b>Custom accent color:</b> Applied globally everywhere</li>
+  <li><b>48-band real-time visualizer:</b> <code>V</code> key toggle</li>
+  <li><b>Synced karaoke panel:</b> Word-level lyric highlight, <code>Ctrl+L</code></li>
+  <li><b>Fullscreen:</b> <code>F</code> &bull; <b>Fullscreen Stretch:</b> <code>Ctrl+Enter</code></li>
+  <li><b>Playlist sidebar toggle:</b> <code>P</code></li>
+  <li><b>Floating OSD:</b> On-screen display for volume/speed changes</li>
+  <li><b>Sleep Timer:</b> Auto-pause at scheduled time</li>
+  <li><b>Album art display:</b> High-DPI with smooth lazy loading</li>
+  <li><b>Queue management:</b> Shuffle, dedup, sort, same-folder mix</li>
+  <li><b>Export Queue HTML:</b> <code>Ctrl+Alt+E</code></li>
+</ul>
 
 </td>
 </tr>
@@ -604,34 +691,40 @@ Zero manual setup — plug and stream on any corporate network.
 
 ---
 
-## ➕ Plus Features
+<h2 id="plus-features">➕ Plus Features</h2>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 💾 Named Session Snapshots
-- Save queue, position, EQ, speaker profile, DTS mode, theme &amp; volume
-- `Ctrl+Alt+S` — Save Snapshot with custom name
-- **Load Snapshot** submenu — instant restore
-- Stored in `%APPDATA%\SandyPlay\plus\`
+<h3>💾 Named Session Snapshots</h3>
+<ul>
+  <li>Save queue, position, EQ, speaker profile, DTS mode, theme &amp; volume</li>
+  <li><code>Ctrl+Alt+S</code> &mdash; Save Snapshot with custom name</li>
+  <li><b>Load Snapshot</b> submenu &mdash; Instant restore</li>
+  <li>Stored locally in <code>%APPDATA%\SandyPlay\plus\</code></li>
+</ul>
 
-### ❤️ Favorites &amp; History
-- `Ctrl+Alt+F` — Toggle current track as favorite
-- **Favorites** submenu — browse and play any starred track
-- **Recently Played** submenu — full history with timestamps
+<h3>❤️ Favorites &amp; History</h3>
+<ul>
+  <li><code>Ctrl+Alt+F</code> &mdash; Toggle current track as favorite</li>
+  <li><b>Favorites</b> submenu &mdash; Browse and play any starred track</li>
+  <li><b>Recently Played</b> submenu &mdash; Full history with timestamps</li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧹 Queue Intelligence
-- **Add Same-Folder Mix** — auto-adds all files in current folder
-- **Remove Duplicates** `Ctrl+Alt+D` — hash-based deduplication
-- **Remove Missing Files** — cleans dead queue entries
-- **Queue Stats** — track count, total duration, format breakdown
-- **Export Queue HTML** `Ctrl+Alt+E` — shareable playlist page
-- **Copy Current Path** — instant clipboard copy
-- **Open Current Folder** — jumps to Explorer at current file
+<h3>🧹 Queue Intelligence</h3>
+<ul>
+  <li><b>Add Same-Folder Mix:</b> Auto-adds all files in current folder</li>
+  <li><b>Remove Duplicates (<code>Ctrl+Alt+D</code>):</b> Hash-based deduplication</li>
+  <li><b>Remove Missing Files:</b> Cleans dead queue entries</li>
+  <li><b>Queue Stats:</b> Track count, total duration, format breakdown</li>
+  <li><b>Export Queue HTML (<code>Ctrl+Alt+E</code>):</b> Shareable playlist page</li>
+  <li><b>Copy Current Path:</b> Instant clipboard copy</li>
+  <li><b>Open Current Folder:</b> Jumps to Explorer at current file</li>
+</ul>
 
 </td>
 </tr>
@@ -641,31 +734,31 @@ Zero manual setup — plug and stream on any corporate network.
 
 ---
 
-## ⌨️ Complete Keyboard Shortcuts
+<h2 id="complete-keyboard-shortcuts">⌨️ Complete Keyboard Shortcuts</h2>
 
 <details>
-<summary><strong>Click to expand — All 40+ Shortcuts</strong></summary>
+<summary><strong>Click to expand &mdash; All 40+ Shortcuts</strong></summary>
 <br/>
 
-<table>
+<table width="100%">
 <thead>
-<tr><th>Category</th><th>Key</th><th>Action</th></tr>
+<tr><th align="left">Category</th><th align="left">Key</th><th align="left">Action</th></tr>
 </thead>
 <tbody>
 <tr><td rowspan="14"><b>Playback</b></td><td><code>Space</code></td><td>Play / Pause</td></tr>
 <tr><td><code>N</code> / <code>B</code></td><td>Next / Previous Track</td></tr>
 <tr><td><code>E</code> / <code>W</code></td><td>Crossfade to Next / Previous</td></tr>
-<tr><td><code>Shift+E</code> / <code>Shift+W</code></td><td>Increase / Decrease Crossfade Duration ±1s</td></tr>
+<tr><td><code>Shift+E</code> / <code>Shift+W</code></td><td>Increase / Decrease Crossfade Duration &plusmn;1s</td></tr>
 <tr><td><code>S</code></td><td>Stop Playback</td></tr>
-<tr><td><code>→</code> / <code>←</code></td><td>Seek ±10 seconds</td></tr>
-<tr><td><code>Alt+→</code> / <code>Alt+←</code></td><td>Seek ±30 seconds</td></tr>
-<tr><td><code>↑</code> / <code>↓</code></td><td>Volume Up / Down</td></tr>
+<tr><td><code>&rarr;</code> / <code>&larr;</code></td><td>Seek &plusmn;10 seconds</td></tr>
+<tr><td><code>Alt+&rarr;</code> / <code>Alt+&larr;</code></td><td>Seek &plusmn;30 seconds</td></tr>
+<tr><td><code>&uarr;</code> / <code>&darr;</code></td><td>Volume Up / Down</td></tr>
 <tr><td><code>[</code> / <code>]</code></td><td>Speed Down / Up</td></tr>
 <tr><td><code>M</code></td><td>Mute / Unmute</td></tr>
 <tr><td><code>L</code></td><td>Toggle Loop Mode</td></tr>
 <tr><td><code>X</code></td><td>Cycle Audio Track</td></tr>
 <tr><td><code>Z</code></td><td>Cycle Subtitle Track</td></tr>
-<tr><td><code>R/T · Shift+R/T</code></td><td>Sub Sync ±0.1s / ±0.5s</td></tr>
+<tr><td><code>R/T &bull; Shift+R/T</code></td><td>Sub Sync &plusmn;0.1s / &plusmn;0.5s</td></tr>
 <tr><td rowspan="6"><b>View</b></td><td><code>F</code> / <code>Enter</code></td><td>Toggle Fullscreen</td></tr>
 <tr><td><code>Ctrl+Enter</code></td><td>Fullscreen Stretch</td></tr>
 <tr><td><code>P</code></td><td>Toggle Playlist Sidebar</td></tr>
@@ -674,7 +767,7 @@ Zero manual setup — plug and stream on any corporate network.
 <tr><td><code>?</code></td><td>Show Keyboard Shortcuts Dialog</td></tr>
 <tr><td rowspan="3"><b>Lyrics / Sub</b></td><td><code>Ctrl+L</code></td><td>Toggle Synced Lyrics Panel</td></tr>
 <tr><td><code>Ctrl+T</code></td><td>Toggle Whisper CC Subtitles</td></tr>
-<tr><td><code>G/H · Shift+G/H</code></td><td>Lyrics Sync ±0.3s / ±1.0s</td></tr>
+<tr><td><code>G/H &bull; Shift+G/H</code></td><td>Lyrics Sync &plusmn;0.3s / &plusmn;1.0s</td></tr>
 <tr><td rowspan="6"><b>Files</b></td><td><code>Ctrl+O</code> / <code>F3</code></td><td>Open File(s)</td></tr>
 <tr><td><code>Ctrl+D</code></td><td>Open Folder</td></tr>
 <tr><td><code>Ctrl+U</code></td><td>Open URL / Stream</td></tr>
@@ -697,10 +790,10 @@ Zero manual setup — plug and stream on any corporate network.
 
 ---
 
-## 🏗️ Architecture
+<h2 id="architecture">🏗️ Architecture</h2>
 
 <details>
-<summary><strong>Click to expand — Application Architecture Diagram</strong></summary>
+<summary><strong>Click to expand &mdash; Application Architecture Diagram</strong></summary>
 <br/>
 
 ```mermaid
@@ -730,21 +823,30 @@ graph TB
 <summary><strong>🛠️ Complete Technology Stack</strong></summary>
 <br/>
 
-| Component | Technology | Purpose |
-|-----------|-----------|---------|
-| 🖥️ **GUI** | PyQt6 + QtWebEngine | Glassmorphism UI, themes, embedded browser |
-| 🎬 **Media Core** | LibVLC 3.x | Hardware-accelerated playback (NVDEC) |
-| 🤖 **AI Speech** | faster-whisper + ONNX | Offline multilingual subtitle generation |
-| 🎙️ **VAD** | Silero VAD v6 | Neural voice activity detection |
-| 🧠 **LLM** | Google Gemini 2.5 Flash | Sandytalks AI, metadata, translation |
-| 🎵 **HD Music** | jiosaavnpy + pyDes | JioSaavn 320kbps decryption |
-| 🎧 **Spotify** | spotify_scraper | Zero-auth catalog lookup |
-| ☁️ **Mastering** | Dolby.io REST APIs | Cloud audio mastering |
-| 📡 **Streams** | yt-dlp + Playwright | Universal extractor + DOM solver |
-| 📻 **Hardware** | RTL-SDR x64 | USB software-defined FM radio |
-| 🛡️ **Bypass** | Sophos SSL + GoodbyeDPI | Campus/ISP unblocking |
-| 🏷️ **Tags** | mutagen | ID3v2, FLAC, Vorbis, MP4 metadata |
-| 🔊 **Resample** | SoX | HiFi transparent resampler |
+<table width="100%">
+<thead>
+<tr>
+  <th align="left">Component</th>
+  <th align="left">Technology</th>
+  <th align="left">Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>🖥️ <b>GUI</b></td><td>PyQt6 + QtWebEngine</td><td>Glassmorphism UI, themes, embedded browser</td></tr>
+<tr><td>🎬 <b>Media Core</b></td><td>LibVLC 3.x</td><td>Hardware-accelerated playback (NVDEC)</td></tr>
+<tr><td>🤖 <b>AI Speech</b></td><td>faster-whisper + ONNX</td><td>Offline multilingual subtitle generation</td></tr>
+<tr><td>🎙️ <b>VAD</b></td><td>Silero VAD v6</td><td>Neural voice activity detection</td></tr>
+<tr><td>🧠 <b>LLM</b></td><td>Google Gemini 2.5 Flash</td><td>Sandytalks AI, metadata, translation</td></tr>
+<tr><td>🎵 <b>HD Music</b></td><td>jiosaavnpy + pyDes</td><td>JioSaavn 320kbps decryption</td></tr>
+<tr><td>🎧 <b>Spotify</b></td><td>spotify_scraper</td><td>Zero-auth catalog lookup</td></tr>
+<tr><td>☁️ <b>Mastering</b></td><td>Dolby.io REST APIs</td><td>Cloud audio mastering</td></tr>
+<tr><td>📡 <b>Streams</b></td><td>yt-dlp + Playwright</td><td>Universal extractor + DOM solver</td></tr>
+<tr><td>📻 <b>Hardware</b></td><td>RTL-SDR x64</td><td>USB software-defined FM radio</td></tr>
+<tr><td>🛡️ <b>Bypass</b></td><td>Sophos SSL + GoodbyeDPI</td><td>Campus/ISP unblocking</td></tr>
+<tr><td>🏷️ <b>Tags</b></td><td>mutagen</td><td>ID3v2, FLAC, Vorbis, MP4 metadata</td></tr>
+<tr><td>🔊 <b>Resample</b></td><td>SoX</td><td>HiFi transparent resampler</td></tr>
+</tbody>
+</table>
 
 </details>
 
@@ -774,103 +876,136 @@ SANDYPLAY/
 
 ---
 
-## 🚀 Installation
+<h2 id="installation">🚀 Installation</h2>
 
 <div align="center">
 
-<a href="https://github.com/sandytalks/SANDYPLAY/releases/download/sandyplay1.17/SandyPlay_Setup_v1.17.exe">
-<img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20SANDYPLAY%20v1.17%20INSTALLER-0ea5e9?style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b" height="52" alt="Download SandyPlay Setup v1.17"/>
-</a>
+<p align="center">
+  <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.17.exe">
+    <img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD_SANDYPLAY_v1.17_INSTALLER-0ea5e9?style=for-the-badge&amp;logo=windows&amp;logoColor=white&amp;labelColor=020c1b" height="48" alt="Download SandyPlay Setup v1.17"/>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.17.exe"><b>Click Here to Download: SandyPlay_Setup_v1.17.exe</b></a>
+</p>
 
 </div>
 
 <br/>
 
-| Step | Instruction |
-|------|-------------|
-| 📥 **Step 1** | Download `SandyPlay_Setup_v1.17.exe` from the badge above |
-| 🛡️ **Step 2** | If Windows SmartScreen prompts: **More Info → Run Anyway** |
-| 🚀 **Step 3** | Launch **SANDYPLAY** from the Desktop shortcut or Start Menu |
-| 🎵 **Step 4** | Drag &amp; drop files/folders, or `Ctrl+O` / `Ctrl+U` for URL streams |
-| 🤖 **Step 5** | First AI subtitle use caches the Whisper model (~1.5 GB, one-time) |
+<table width="100%">
+<thead>
+<tr>
+  <th align="left">Step</th>
+  <th align="left">Instruction</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>📥 <b>Step 1</b></td><td>Download <code>SandyPlay_Setup_v1.17.exe</code> from the badge or link above</td></tr>
+<tr><td>🛡️ <b>Step 2</b></td><td>If Windows SmartScreen prompts: <b>More Info &rarr; Run Anyway</b></td></tr>
+<tr><td>🚀 <b>Step 3</b></td><td>Launch <b>SANDYPLAY</b> from the Desktop shortcut or Start Menu</td></tr>
+<tr><td>🎵 <b>Step 4</b></td><td>Drag &amp; drop files/folders, or press <code>Ctrl+O</code> / <code>Ctrl+U</code> for URL streams</td></tr>
+<tr><td>🤖 <b>Step 5</b></td><td>First AI subtitle use caches the Whisper model (~1.5 GB, one-time)</td></tr>
+</tbody>
+</table>
 
-### ⚙️ System Requirements
+<h3>⚙️ System Requirements</h3>
 
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| **OS** | Windows 10 64-bit (Build 17763+) | Windows 11 64-bit |
-| **CPU** | Dual-Core 2.0 GHz x64 | Quad-Core 3.0 GHz+ |
-| **RAM** | 4 GB | 8 GB+ |
-| **GPU** | DirectX 11 | NVIDIA GTX 1060+ (NVDEC 4K) |
-| **Storage** | 500 MB app | 3 GB+ (Whisper models + cache) |
+<table width="100%">
+<thead>
+<tr>
+  <th align="left">Component</th>
+  <th align="left">Minimum</th>
+  <th align="left">Recommended</th>
+</tr>
+</thead>
+<tbody>
+<tr><td><b>OS</b></td><td>Windows 10 64-bit (Build 17763+)</td><td>Windows 11 64-bit</td></tr>
+<tr><td><b>CPU</b></td><td>Dual-Core 2.0 GHz x64</td><td>Quad-Core 3.0 GHz+</td></tr>
+<tr><td><b>RAM</b></td><td>4 GB</td><td>8 GB+</td></tr>
+<tr><td><b>GPU</b></td><td>DirectX 11</td><td>NVIDIA GTX 1060+ (NVDEC 4K)</td></tr>
+<tr><td><b>Storage</b></td><td>500 MB app</td><td>3 GB+ (Whisper models + cache)</td></tr>
+</tbody>
+</table>
 
 <br/>
 
 ---
 
-## ❓ FAQ
+<h2 id="faq">❓ FAQ</h2>
 
 <details>
 <summary><strong>Do I need an NVIDIA GPU?</strong></summary>
-No. SANDYPLAY runs on any modern Intel/AMD CPU. NVIDIA with NVDEC is optional — only needed for hardware-accelerated 4K decoding.
+<p>No. SANDYPLAY runs on any modern Intel/AMD CPU. NVIDIA with NVDEC is optional &mdash; only needed for hardware-accelerated 4K decoding.</p>
 </details>
 
 <details>
 <summary><strong>Does Whisper work offline?</strong></summary>
-Yes — 100% offline after the one-time model download. Silero VAD v6 and faster-whisper process audio locally. Generated SRT files are permanently cached per track.
+<p>Yes &mdash; 100% offline after the one-time model download. Silero VAD v6 and faster-whisper process audio locally. Generated SRT files are permanently cached per track.</p>
 </details>
 
 <details>
 <summary><strong>How does Sophos / campus network bypass work?</strong></summary>
-SANDYPLAY auto-detects <code>SecurityAppliance_SSL_CA.pem</code> in the install directory and injects it into all SSL contexts, requests sessions, and yt-dlp — preventing HTTPS failures on filtered campus networks. GoodbyeDPI handles ISP-level DPI throttling.
+<p>SANDYPLAY auto-detects <code>SecurityAppliance_SSL_CA.pem</code> in the install directory and injects it into all SSL contexts, requests sessions, and yt-dlp &mdash; preventing HTTPS failures on filtered campus networks. GoodbyeDPI handles ISP-level DPI throttling.</p>
 </details>
 
 <details>
 <summary><strong>Do I need API keys?</strong></summary>
-<b>No API keys</b> needed for any core feature — playback, 10 speaker modes, DTS, 48-band visualizer, 15-source lyrics, JioSaavn/Spotify streaming, anime, radio, IPTV, or sleep timer. A built-in key powers Sandytalks AI out-of-the-box.
+<p><b>No API keys</b> needed for any core feature &mdash; playback, 10 speaker modes, DTS, 48-band visualizer, 15-source lyrics, JioSaavn/Spotify streaming, anime, radio, IPTV, or sleep timer. A built-in key powers Sandytalks AI out-of-the-box.</p>
 </details>
 
 <details>
 <summary><strong>Can I stream YouTube playlists and live streams?</strong></summary>
-Yes. Press <code>Ctrl+U</code>, paste any YouTube, Twitch, HLS, or M3U8 link. YouTube playlists auto-unpack into your queue. Live streams work via the Parallel Stream Proxy.
+<p>Yes. Press <code>Ctrl+U</code>, paste any YouTube, Twitch, HLS, or M3U8 link. YouTube playlists auto-unpack into your queue. Live streams work via the Parallel Stream Proxy.</p>
 </details>
 
 <details>
 <summary><strong>How does crossfade work?</strong></summary>
-Press <code>E</code> to crossfade to the next track, <code>W</code> to crossfade back. Use <code>Shift+E</code> / <code>Shift+W</code> to adjust crossfade duration by ±1 second. SANDYPLAY fades out the current track while fading in the next — fully gapless.
+<p>Press <code>E</code> to crossfade to the next track, <code>W</code> to crossfade back. Use <code>Shift+E</code> / <code>Shift+W</code> to adjust crossfade duration by &plusmn;1 second. SANDYPLAY fades out the current track while fading in the next &mdash; fully gapless.</p>
 </details>
 
 <br/>
 
 ---
 
-## 🗺️ Roadmap
+<h2 id="roadmap">🗺️ Roadmap</h2>
 
-| Status | Milestone | Version |
-|--------|-----------|---------|
-| ✅ Done | Lyrics · Dolby.io · Whisper · DTS · Hardware FM | v1.14 |
-| ✅ Done | Music Studio · IPTV · Session snapshots | v1.15 |
-| ✅ Done | Anime Studio · ISP bypass · Video/Podcast studios | v1.16 |
-| ✅ Done | JioSaavn 320kbps · Spotify · Sophos SSL · Silero VAD v6 | v1.17|
-| 📋 Building | Audio relay integration with Sandyplay | v1.18|
-| 📋 Building | **Online OTT Studio** | **v1.19** |
-| 💡 Planned | Discord Rich Presence · Watch Party · DJ Mode · macOS | Future |
+<table width="100%">
+<thead>
+<tr>
+  <th align="left">Status</th>
+  <th align="left">Milestone</th>
+  <th align="left">Version</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>✅ <b>Done</b></td><td>Lyrics &bull; Dolby.io &bull; Whisper &bull; DTS &bull; Hardware FM</td><td>v1.14</td></tr>
+<tr><td>✅ <b>Done</b></td><td>Music Studio &bull; IPTV &bull; Session snapshots</td><td>v1.15</td></tr>
+<tr><td>✅ <b>Done</b></td><td>Anime Studio &bull; ISP bypass &bull; Video/Podcast studios</td><td>v1.16</td></tr>
+<tr><td>✅ <b>Done</b></td><td>JioSaavn 320kbps &bull; Spotify &bull; Sophos SSL &bull; Silero VAD v6</td><td>v1.17</td></tr>
+<tr><td>📋 <b>Building</b></td><td><b>Online OTT Studio</b></td><td><b>v1.19</b></td></tr>
+<tr><td>💡 <b>Planned</b></td><td>Discord Rich Presence &bull; Watch Party &bull; DJ Mode &bull; macOS</td><td>Future</td></tr>
+</tbody>
+</table>
 
 <br/>
 
 ---
 
-## 🤝 Contributing
+<h2 id="contributing">🤝 Contributing</h2>
 
-SANDYPLAY is open-source. Every contribution matters.
+<p>SANDYPLAY is open-source. Every contribution matters.</p>
 
-⭐ Star the repo &nbsp;·&nbsp; 🐛 Report bugs &nbsp;·&nbsp; 💡 Suggest features &nbsp;·&nbsp; 📻 Add radio stations &nbsp;·&nbsp; 🎌 Fix anime scrapers &nbsp;·&nbsp; 📣 Share with friends
+<p align="center">
+⭐ Star the repo &nbsp;&bull;&nbsp; 🐛 Report bugs &nbsp;&bull;&nbsp; 💡 Suggest features &nbsp;&bull;&nbsp; 📻 Add radio stations &nbsp;&bull;&nbsp; 🎌 Fix anime scrapers &nbsp;&bull;&nbsp; 📣 Share with friends
+</p>
 
 <div align="center">
 
-<a href="https://github.com/sandytalks/SANDYPLAY/issues"><img src="https://img.shields.io/github/issues/sandytalks/SANDYPLAY?style=for-the-badge&color=ef4444&logo=github&label=Issues" alt="Issues"/></a>&nbsp;&nbsp;
-<a href="https://github.com/sandytalks/SANDYPLAY/pulls"><img src="https://img.shields.io/badge/PRs-welcome-22c55e?style=for-the-badge&logo=git&label=Pull%20Requests" alt="PRs"/></a>&nbsp;&nbsp;
-<a href="https://github.com/sandytalks/SANDYPLAY/discussions"><img src="https://img.shields.io/github/discussions/sandytalks/SANDYPLAY?style=for-the-badge&color=8b5cf6&logo=discourse&label=Discussions" alt="Discussions"/></a>
+<p align="center">
+  <a href="https://github.com/sandytalks/SANDYPLAY/issues"><img src="https://img.shields.io/badge/Issues-Report_Bug-ef4444?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Issues"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/sandytalks/SANDYPLAY/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-22c55e?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="PRs"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/sandytalks/SANDYPLAY/discussions"><img src="https://img.shields.io/badge/Discussions-Community-8b5cf6?style=for-the-badge&amp;logo=discourse&amp;logoColor=white" alt="Discussions"/></a>
+</p>
 
 </div>
 
@@ -878,13 +1013,13 @@ SANDYPLAY is open-source. Every contribution matters.
 
 ---
 
-## 📄 License
+<h2 id="license">📄 License</h2>
 
-**GPL 3.0 License** — Copyright © 2026 Sandytalks Devops
+<p><b>GPL 3.0 License</b> &mdash; Copyright &copy; 2026 Sandytalks Devops</p>
 
-<sub>Third-party: LibVLC (LGPL) · FFmpeg (LGPL/GPL) · Faster-Whisper (MIT) · PyQt6 (GPL) · yt-dlp (Unlicense) · Dolby.io · Google Gemini API · GoodbyeDPI (MIT) · Silero VAD (MIT)</sub>
+<sub>Third-party: LibVLC (LGPL) &bull; FFmpeg (LGPL/GPL) &bull; Faster-Whisper (MIT) &bull; PyQt6 (GPL) &bull; yt-dlp (Unlicense) &bull; Dolby.io &bull; Google Gemini API &bull; GoodbyeDPI (MIT) &bull; Silero VAD (MIT)</sub>
 
-<br/>
+<br/><br/>
 
 ---
 
@@ -892,24 +1027,26 @@ SANDYPLAY is open-source. Every contribution matters.
 
 <p><strong>Built with ❤️ by <a href="https://www.instagram.com/sandyfromindia/">Santhosh</a></strong></p>
 
-<a href="https://www.instagram.com/sandyfromindia/"><img src="https://img.shields.io/badge/@sandyfromindia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;&nbsp;
-<a href="https://github.com/sandytalks/SANDYPLAY"><img src="https://img.shields.io/badge/sandytalks-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<p align="center">
+  <a href="https://www.instagram.com/sandyfromindia/"><img src="https://img.shields.io/badge/@sandyfromindia-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/sandytalks/SANDYPLAY"><img src="https://img.shields.io/badge/sandytalks-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
+</p>
 
-<br/><br/>
+<br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sandytalks/SANDYPLAY&type=Date&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sandytalks/SANDYPLAY&type=Date"/>
-  <img src="https://api.star-history.com/svg?repos=sandytalks/SANDYPLAY&type=Date&theme=dark" alt="Star History" width="65%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sandytalks/SANDYPLAY&amp;type=Date&amp;theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sandytalks/SANDYPLAY&amp;type=Date"/>
+  <img src="https://api.star-history.com/svg?repos=sandytalks/SANDYPLAY&amp;type=Date&amp;theme=dark" alt="Star History" width="65%"/>
 </picture>
 
 <br/><br/>
 
-<p>⭐ <b>If SANDYPLAY elevated your media experience — star the repo to fuel the next version!</b></p>
+<p>⭐ <b>If SANDYPLAY elevated your media experience &mdash; star the repo to fuel the next version!</b></p>
 
 </div>
 
 <br/>
 
 <!-- FOOTER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:0ea5e9&height=180&section=footer&animation=fadeIn&text=SANDYPLAY%20v1.17&fontSize=36&fontColor=ffffff&fontAlignY=52&desc=AI%20%E2%80%A2%20Audiophile%20%E2%80%A2%20Hardware%20%E2%80%A2%20Open%20Source&descAlignY=76&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8b5cf6,50:6366f1,100:0ea5e9&amp;height=180&amp;section=footer&amp;animation=fadeIn&amp;text=SANDYPLAY%20v1.17&amp;fontSize=36&amp;fontColor=ffffff&amp;fontAlignY=52&amp;desc=AI%20%E2%80%A2%20Audiophile%20%E2%80%A2%20Hardware%20%E2%80%A2%20Open%20Source&amp;descAlignY=76&amp;descSize=14" width="100%" alt="Footer Banner"/>
