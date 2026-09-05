@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,30:0ea5e9,60:6366f1,100:8b5cf6&height=320&section=header&text=SANDYPLAY&fontSize=110&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=The%20AI-Powered%20Media%20Studio%20No%20One%20Else%20Built&descAlignY=60&descSize=19&fontStyle=bold" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=300&section=header&text=SANDYPLAY&fontSize=105&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI-Powered%20Multimedia%20Studio%20%26%20Hardware%20Receiver&descAlignY=62&descSize=20&fontStyle=bold" width="100%"/>
 
 <br/>
 
@@ -10,7 +10,7 @@
 <a href="https://github.com/sandytalks/SANDYPLAY/releases"><img src="https://img.shields.io/github/downloads/sandytalks/SANDYPLAY/total?style=for-the-badge&color=22c55e&logo=tqdm&logoColor=white&label=Downloads" alt="Downloads"/></a>&nbsp;
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL%203.0-a855f7?style=for-the-badge&logo=gnu&logoColor=white" alt="GPL 3.0"/></a>&nbsp;
 <a href="https://github.com/sandytalks/SANDYPLAY/stargazers"><img src="https://img.shields.io/github/stars/sandytalks/SANDYPLAY?style=for-the-badge&color=eab308&logo=apachespark&logoColor=white&label=Stars" alt="Stars"/></a>&nbsp;
-<a href="https://github.com/sandytalks/SANDYPLAY/releases/latest"><img src="https://img.shields.io/badge/Windows%2010%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a>&nbsp;
+<a href="https://github.com/sandytalks/SANDYPLAY/releases/latest"><img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a>&nbsp;
 <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.12+"/></a>
 
 <br/><br/>
@@ -24,11 +24,11 @@
 <br/>
 
 <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.17.exe">
-<img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20SANDYPLAY%20v1.17%20INSTALLER-0ea5e9?style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b" height="52" alt="Download SandyPlay Setup v1.17"/>
+<img src="https://img.shields.io/badge/DOWNLOAD%20SANDYPLAY%20v1.17%20INSTALLER-0ea5e9?style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b" height="52" alt="Download SandyPlay Setup v1.17"/>
 </a>
 
 <br/><br/>
-<sub>⚡ <b>Self-Contained Installer</b> · Windows 10 / 11 (64-bit) · No Python or dependencies required</sub>
+<sub>⚡ <b>Self-Contained Installer</b> · Windows 10 / 11 (64-bit) · No Python or external dependencies required</sub>
 
 </div>
 
@@ -43,6 +43,8 @@
 <br/>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=4&section=header" width="100%"/>
 
 ## 🏆 The Definitive Comparison
 
