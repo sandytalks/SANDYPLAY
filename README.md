@@ -1,18 +1,18 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0ea5e9,50:6366f1,100:8b5cf6&amp;height=300&amp;section=header&amp;text=SANDYPLAY&amp;fontSize=105&amp;fontAlignY=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=AI-Powered%20Multimedia%20Studio%20%2B%20Hardware%20Receiver&amp;descAlignY=62&amp;descSize=20&amp;fontStyle=bold" width="100%" alt="SANDYPLAY Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=300&section=header&text=SANDYPLAY&fontSize=105&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI-Powered%20Multimedia%20Studio%20%2B%20Hardware%20Receiver&descAlignY=62&descSize=20&fontStyle=bold" width="100%" alt="SANDYPLAY Banner"/>
 
 <br/>
 
 <!-- BADGES BAR -->
 <p align="center">
-  <a href="https://github.com/sandytalks/SANDYPLAY/releases/latest"><img src="https://img.shields.io/badge/Release-v1.17-0ea5e9?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Release v1.17"/></a>&nbsp;
-  <a href="https://github.com/sandytalks/SANDYPLAY/releases"><img src="https://img.shields.io/badge/Downloads-v1.17_Active-22c55e?style=for-the-badge&amp;logo=tqdm&amp;logoColor=white" alt="Downloads"/></a>&nbsp;
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL_3.0-a855f7?style=for-the-badge&amp;logo=gnu&amp;logoColor=white" alt="GPL 3.0"/></a>&nbsp;
-  <a href="https://github.com/sandytalks/SANDYPLAY/stargazers"><img src="https://img.shields.io/badge/Stars-sandytalks-eab308?style=for-the-badge&amp;logo=apachespark&amp;logoColor=white" alt="Stars"/></a>&nbsp;
-  <a href="https://github.com/sandytalks/SANDYPLAY/releases/latest"><img src="https://img.shields.io/badge/Platform-Windows_10_%2F_11-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows"/></a>&nbsp;
-  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python 3.12+"/></a>
+  <a href="https://github.com/sandytalks/SANDYPLAY/releases/latest"><img src="https://img.shields.io/badge/Release-v1.17-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Release v1.17"/></a>&nbsp;
+  <a href="https://github.com/sandytalks/SANDYPLAY/releases"><img src="https://img.shields.io/badge/Downloads-v1.17_Active-22c55e?style=for-the-badge&logo=tqdm&logoColor=white" alt="Downloads"/></a>&nbsp;
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL_3.0-a855f7?style=for-the-badge&logo=gnu&logoColor=white" alt="GPL 3.0"/></a>&nbsp;
+  <a href="https://github.com/sandytalks/SANDYPLAY/stargazers"><img src="https://img.shields.io/github/stars/sandytalks/SANDYPLAY?style=for-the-badge&logo=apachespark&logoColor=white&color=eab308" alt="Stars"/></a>&nbsp;
+  <a href="https://github.com/sandytalks/SANDYPLAY/releases/latest"><img src="https://img.shields.io/static/v1?label=Platform&message=Windows+10+%2F+11&color=0078D6&style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a>&nbsp;
+  <a href="https://python.org"><img src="https://img.shields.io/static/v1?label=Python&message=3.12%2B&color=3776AB&style=for-the-badge&logo=python&logoColor=white" alt="Python 3.12+"/></a>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.17.exe">
-    <img src="https://img.shields.io/badge/DOWNLOAD_SANDYPLAY_v1.17_INSTALLER-0ea5e9?style=for-the-badge&amp;logo=windows&amp;logoColor=white&amp;labelColor=020c1b" height="50" alt="Download SandyPlay Setup v1.17"/>
+    <img src="https://img.shields.io/static/v1?label=DOWNLOAD&message=SANDYPLAY%20v1.17%20INSTALLER&color=0ea5e9&style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b" height="42" alt="Download SandyPlay Setup v1.17"/>
   </a>
   <br/><br/>
   <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.17.exe"><b>Direct Download Link: SandyPlay_Setup_v1.17.exe</b></a> (380 MB Standalone Windows Installer)
@@ -882,7 +882,7 @@ SANDYPLAY/
 
 <p align="center">
   <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.17.exe">
-    <img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD_SANDYPLAY_v1.17_INSTALLER-0ea5e9?style=for-the-badge&amp;logo=windows&amp;logoColor=white&amp;labelColor=020c1b" height="48" alt="Download SandyPlay Setup v1.17"/>
+    <img src="https://img.shields.io/static/v1?label=%E2%AC%87%20DOWNLOAD&message=SANDYPLAY%20v1.17%20INSTALLER&color=0ea5e9&style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b" height="42" alt="Download SandyPlay Setup v1.17"/>
   </a>
   <br/><br/>
   <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.17.exe"><b>Click Here to Download: SandyPlay_Setup_v1.17.exe</b></a>
@@ -1002,9 +1002,9 @@ SANDYPLAY/
 <div align="center">
 
 <p align="center">
-  <a href="https://github.com/sandytalks/SANDYPLAY/issues"><img src="https://img.shields.io/badge/Issues-Report_Bug-ef4444?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Issues"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/sandytalks/SANDYPLAY/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-22c55e?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="PRs"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/sandytalks/SANDYPLAY/discussions"><img src="https://img.shields.io/badge/Discussions-Community-8b5cf6?style=for-the-badge&amp;logo=discourse&amp;logoColor=white" alt="Discussions"/></a>
+  <a href="https://github.com/sandytalks/SANDYPLAY/issues"><img src="https://img.shields.io/badge/Issues-Report_Bug-ef4444?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/sandytalks/SANDYPLAY/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-22c55e?style=for-the-badge&logo=git&logoColor=white" alt="PRs"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/sandytalks/SANDYPLAY/discussions"><img src="https://img.shields.io/badge/Discussions-Community-8b5cf6?style=for-the-badge&logo=discourse&logoColor=white" alt="Discussions"/></a>
 </p>
 
 </div>
@@ -1028,16 +1028,16 @@ SANDYPLAY/
 <p><strong>Built with ❤️ by <a href="https://www.instagram.com/sandyfromindia/">Santhosh</a></strong></p>
 
 <p align="center">
-  <a href="https://www.instagram.com/sandyfromindia/"><img src="https://img.shields.io/badge/@sandyfromindia-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/sandytalks/SANDYPLAY"><img src="https://img.shields.io/badge/sandytalks-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/sandyfromindia/"><img src="https://img.shields.io/badge/Instagram-@sandyfromindia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/sandytalks/SANDYPLAY"><img src="https://img.shields.io/badge/GitHub-sandytalks-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sandytalks/SANDYPLAY&amp;type=Date&amp;theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sandytalks/SANDYPLAY&amp;type=Date"/>
-  <img src="https://api.star-history.com/svg?repos=sandytalks/SANDYPLAY&amp;type=Date&amp;theme=dark" alt="Star History" width="65%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sandytalks/SANDYPLAY&type=Date&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sandytalks/SANDYPLAY&type=Date"/>
+  <img src="https://api.star-history.com/svg?repos=sandytalks/SANDYPLAY&type=Date&theme=dark" alt="Star History" width="65%"/>
 </picture>
 
 <br/><br/>
@@ -1049,4 +1049,4 @@ SANDYPLAY/
 <br/>
 
 <!-- FOOTER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8b5cf6,50:6366f1,100:0ea5e9&amp;height=180&amp;section=footer&amp;animation=fadeIn&amp;text=SANDYPLAY%20v1.17&amp;fontSize=36&amp;fontColor=ffffff&amp;fontAlignY=52&amp;desc=AI%20%E2%80%A2%20Audiophile%20%E2%80%A2%20Hardware%20%E2%80%A2%20Open%20Source&amp;descAlignY=76&amp;descSize=14" width="100%" alt="Footer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:0ea5e9&height=180&section=footer&animation=fadeIn&text=SANDYPLAY%20v1.17&fontSize=36&fontColor=ffffff&fontAlignY=52&desc=AI%20%E2%80%A2%20Audiophile%20%E2%80%A2%20Hardware%20%E2%80%A2%20Open%20Source&descAlignY=76&descSize=14" width="100%" alt="Footer Banner"/>
