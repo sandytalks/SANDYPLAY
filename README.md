@@ -130,7 +130,7 @@ SANDYPLAY is not a media player. It is a <b>complete multimedia studio</b> &mdas
 </td>
 <td width="50%" valign="top">
 
-<h3>✨ Sandytalks AI (Gemini 2.5 Flash)</h3>
+<h3>✨ Sandytalks AI Powered By Google AI </h3>
 
 <p><em>Media-aware chatbot grounded in live ID3 tags and LRCLib lyrics</em></p>
 
@@ -392,25 +392,14 @@ Gemini 2.5 Flash"]
 
 <h3>🎵 JioSaavn 320kbps Engine</h3>
 <ul>
-  <li><b>jiosaavnpy + pyDes decryption:</b> Fetches and decrypts CDN URLs locally</li>
+  <li><b>Fetches and decrypts CDN URLs locally</li>
   <li><b>Direct 320 kbps <code>.m4a</code> streams:</b> No quality cap</li>
   <li><b>Search:</b> By song, album, artist, or playlist</li>
   <li><b>Metadata:</b> Artwork, duration, and ID3 tags fetched simultaneously</li>
-</ul>
-
-<h3>🎧 Spotify Catalog Discovery</h3>
-<ul>
   <li><b>Zero authentication:</b> No account required</li>
-  <li><b>Browse:</b> Tracks, albums, artists, and playlists</li>
   <li><b>Resolution:</b> Resolves to playable streams via yt-dlp</li>
   <li><b>Campus ready:</b> Works seamlessly with GoodbyeDPI ISP bypass</li>
-</ul>
 
-</td>
-<td width="50%" valign="top">
-
-<h3>▶️ YouTube Music &amp; Video</h3>
-<ul>
   <li><b>Search + Trending:</b> In one unified panel</li>
   <li><b>Resolution selector:</b> 360p &rarr; 4K UHD</li>
   <li><b>Auto-queue:</b> Playlists and channels</li>
