@@ -1,37 +1,34 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=280&section=header&text=SANDYPLAY&fontSize=105&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI-Powered%20Media%20Studio%20%26%20Hardware%20Tuner&descAlignY=62&descSize=20&fontStyle=bold" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,30:0ea5e9,60:6366f1,100:8b5cf6&height=320&section=header&text=SANDYPLAY&fontSize=110&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=The%20AI-Powered%20Media%20Studio%20No%20One%20Else%20Built&descAlignY=60&descSize=19&fontStyle=bold" width="100%"/>
 
 <br/>
 
 <!-- BADGES BAR -->
 <a href="https://github.com/sandytalks/SANDYPLAY/releases/latest"><img src="https://img.shields.io/badge/Release-v1.17-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Release v1.17"/></a>&nbsp;
-<a href="https://github.com/sandytalks/SANDYPLAY/releases"><img src="https://img.shields.io/github/downloads/sandytalks/SANDYPLAY/total?style=for-the-badge&color=22c55e&logo=tqdm&logoColor=white&label=Downloads" alt="Total Downloads"/></a>&nbsp;
-<a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL%203.0-a855f7?style=for-the-badge&logo=gnu&logoColor=white" alt="License"/></a>&nbsp;
+<a href="https://github.com/sandytalks/SANDYPLAY/releases"><img src="https://img.shields.io/github/downloads/sandytalks/SANDYPLAY/total?style=for-the-badge&color=22c55e&logo=tqdm&logoColor=white&label=Downloads" alt="Downloads"/></a>&nbsp;
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL%203.0-a855f7?style=for-the-badge&logo=gnu&logoColor=white" alt="GPL 3.0"/></a>&nbsp;
 <a href="https://github.com/sandytalks/SANDYPLAY/stargazers"><img src="https://img.shields.io/github/stars/sandytalks/SANDYPLAY?style=for-the-badge&color=eab308&logo=apachespark&logoColor=white&label=Stars" alt="Stars"/></a>&nbsp;
-<a href="https://github.com/sandytalks/SANDYPLAY/releases/latest"><img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Support"/></a>&nbsp;
+<a href="https://github.com/sandytalks/SANDYPLAY/releases/latest"><img src="https://img.shields.io/badge/Windows%2010%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a>&nbsp;
 <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.12+"/></a>
 
 <br/><br/>
 
-<h3>✨ Next-Generation Desktop AI Media Studio &amp; Hardware Receiver</h3>
-
 <p align="center">
-<b>OpenAI Faster-Whisper</b> (Offline Subtitles + Silero VAD v6) · <b>Sandytalks AI</b> (Google Gemini 2.5 Flash)<br/>
-<b>Dolby.io</b> (Cloud Mastering) · <b>JioSaavn &amp; Spotify</b> (320kbps HD Streaming) · <b>LibVLC 3.x</b> (NVDEC 4K Engine)<br/>
-<b>RTL-SDR</b> (Hardware FM Tuner) · <b>Sophos SSL / DoH Bypass</b> · <b>15 Lyrics Providers</b> · <b>48-Band Visualizer</b>
+<b>Faster-Whisper</b> (99-Language Offline AI Subtitles · Silero VAD v6) &nbsp;·&nbsp; <b>Sandytalks AI</b> (Gemini 2.5 Flash)<br/>
+<b>Dolby.io</b> (Cloud Audio Mastering) &nbsp;·&nbsp; <b>JioSaavn 320kbps &amp; Spotify</b> (pyDes Decrypted) &nbsp;·&nbsp; <b>LibVLC 3.x</b> (NVDEC 4K)<br/>
+<b>RTL-SDR Hardware FM</b> &nbsp;·&nbsp; <b>GoodbyeDPI + DoH</b> (ISP &amp; Campus Bypass) &nbsp;·&nbsp; <b>15-Provider Lyrics Engine</b> &nbsp;·&nbsp; <b>48-Band Visualizer</b>
 </p>
 
 <br/>
 
-<!-- PRIMARY CTA DOWNLOAD BUTTON -->
 <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.17.exe">
-<img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20SANDYPLAY%20v1.17%20INSTALLER-0ea5e9?style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b" height="48" alt="Download SandyPlay Setup v1.17"/>
+<img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20SANDYPLAY%20v1.17%20INSTALLER-0ea5e9?style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b" height="52" alt="Download SandyPlay Setup v1.17"/>
 </a>
 
 <br/><br/>
-<sub>⚡ <b>Self-Contained Installer</b> · Windows 10 / 11 (64-bit) · No Python or external dependencies required</sub>
+<sub>⚡ <b>Self-Contained Installer</b> · Windows 10 / 11 (64-bit) · No Python or dependencies required</sub>
 
 </div>
 
@@ -39,147 +36,113 @@
 
 ---
 
-## ⚡ Why SANDYPLAY?
+## 🧠 What Makes SANDYPLAY Unique?
 
-<table>
-<tr>
-<td width="52%" valign="top">
+> SANDYPLAY is not a media player. It is a **complete multimedia studio** — engineered from the ground up with AI-native architecture, hardware integration, enterprise-grade network bypass, audiophile DSP, and a full online content ecosystem. Everything runs locally, offline-capable, and without subscriptions.
 
-### 🌟 What SANDYPLAY Delivers
+<br/>
 
-<ul>
-<li>🤖 <b>Faster-Whisper Subtitles</b> — 100% offline AI speech recognition with Silero VAD v6 across 99 languages.</li>
-<li>💬 <b>Sandytalks AI Music Assistant</b> — Powered by Gemini 2.5 Flash with live ID3 audio context &amp; LRCLib grounding.</li>
-<li>☁️ <b>Dolby.io Cloud Audio Mastering</b> — Professional dynamic EQ, leveling &amp; noise suppression.</li>
-<li>🎵 <b>Lossless &amp; 320kbps Streaming</b> — Direct JioSaavn (pyDes decrypted) &amp; Spotify catalog exploration.</li>
-<li>🎤 <b>15-Source Parallel Lyrics Engine</b> — Synced LRC karaoke with instant fallback to Gemini AI synthesis.</li>
-<li>🔊 <b>10 Immersive Speaker Modes</b> — Spatial 3D Audio, Studio Hi-Fi, Dolby Surround, 7.1, 5.1 &amp; 2.1 setups.</li>
-<li>🎛️ <b>DTS Studio &amp; 10-Band EQ</b> — Real-time parametric equalizers and SoX HiFi audio resampling.</li>
-<li>🛡️ <b>Enterprise Firewall &amp; ISP Bypass</b> — Sophos CA SSL injection, GoodbyeDPI, and DNS-over-HTTPS (DoH).</li>
-<li>📻 <b>Hardware RTL-SDR + 300+ Stations</b> — Physical over-the-air FM tuner + Tamil, Hindi, K-Pop &amp; Global Radio.</li>
-<li>📺 <b>Live IPTV &amp; 8-Language Anime</b> — 10 public IPTV sources + AnimeSalt &amp; AniNeko multi-audio streams.</li>
-</ul>
+---
 
-</td>
-<td width="48%" valign="top">
+## 🏆 The Definitive Comparison
 
-### 🏆 Comparison Matrix
+*How SANDYPLAY stacks up against the best in the world.*
 
 <table>
 <thead>
 <tr>
-<th>Feature</th>
-<th align="center">SANDYPLAY</th>
-<th align="center">VLC</th>
-<th align="center">foobar</th>
+<th align="left">Feature</th>
+<th align="center">🏅 SANDYPLAY</th>
+<th align="center">VLC 3.x</th>
+<th align="center">PotPlayer</th>
+<th align="center">MPC-HC</th>
+<th align="center">foobar2000</th>
+<th align="center">Kodi</th>
+<th align="center">MPV</th>
 </tr>
 </thead>
 <tbody>
-<tr><td>Offline AI Subtitles (Whisper)</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td>Cloud Audio Mastering (Dolby.io)</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td>JioSaavn 320kbps &amp; Spotify</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td>Synced Lyrics (15 Providers)</td><td align="center">✅</td><td align="center">❌</td><td align="center">⚠️</td></tr>
-<tr><td>Sandytalks AI Media Chatbot</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td>Sophos SSL &amp; ISP Bypass (DoH)</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td>RTL-SDR Hardware FM Tuner</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td>Anime Studio (8 Languages)</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td>300+ Radio Stations</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td>Live IPTV (10 Global Sources)</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td>48-Band Real-Time Visualizer</td><td align="center">✅</td><td align="center">⚠️</td><td align="center">✅</td></tr>
-<tr><td>Glassmorphism Modern Themes</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Offline AI Subtitles (Whisper + VAD)</b></td><td align="center">✅ 99 langs</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Instant AI Video Caption</b></td><td align="center">✅ Gemini</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Bilingual Lyrics + AI Translation</b></td><td align="center">✅ 2 langs</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>AI Smart Playlist Generator</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>AI Metadata Auto-Cleaner</b></td><td align="center">✅ Gemini</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>AI Lyrics Summarizer</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>AI Command Palette</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Dolby.io Cloud Audio Mastering</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>10 Hardware Speaker DSP Profiles</b></td><td align="center">✅ full DSP</td><td align="center">⚠️ basic</td><td align="center">⚠️ basic</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>DTS Studio (Music / Movies / Games)</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>10-Band Parametric EQ</b></td><td align="center">✅</td><td align="center">⚠️ basic</td><td align="center">✅</td><td align="center">❌</td><td align="center">✅</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>Crossfade (Adjustable Duration)</b></td><td align="center">✅ E/W keys</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td><td align="center">⚠️</td><td align="center">❌</td></tr>
+<tr><td><b>SoX HiFi Resampler</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>0.25x – 4.0x Pitch-Preserved Speed</b></td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️</td><td align="center">✅</td></tr>
+<tr><td><b>48-Band Real-Time Visualizer</b></td><td align="center">✅</td><td align="center">⚠️ basic</td><td align="center">⚠️</td><td align="center">❌</td><td align="center">✅</td><td align="center">⚠️</td><td align="center">❌</td></tr>
+<tr><td><b>15-Source Lyrics Engine (Synced LRC)</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>JioSaavn 320kbps Streaming</b></td><td align="center">✅ DES decrypted</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Spotify Catalog Discovery</b></td><td align="center">✅ zero-auth</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>YouTube Trending + Search</b></td><td align="center">✅ yt-dlp</td><td align="center">⚠️ manual URL</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>Podcast Discovery (iTunes RSS)</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>Live IPTV (10 Global Sources)</b></td><td align="center">✅</td><td align="center">⚠️ manual</td><td align="center">⚠️ manual</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅ addon</td><td align="center">❌</td></tr>
+<tr><td><b>Anime Studio (8 Languages)</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>300+ Online Radio Stations</b></td><td align="center">✅</td><td align="center">⚠️ manual</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>RTL-SDR Hardware FM Tuner</b></td><td align="center">✅ 76–108 MHz</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Sophos SSL + GoodbyeDPI Bypass</b></td><td align="center">✅ auto</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>DNS-over-HTTPS (DoH)</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Named Session Snapshots</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Integrated Web Browser</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Integrated Download Manager</b></td><td align="center">✅ yt-dlp</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>13 Themes + Custom HEX Picker</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">⚠️ skins</td><td align="center">⚠️ skins</td><td align="center">⚠️ themes</td><td align="center">⚠️ skins</td><td align="center">❌</td></tr>
+<tr><td><b>NVDEC 4K Hardware Acceleration</b></td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td></tr>
+<tr><td><b>7 Deinterlace Algorithms</b></td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td><td align="center">⚠️</td><td align="center">✅</td></tr>
+<tr><td><b>Sleep Timer</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">✅</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>Queue HTML Export</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Setup Required / Addons Needed</b></td><td align="center">🟢 Zero</td><td align="center">🟢 Zero</td><td align="center">🟢 Zero</td><td align="center">🟡 Codec packs</td><td align="center">🔴 Many plugins</td><td align="center">🔴 Many addons</td><td align="center">🟡 Scripts</td></tr>
 </tbody>
 </table>
 
-</td>
-</tr>
-</table>
+> ✅ = Native built-in &nbsp;·&nbsp; ⚠️ = Partial / Plugin-required &nbsp;·&nbsp; ❌ = Not available
 
 <br/>
 
 ---
 
-## 🧩 Complete Feature Matrix
+## 🤖 AI &amp; Intelligence Layer
 
 <table>
 <tr>
-<td align="center" width="33%" valign="top">
+<td width="50%" valign="top">
 
-<h3>🤖 AI &amp; Voice Studio</h3>
-<p>
-<b>Faster-Whisper</b> offline subtitle generation<br/>
-<b>Silero VAD v6</b> neural silence filter<br/>
-<b>Sandytalks AI</b> (Gemini 2.5 Flash)<br/>
-Media-aware chat &amp; ID3 extraction<br/>
-Real-time lyrics translator<br/>
-Smart metadata cleaner
-</p>
+### 🎤 Faster-Whisper Subtitle Engine
 
-</td>
-<td align="center" width="33%" valign="top">
+> **100% offline** · 99 languages · Silero VAD v6 neural silence filter
 
-<h3>🎧 Audiophile DSP Engine</h3>
-<p>
-<b>10 Speaker Output Modes</b><br/>
-<b>DTS Studio</b> (Music, Movies, Gaming)<br/>
-<b>Dolby.io</b> cloud audio mastering<br/>
-<b>10-Band EQ</b> with customizable presets<br/>
-<b>SoX HiFi</b> resampler<br/>
-<b>0.25×–4.0×</b> pitch-preserved speed
-</p>
+- **Model selection**: Tiny → Large-v3 (auto-cached on first use, ~1.5 GB)
+- **Silero VAD v6** strips silence before transcription for maximum accuracy
+- **SRT output** permanently cached per track — zero re-transcription on replay
+- **Auto-trigger** for video files — subtitles appear automatically
+- **Manual override**: `Ctrl+T` or AI Tools menu
+- **Sub sync hotkeys**: `R` / `Shift+R` (−0.1s / −0.5s), `T` / `Shift+T` (+0.1s / +0.5s)
+- **Subtitle track cycle**: `Z`
 
 </td>
-<td align="center" width="33%" valign="top">
+<td width="50%" valign="top">
 
-<h3>🎬 4K Video &amp; Playback</h3>
-<p>
-<b>LibVLC 3.x</b> + NVDEC hardware accel<br/>
-<b>8 Aspect Ratios</b> (16:9, 21:9, 4:3...)<br/>
-<b>5 Crop Modes</b> &amp; 7 Deinterlace filters<br/>
-Live Contrast, Brightness, Saturation<br/>
-<b>Playwright</b> headless stream extractor<br/>
-yt-dlp 1000+ site video engine
-</p>
+### ✨ Sandytalks AI (Gemini 2.5 Flash)
 
-</td>
-</tr>
-<tr>
-<td align="center" width="33%" valign="top">
+> Media-aware chatbot grounded in live ID3 tags and LRCLib lyrics
 
-<h3>🌊 UI &amp; Visualizer</h3>
-<p>
-<b>12 Glassmorphism themes</b><br/>
-Custom HEX accent color picker<br/>
-<b>48-band real-time visualizer</b><br/>
-Floating music widget with album art<br/>
-Synced karaoke lyrics panel<br/>
-Instant resolution &amp; audio picker
-</p>
-
-</td>
-<td align="center" width="33%" valign="top">
-
-<h3>📡 Online Studios Hub</h3>
-<p>
-<b>Music Studio</b> (JioSaavn, Spotify, YT)<br/>
-<b>Video Studio</b> (YouTube trending/search)<br/>
-<b>Podcasts</b> (iTunes Discovery + RSS)<br/>
-<b>Anime Studio</b> (8 languages)<br/>
-<b>300+ Live Radio Stations</b><br/>
-<b>IPTV Studio</b> (10 global sources)
-</p>
-
-</td>
-<td align="center" width="33%" valign="top">
-
-<h3>🛡️ Network &amp; Hardware</h3>
-<p>
-<b>Sophos CA SSL injection</b><br/>
-<b>GoodbyeDPI</b> (WinDivert) ISP bypass<br/>
-<b>DNS-over-HTTPS</b> (Cloudflare/Alibaba)<br/>
-<b>RTL-SDR</b> Hardware Tuner (x64)<br/>
-Named snapshots &amp; auto-save<br/>
-Mini player &amp; sleep timer
-</p>
+| AI Tool | What It Does |
+|---------|-------------|
+| **AI Clean Metadata** | Auto-corrects title, artist, album via Gemini |
+| **AI Smart Playlist** | Generates mood/genre-matched queue |
+| **AI Recommend Next** | Suggests next track from listening history |
+| **AI Summarize Lyrics** | Poetic Gemini-powered lyric meaning card |
+| **AI Command Palette** | Natural language media commands |
+| **Translate Lyrics → EN** | Full lyrics → English via Gemini |
+| **Translate Lyrics → TA** | Full lyrics → Tamil via Gemini |
+| **Translate Caption → EN/TA** | Whisper subtitle translation |
+| **Bilingual Lyrics View** | Side-by-side original + translated panel |
+| **Instant Video Caption** | One-click Gemini scene description |
 
 </td>
 </tr>
@@ -189,67 +152,66 @@ Mini player &amp; sleep timer
 
 ---
 
-## 🎤 3-Tier Lyrics Engine
+## 🎤 3-Tier Parallel Lyrics Engine
 
-The most resilient lyrics pipeline ever engineered into a desktop media player — guaranteed synced or plain lyrics every time.
+> **15 providers · 3 tiers · Guaranteed delivery every time**
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-<p><strong>⚡ Tier 1 — Synced LRC</strong> (8s parallel deadline)<br/>
-① LRCLib · ② Kugou (50M+ tracks) · ③ NetEase · ④ Textyl · ⑤ Megalobiz</p>
+**⚡ Tier 1 — Synced LRC** *(8-second parallel deadline)*
+> ① LRCLib · ② Kugou (50M+ tracks) · ③ NetEase · ④ Textyl · ⑤ Megalobiz
 
-<p><strong>📝 Tier 2 — Plain Lyrics</strong> (12s parallel deadline)<br/>
-⑥ JioSaavn · ⑦ Gaana · ⑧ Vagalume · ⑨ Lyrics.ovh · ⑩ Musixmatch<br/>
-⑪ AZLyrics · ⑫ SongLyrics · ⑬ ChartLyrics · ⑭ Happi.dev · ⑮ Lyrist</p>
+**📝 Tier 2 — Plain Lyrics** *(12-second parallel deadline)*
+> ⑥ JioSaavn · ⑦ Gaana · ⑧ Vagalume · ⑨ Lyrics.ovh · ⑩ Musixmatch
+> ⑪ AZLyrics · ⑫ SongLyrics · ⑬ ChartLyrics · ⑭ Happi.dev · ⑮ Lyrist
 
-<p><strong>🤖 Tier 3 — Sandytalks AI Fallback</strong> (100% Guaranteed)<br/>
-When online scrapers yield no results, <b>Sandytalks AI (Gemini 2.5 Flash)</b> synthesizes exact, verified lyrics using audio ID3 tags and acoustic metadata.</p>
+**🤖 Tier 3 — Sandytalks AI Synthesis** *(100% guaranteed)*
+> When all 14 providers return empty, Gemini 2.5 Flash synthesizes exact lyrics from the track's ID3 title, artist, and album metadata.
 
 </td>
 <td width="45%" valign="top">
 
-<p><strong>Pipeline Intelligence:</strong></p>
-<ul>
-<li>Instant disk cache validation</li>
-<li>Sidecar <code>.lrc</code> and <code>.txt</code> file detection</li>
-<li>Parallel multi-provider execution</li>
-<li>MD5-keyed JSON cache per track</li>
-<li>Fuzzy title matching (Levenshtein ratio &gt; 0.72)</li>
-<li>4 title variants per source query</li>
-<li>Batch pre-fetching: 200 files simultaneously</li>
-</ul>
+**Pipeline Intelligence:**
+- 📂 Instant disk cache (MD5-keyed JSON per track)
+- 📄 Sidecar `.lrc` and `.txt` file auto-detection
+- ⚡ Parallel multi-provider execution (no serial waiting)
+- 🎯 Fuzzy title matching (Levenshtein ratio > 0.72)
+- 🔄 4 title variant queries per provider
+- 📦 Batch pre-fetch: 200 tracks simultaneously
+- ⏱️ Manual sync: `G` / `Shift+G` (−0.3s / −1.0s), `H` / `Shift+H` (+0.3s / +1.0s)
+- 🎵 Synced karaoke panel with word-level highlight
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><strong>🔍 Click to expand Mermaid Lyrics Pipeline Flowchart</strong></summary>
+<summary><strong>🔍 Click to expand — Lyrics Pipeline Flowchart</strong></summary>
 <br/>
 
 ```mermaid
 flowchart TD
-    A(["🎵 Audio Track Loaded"]) --> B{"📂 Local Disk Cache?"}
-    B -- Hit --> Z(["✨ Render Synced Lyrics"])
-    B -- Miss --> C{"📄 Sidecar .lrc/.txt File?"}
+    A(["🎵 Track Loaded"]) --> B{"📂 Disk Cache\nMD5 key?"}
+    B -- Hit --> Z(["✨ Render Synced\nKaraoke Lyrics"])
+    B -- Miss --> C{"📄 Sidecar\n.lrc / .txt?"}
     C -- Found --> Z
     C -- None --> D
-    subgraph D["⚡ TIER 1 — Synced LRC Providers (8s Parallel)"]
-        D1["LRCLib"] & D2["Kugou (50M+)"] & D3["NetEase"] & D4["Textyl"] & D5["Megalobiz"]
+    subgraph D["⚡ TIER 1 — Synced LRC (8s Parallel)"]
+        D1["LRCLib"] & D2["Kugou 50M+"] & D3["NetEase"] & D4["Textyl"] & D5["Megalobiz"]
     end
-    D --> E{"LRC Match Found?"}
+    D --> E{"LRC Found?"}
     E -- Yes --> Z
     E -- No --> F
-    subgraph F["📝 TIER 2 — Plain Lyrics Providers (12s Parallel)"]
+    subgraph F["📝 TIER 2 — Plain Lyrics (12s Parallel)"]
         F1["JioSaavn · Gaana"] & F2["Vagalume · Lyrics.ovh"] & F3["Musixmatch · AZLyrics"] & F4["SongLyrics · ChartLyrics · Happi · Lyrist"]
     end
-    F --> G{"Plain Lyrics Match?"}
+    F --> G{"Plain Match?"}
     G -- Yes --> Z
-    G -- No --> H["🤖 TIER 3 — Sandytalks AI (Gemini 2.5 Flash)"]
+    G -- No --> H["🤖 TIER 3 — Sandytalks AI\nGemini 2.5 Flash"]
     H --> Z
-    Z --> I(["💾 Saved to ~/.sandyplay/lyrics/"])
+    Z --> I(["💾 ~/.sandyplay/lyrics/"])
 ```
 
 </details>
@@ -258,47 +220,50 @@ flowchart TD
 
 ---
 
-## 🎧 Supported Audio & Video Codecs
-
-Natively powered by LibVLC, SANDYPLAY plays virtually every file format without needing K-Lite or third-party codec packs.
+## 🎧 Audiophile DSP Engine
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎵 Audio Formats (12+)
-<ul>
-<li><code>.mp3</code> <code>.flac</code> <code>.wav</code> <code>.m4a</code> <code>.aac</code> <code>.ogg</code></li>
-<li><code>.opus</code> <code>.alac</code> <code>.wma</code> <code>.ac3</code> <code>.eac3</code> <code>.thd</code></li>
-</ul>
+### 🔊 10 Hardware Speaker Profiles
 
-<p><strong>10 Speaker Output Presets:</strong></p>
-<ul>
-<li>Stereo / Reverse Stereo</li>
-<li>Left (Mono) / Right (Mono)</li>
-<li>Dolby Surround Pro Logic</li>
-<li>Surround 2.1 / 5.1 / 7.1</li>
-<li>Spatial 3D Audio</li>
-<li>Studio High-Fidelity Reference</li>
-</ul>
+*Each profile applies dedicated acoustic EQ curves + real-time DSP spatializer (extracted from `_speaker_audio_profile` in `player54.py`).*
+
+| Mode | DSP Signature |
+|------|--------------|
+| **Stereo** | Natural Pristine Stereo (flat) |
+| **Reverse Stereo** | L/R Swapped + Spatial Phase |
+| **Left (Mono)** | Left Mono Balanced |
+| **Right (Mono)** | Right Mono Balanced |
+| **Surround 2.1** | Subwoofer LFE Pump + Satellite Separation |
+| **Dolby Surround** | Cinema Center Dialog + Surround Matrix |
+| **Surround 5.1** | 3D Virtual Theater + Deep Subwoofer LFE |
+| **Surround 7.1** | 360° IMAX Dome Immersion + Ultra LFE |
+| **Spatial 3D Audio** | Binaural HRTF Virtualization (Out-of-Head) |
+| **Studio High-Fidelity** | Audiophile Master Reference (Transparent) |
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 Video Formats (15+)
-<ul>
-<li><code>.mp4</code> <code>.mkv</code> <code>.avi</code> <code>.mov</code> <code>.webm</code> <code>.flv</code></li>
-<li><code>.wmv</code> <code>.m4v</code> <code>.mpeg</code> <code>.mpg</code> <code>.ts</code> <code>.vob</code></li>
-<li><code>.3gp</code> <code>.rm</code> <code>.rmvb</code></li>
-</ul>
+### 🎛️ DTS Studio + DSP Processing
 
-<p><strong>Aspect &amp; Display Controls:</strong></p>
-<ul>
-<li><b>8 Aspect Ratios</b>: 16:9, 4:3, 21:9, 16:10, 1.85:1, 2.35:1, 1:1, Original</li>
-<li><b>5 Crop Modes</b>: 16:9, 4:3, 21:9, 1:1, Original</li>
-<li>Live Contrast, Brightness, Saturation, Gamma &amp; Hue</li>
-<li>7 Deinterlace Algorithms (Yadif, Blend, Bob, Discard...)</li>
-</ul>
+**DTS Content Modes** *(simulated with live DSP from `player54.py`)*
+
+| Mode | DSP Effect |
+|------|-----------|
+| 🎵 **Music** | +2 dB 62 Hz bass + +2 dB 8 kHz air |
+| 🎬 **Movies** | +3 dB sub-bass + +2.5 dB vocal clarity |
+| 🎮 **Games** | +3 dB 4 kHz + +3.5 dB 8 kHz spatial |
+| ⭐ **Custom Audio** | Manual EQ takes full control |
+| ❌ **Off** | Flat DSP passthrough |
+
+**Additional Processing:**
+- 🎚️ **10-Band Parametric EQ** with per-band fine control
+- 🔊 **Dynamic Punch Expander** — +2.5 dB 62 Hz, +1.5 dB 1 kHz vocal
+- 🎵 **SoX HiFi Resampler** — transparent upsampling
+- ☁️ **Dolby.io Cloud Mastering** — loudness normalization, noise suppression
+- ⚡ **0.25× – 4.0×** pitch-preserved speed (`[` / `]` keys)
 
 </td>
 </tr>
@@ -308,49 +273,74 @@ Natively powered by LibVLC, SANDYPLAY plays virtually every file format without 
 
 ---
 
-## 📻 Hardware RTL-SDR, Radio &amp; Live IPTV
+## 🎬 Playback Engine &amp; Video Controls
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📻 Online &amp; Hardware Radio Studio
+### ⚙️ Core Engine
 
-<p><strong>300+ live stations + Physical Over-The-Air FM:</strong></p>
+- **LibVLC 3.x** — battle-tested C++ multimedia core
+- **NVDEC 4K hardware acceleration** — GPU-decoded video on NVIDIA
+- **yt-dlp** — 1000+ site stream extractor
+- **Playwright** — headless Chromium for DRM-lite stream resolution
+- **Parallel Stream Proxy** (port 8001) — real-time mux of split video + audio CDN streams
 
-<ul>
-<li>📡 <b>Hardware SDR</b> — Plug in an RTL-SDR USB dongle for real over-the-air FM tuning (76–108 MHz).</li>
-<li>🎵 <b>Tamil</b> — 32 stations (AIR, Ilayaraja Hits, AR Rahman 24/7, Radio Mirchi...)</li>
-<li>🎶 <b>Hindi</b> — 8 stations (Vividh Bharati, Mirchi Top 20, Bollywood Retro...)</li>
-<li>🎤 <b>100+ Artist Streams</b> — Taylor Swift, BTS, Coldplay, Anirudh, Yuvan...</li>
-<li>🌟 <b>K-Pop</b> — 30+ stations (BTS Radio, SBS PopAsia, K-Rock...)</li>
-<li>🎼 <b>Classical &amp; Jazz</b> — BBC Radio 3, WQXR, Jazz24, Calm Radio...</li>
-<li>🎸 <b>Rock &amp; Pop</b> — KEXP Seattle, Radio Paradise, 1.FM...</li>
-<li>📰 <b>News &amp; Talk</b> — BBC World Service, NPR News, France Info...</li>
-<li>💃 <b>Electronic / EDM</b> — SomaFM, 1.FM Trance, Defected Radio...</li>
-</ul>
+### ▶️ Playback (from `create_menu_bar` in `player54.py`)
+
+- Play / Pause · Stop · Next / Previous
+- **Crossfade to Next** `E` · **Crossfade to Prev** `W`
+- **Crossfade Duration +1s** `Shift+E` · **−1s** `Shift+W`
+- Seek −10s / +10s · Seek −30s / +30s (`Alt+Arrow`)
+- Volume Up / Down (`↑`/`↓`) · Mute `M`
+- Speed `[` / `]` · Loop `L` · Stop `S`
+- Cycle Audio Track `X` · Cycle Subtitle Track `Z`
 
 </td>
 <td width="50%" valign="top">
 
-### 📺 Live IPTV Studio
+### 🎬 Video Processing
 
-<p><strong>Searchable live television from 10 public networks:</strong></p>
+**8 Aspect Ratios:**
+`16:9` · `4:3` · `21:9` · `16:10` · `1.85:1` · `2.35:1` · `1:1` · `Original`
 
-<table>
-<thead>
-<tr><th>Category</th><th>Details</th></tr>
-</thead>
-<tbody>
-<tr><td>🌐 <b>Global Directory</b></td><td>Searchable, auto-deduplicated directory</td></tr>
-<tr><td>🎥 <b>Genres</b></td><td>News · Movies · Music · Kids · Sports</td></tr>
-<tr><td>🗣️ <b>Languages</b></td><td>Tamil · Hindi · English · Korean · Spanish...</td></tr>
-<tr><td>🌍 <b>Regions</b></td><td>India (State-wise) · USA · UK · Japan...</td></tr>
-<tr><td>❤️ <b>Favorites</b></td><td>Persistent across application restarts</td></tr>
-</tbody>
+**5 Crop Modes:**
+`16:9` · `4:3` · `21:9` · `1:1` · `Original` — cycle with `C`
+
+**7 Deinterlace Algorithms:**
+`Yadif` · `Blend` · `Bob` · `Discard` · `Linear` · `Mean` · `X`
+
+**Live Adjustments:**
+- Contrast · Brightness · Saturation · Gamma · Hue
+- Zoom In/Out (`Ctrl+Scroll`) · Reset Zoom
+- Frame Size → Aspect Ratio → Window Size menus
+
+**Subtitle Rendering:**
+- External `.srt` / `.ass` / `.vtt` / `.sub` support
+- Whisper-generated `.srt` auto-loaded per track
+- Sub delay fine-sync: `R/T` (±0.1s), `Shift+R/T` (±0.5s)
+
+**Screenshot:** `Video → Screenshot` — saves full-res frame
+
+</td>
+</tr>
 </table>
 
-<p><b>Aggregated Sources:</b> iptv-org · Free-TV · PlutoTV · Samsung TV+ · Plex · Roku · PBS · Stirr · Tubi · LocalNow</p>
+### 🎵 Supported Formats
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Audio (12+ formats)**
+`mp3` `flac` `wav` `m4a` `aac` `ogg` `opus` `alac` `wma` `ac3` `eac3` `thd`
+
+</td>
+<td width="50%" valign="top">
+
+**Video (15+ formats)**
+`mp4` `mkv` `avi` `mov` `webm` `flv` `wmv` `m4v` `mpeg` `mpg` `ts` `vob` `3gp` `rm` `rmvb`
 
 </td>
 </tr>
@@ -360,41 +350,40 @@ Natively powered by LibVLC, SANDYPLAY plays virtually every file format without 
 
 ---
 
-## 🎌 Multi-Language Anime Studio
+## 🎵 Online Music Studio
 
-Stream dubbed and subbed anime across **8 languages** with direct video extraction powered by AniNeko &amp; AnimeSalt.
+> **One unified search** across JioSaavn (320kbps) · YouTube · Spotify catalog
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🗣️ Supported Languages
+### 🎵 JioSaavn 320kbps Engine
+- **jiosaavnpy + pyDes decryption** — fetches and decrypts CDN URL locally
+- Direct 320 kbps `.m4a` streams — no quality cap
+- Search by song, album, artist, or playlist
+- Artwork, duration, and ID3 tags fetched simultaneously
 
-<table>
-<thead>
-<tr><th>Indian Regional</th><th>International</th></tr>
-</thead>
-<tbody>
-<tr><td>🇮🇳 Tamil — AnimeSalt</td><td>🇬🇧 English — AniNeko</td></tr>
-<tr><td>🇮🇳 Hindi — AnimeSalt</td><td>🇪🇸 Spanish — AniNeko</td></tr>
-<tr><td>🇮🇳 Telugu — AnimeSalt</td><td>🇫🇷 French — AniNeko</td></tr>
-<tr><td>🇮🇳 Malayalam — AnimeSalt</td><td>🇯🇵 Japanese — AniNeko</td></tr>
-</tbody>
-</table>
+### 🎧 Spotify Catalog Discovery
+- **Zero authentication** — no account required
+- Browse tracks, albums, artists, and playlists
+- Resolve to playable streams via yt-dlp
+- Works seamlessly with GoodbyeDPI ISP bypass
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Studio Highlights
+### ▶️ YouTube Music &amp; Video
+- **Search + Trending** in one unified panel
+- Resolution selector (360p → 4K)
+- Auto-queue playlists and channels
+- Stream proxy for split audio/video CDN URLs
 
-<ul>
-<li>🔥 <b>Popular &amp; Ongoing</b> anime feeds updated hourly</li>
-<li>🔍 <b>Instant search</b> with fuzzy matching and category tags</li>
-<li>📺 <b>Direct stream player</b> with multi-quality selection (360p–1080p)</li>
-<li>❤️ <b>Persistent favorites</b> and custom watchlists</li>
-<li>🖼️ High-DPI anime posters with lazy network caching</li>
-<li>🔒 <b>Zero blocking</b> via built-in DNS-over-HTTPS bypass</li>
-</ul>
+### 🎙️ iTunes Podcast Discovery
+- Browse global podcast directory with iTunes RSS
+- Category-based discovery
+- Direct episode playback with seek support
+- Auto-artwork and episode metadata
 
 </td>
 </tr>
@@ -404,127 +393,330 @@ Stream dubbed and subbed anime across **8 languages** with direct video extracti
 
 ---
 
-## 🚀 1-Click Installation
+## 📺 Online TV — Live IPTV Studio
 
-<div align="center">
-
-<a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.17.exe">
-<img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20SANDYPLAY%20v1.17%20INSTALLER-0ea5e9?style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b" height="48" alt="Download SandyPlay Setup v1.17"/>
-</a>
-
-</div>
-
-<br/>
+> **10 aggregated public IPTV networks · searchable · auto-deduplicated**
 
 <table>
-<thead>
-<tr><th>Step</th><th>Instruction</th></tr>
-</thead>
-<tbody>
-<tr><td>📥 <b>Step 1</b></td><td>Download <code>SandyPlay_Setup_v1.17.exe</code> from the release badge above.</td></tr>
-<tr><td>🛡️ <b>Step 2</b></td><td>If Windows SmartScreen prompts: click <b>More Info</b> ➔ <b>Run Anyway</b>.</td></tr>
-<tr><td>🚀 <b>Step 3</b></td><td>Launch <b>SANDYPLAY</b> from your Desktop shortcut or Start Menu.</td></tr>
-<tr><td>🎵 <b>Step 4</b></td><td>Drag &amp; drop any audio/video file, folder, or stream URL (<code>Ctrl+O</code> / <code>Ctrl+U</code>).</td></tr>
-<tr><td>🤖 <b>Step 5</b></td><td>First-time AI subtitle usage automatically caches the Whisper model (~1.5 GB).</td></tr>
-</tbody>
-</table>
+<tr>
+<td width="55%" valign="top">
 
-<br/>
+**10 Aggregated Sources:**
 
-### ⚙️ System Requirements
+| Source | Coverage |
+|--------|---------|
+| **iptv-org** | Global community directory |
+| **Free-TV** | Free-to-air international channels |
+| **PlutoTV** | 200+ US streaming live channels |
+| **Samsung TV+** | Samsung Smart TV free content |
+| **Plex** | Plex free live TV catalog |
+| **Roku** | Roku Channel live streams |
+| **PBS** | US public broadcasting |
+| **Stirr** | Sinclair Broadcasting streams |
+| **Tubi** | Tubi live TV library |
+| **LocalNow** | Local and regional US news |
 
-<table>
-<thead>
-<tr><th>Component</th><th>Minimum Specification</th><th>Recommended Specification</th></tr>
-</thead>
-<tbody>
-<tr><td><b>Operating System</b></td><td>Windows 10 64-bit (Build 17763+)</td><td>Windows 11 64-bit</td></tr>
-<tr><td><b>Processor</b></td><td>Dual-Core 2.0 GHz x64</td><td>Quad-Core 3.0 GHz+ (Intel / AMD)</td></tr>
-<tr><td><b>System Memory</b></td><td>4 GB RAM</td><td>8 GB RAM or higher</td></tr>
-<tr><td><b>Graphics Card</b></td><td>DirectX 11 compatible GPU</td><td>NVIDIA GTX 1060+ (NVDEC 4K Acceleration)</td></tr>
-<tr><td><b>Storage</b></td><td>500 MB for Application</td><td>3 GB+ for Whisper Models &amp; Artwork Cache</td></tr>
-</tbody>
+</td>
+<td width="45%" valign="top">
+
+**Browse &amp; Filter:**
+
+- 🌐 **All Channels** — complete deduplicated directory
+- 🎥 **Genre Wise** — News · Movies · Music · Kids · Sports
+- 🗣️ **Language Wise** — Tamil · Hindi · English · Korean · Spanish...
+- 🌍 **Region Wise** — India (state-level) · USA · UK · Japan
+- ❤️ **Favorites** — persistent across restarts
+- 🔍 **Instant fuzzy search** — real-time filtering
+- 🖼️ **Channel logos** — auto-fetched and cached
+
+</td>
+</tr>
 </table>
 
 <br/>
 
 ---
 
-## ❓ Frequently Asked Questions
+## 📻 FM Studio — Hardware + 300+ Online Stations
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 RTL-SDR Hardware FM Tuner
+- Plug in any **RTL-SDR USB dongle** for true over-the-air FM
+- Frequency range: **76 MHz – 108 MHz**
+- Fine-tune with nudge controls
+- `F8` opens the FM Studio instantly
+- Favorites panel with persistent station memory
+- Station logo auto-fetch via Radio Browser API
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 300+ Online Stations
+
+| Category | Count &amp; Highlights |
+|----------|----------------------|
+| 🎶 Tamil | 32 (AIR, Ilayaraja Hits, AR Rahman 24/7, Mirchi) |
+| 🎵 Hindi | 8 (Vividh Bharati, Mirchi Top 20, Bollywood Retro) |
+| 🎤 Artists | 100+ (Taylor Swift, BTS, Coldplay, Anirudh, Yuvan) |
+| 🌟 K-Pop | 30+ (BTS Radio, SBS PopAsia, K-Rock) |
+| 🎼 Classical | BBC Radio 3, WQXR, Jazz24, Calm Radio |
+| 🎸 Rock | KEXP Seattle, Radio Paradise, 1.FM |
+| 📰 News | BBC World Service, NPR News, France Info |
+| 💃 EDM | SomaFM, 1.FM Trance, Defected Radio |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 🎌 Anime Studio — 8 Languages
+
+> Direct video extraction via **AniNeko** &amp; **AnimeSalt** — dubbed + subbed
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+| Indian Regional | International |
+|----------------|---------------|
+| 🇮🇳 Tamil — AnimeSalt | 🇬🇧 English — AniNeko |
+| 🇮🇳 Hindi — AnimeSalt | 🇪🇸 Spanish — AniNeko |
+| 🇮🇳 Telugu — AnimeSalt | 🇫🇷 French — AniNeko |
+| 🇮🇳 Malayalam — AnimeSalt | 🇯🇵 Japanese — AniNeko |
+
+</td>
+<td width="50%" valign="top">
+
+- 🔥 Popular &amp; Ongoing feeds — updated hourly
+- 🔍 Instant fuzzy search with category tags
+- 📺 Multi-quality streams (360p – 1080p)
+- ❤️ Persistent favorites and custom watchlists
+- 🖼️ High-DPI anime posters with lazy caching
+- 🔒 Zero blocking — DNS-over-HTTPS always active
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 🛡️ Network &amp; Security Layer
+
+> Built for college campus networks and corporate firewalls — SANDYPLAY **always connects**.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔒 Sophos SSL Injection
+Auto-detects `SecurityAppliance_SSL_CA.pem` and injects it into:
+- Python default SSL context
+- `requests` session CA bundle
+- `yt-dlp` HTTPS verification
+
+Zero manual setup — plug and stream on any corporate network.
+
+</td>
+<td width="33%" valign="top">
+
+### 🚫 GoodbyeDPI (WinDivert)
+- Bypasses ISP **deep packet inspection** throttling
+- Preset `-7` mode — optimal for media streaming
+- WinDivert kernel driver for packet-level bypass
+- Auto-starts before stream fetch, auto-stops after
+
+</td>
+<td width="33%" valign="top">
+
+### 🌐 DNS-over-HTTPS
+- All DNS queries routed over HTTPS (encrypted)
+- Providers: **Cloudflare** (1.1.1.1) + Alibaba fallback
+- Prevents DNS-based content blocking
+- Essential for anime, radio, and IPTV in restricted regions
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 🎨 Themes &amp; UI
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 13 Glassmorphism Theme Presets
+
+*(defined as `COLOR_THEME_PRESETS` in `player54.py`)*
+
+| Theme | Accent |
+|-------|--------|
+| 🪻 Lavender | `#b593fa` |
+| 🔵 Sky Blue | `#0ea5e9` |
+| 🟣 Purple Haze | `#8b5cf6` |
+| 🟠 Sunset Orange | `#f97316` |
+| 🟢 Emerald | `#22c55e` |
+| 🔴 Crimson | `#ef4444` |
+| 🟡 Golden Glow | `#eab308` |
+| 🩷 Hot Pink | `#ec4899` |
+| 🔷 Deep Indigo | `#4f46e5` |
+| 🩵 Teal Surge | `#14b8a6` |
+| 🌊 Ocean Cyan | `#06b6d4` |
+| 🟤 Copper | `#b45309` |
+| ⚪ Moonlight | `#e2e8f0` |
+| 🎨 **Custom HEX** | Any color you want |
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ UI Features
+
+- **Dark glassmorphism** base — midnight `#0F172A` background
+- **Custom accent color** applied globally everywhere
+- **48-band real-time visualizer** — `V` key toggle
+- **Synced karaoke panel** — word-level lyric highlight, `Ctrl+L`
+- **Fullscreen** `F` · **Fullscreen Stretch** `Ctrl+Enter`
+- **Playlist sidebar** toggle `P`
+- **Floating OSD** — on-screen display for volume/speed changes
+- **Sleep Timer** — auto-pause at scheduled time
+- **Album art display** — high-DPI with smooth lazy loading
+- **Queue management**: shuffle, dedup, sort, same-folder mix
+- **Export Queue HTML** `Ctrl+Alt+E`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## ➕ Plus Features
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💾 Named Session Snapshots
+- Save queue, position, EQ, speaker profile, DTS mode, theme &amp; volume
+- `Ctrl+Alt+S` — Save Snapshot with custom name
+- **Load Snapshot** submenu — instant restore
+- Stored in `%APPDATA%\SandyPlay\plus\`
+
+### ❤️ Favorites &amp; History
+- `Ctrl+Alt+F` — Toggle current track as favorite
+- **Favorites** submenu — browse and play any starred track
+- **Recently Played** submenu — full history with timestamps
+
+</td>
+<td width="50%" valign="top">
+
+### 🧹 Queue Intelligence
+- **Add Same-Folder Mix** — auto-adds all files in current folder
+- **Remove Duplicates** `Ctrl+Alt+D` — hash-based deduplication
+- **Remove Missing Files** — cleans dead queue entries
+- **Queue Stats** — track count, total duration, format breakdown
+- **Export Queue HTML** `Ctrl+Alt+E` — shareable playlist page
+- **Copy Current Path** — instant clipboard copy
+- **Open Current Folder** — jumps to Explorer at current file
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## ⌨️ Complete Keyboard Shortcuts
 
 <details>
-<summary><strong>Do I need an NVIDIA GPU to run SANDYPLAY?</strong></summary>
-<p>No. SANDYPLAY runs smoothly on standard Intel/AMD multi-core CPUs. An NVIDIA GPU with NVDEC support unlocks hardware-accelerated 4K/8K video decoding, but is completely optional.</p>
-</details>
+<summary><strong>Click to expand — All 40+ Shortcuts</strong></summary>
+<br/>
 
-<details>
-<summary><strong>Does Whisper AI subtitle generation work offline?</strong></summary>
-<p>Yes. After the one-time model download, Whisper and Silero VAD v6 transcribe audio 100% offline. Generated SRT subtitles are permanently cached per track for instant future replay.</p>
-</details>
+<table>
+<thead>
+<tr><th>Category</th><th>Key</th><th>Action</th></tr>
+</thead>
+<tbody>
+<tr><td rowspan="14"><b>Playback</b></td><td><code>Space</code></td><td>Play / Pause</td></tr>
+<tr><td><code>N</code> / <code>B</code></td><td>Next / Previous Track</td></tr>
+<tr><td><code>E</code> / <code>W</code></td><td>Crossfade to Next / Previous</td></tr>
+<tr><td><code>Shift+E</code> / <code>Shift+W</code></td><td>Increase / Decrease Crossfade Duration ±1s</td></tr>
+<tr><td><code>S</code></td><td>Stop Playback</td></tr>
+<tr><td><code>→</code> / <code>←</code></td><td>Seek ±10 seconds</td></tr>
+<tr><td><code>Alt+→</code> / <code>Alt+←</code></td><td>Seek ±30 seconds</td></tr>
+<tr><td><code>↑</code> / <code>↓</code></td><td>Volume Up / Down</td></tr>
+<tr><td><code>[</code> / <code>]</code></td><td>Speed Down / Up</td></tr>
+<tr><td><code>M</code></td><td>Mute / Unmute</td></tr>
+<tr><td><code>L</code></td><td>Toggle Loop Mode</td></tr>
+<tr><td><code>X</code></td><td>Cycle Audio Track</td></tr>
+<tr><td><code>Z</code></td><td>Cycle Subtitle Track</td></tr>
+<tr><td><code>R/T · Shift+R/T</code></td><td>Sub Sync ±0.1s / ±0.5s</td></tr>
+<tr><td rowspan="6"><b>View</b></td><td><code>F</code> / <code>Enter</code></td><td>Toggle Fullscreen</td></tr>
+<tr><td><code>Ctrl+Enter</code></td><td>Fullscreen Stretch</td></tr>
+<tr><td><code>P</code></td><td>Toggle Playlist Sidebar</td></tr>
+<tr><td><code>V</code></td><td>Toggle 48-Band Visualizer</td></tr>
+<tr><td><code>C</code></td><td>Cycle Crop Mode</td></tr>
+<tr><td><code>?</code></td><td>Show Keyboard Shortcuts Dialog</td></tr>
+<tr><td rowspan="3"><b>Lyrics / Sub</b></td><td><code>Ctrl+L</code></td><td>Toggle Synced Lyrics Panel</td></tr>
+<tr><td><code>Ctrl+T</code></td><td>Toggle Whisper CC Subtitles</td></tr>
+<tr><td><code>G/H · Shift+G/H</code></td><td>Lyrics Sync ±0.3s / ±1.0s</td></tr>
+<tr><td rowspan="6"><b>Files</b></td><td><code>Ctrl+O</code> / <code>F3</code></td><td>Open File(s)</td></tr>
+<tr><td><code>Ctrl+D</code></td><td>Open Folder</td></tr>
+<tr><td><code>Ctrl+U</code></td><td>Open URL / Stream</td></tr>
+<tr><td><code>Ctrl+P</code></td><td>Open Playlist</td></tr>
+<tr><td><code>Ctrl+S</code></td><td>Save Playlist</td></tr>
+<tr><td><code>F8</code></td><td>Open FM Radio &amp; SDR Tuner</td></tr>
+<tr><td rowspan="4"><b>Plus</b></td><td><code>Ctrl+Alt+S</code></td><td>Save Session Snapshot</td></tr>
+<tr><td><code>Ctrl+Alt+F</code></td><td>Toggle Current Track Favorite</td></tr>
+<tr><td><code>Ctrl+Alt+D</code></td><td>Remove Duplicate Queue Items</td></tr>
+<tr><td><code>Ctrl+Alt+E</code></td><td>Export Queue as HTML</td></tr>
+<tr><td rowspan="3"><b>Info</b></td><td><code>F5</code></td><td>Preferences / Effects Panel</td></tr>
+<tr><td><code>F1</code></td><td>About Dialog</td></tr>
+<tr><td><code>Ctrl+F1</code></td><td>Media &amp; Codec Info</td></tr>
+</tbody>
+</table>
 
-<details>
-<summary><strong>How does the Sophos SSL / Enterprise Firewall bypass work?</strong></summary>
-<p>SANDYPLAY checks for <code>SecurityAppliance_SSL_CA.pem</code> in the installation directory and automatically merges it into Python's default SSL contexts, requests sessions, and yt-dlp. This prevents HTTPS connection failures on college and corporate networks.</p>
-</details>
-
-<details>
-<summary><strong>Are API keys required for core features?</strong></summary>
-<p><b>No API keys are needed</b> for playback, 10 speaker modes, DTS EQ, visualizer, 15-source lyrics, JioSaavn/Spotify streaming, anime, radio, or IPTV. A built-in key powers Sandytalks AI chat out-of-the-box.</p>
-</details>
-
-<details>
-<summary><strong>Can I stream YouTube playlists and live Twitch broadcasts?</strong></summary>
-<p>Yes. Press <code>Ctrl+U</code>, paste any YouTube, Twitch, or HLS stream link. Playlists automatically unpack into your active queue.</p>
 </details>
 
 <br/>
 
 ---
 
-<details>
-<summary><strong>⌨️ Keyboard Shortcuts Reference</strong></summary>
-
-<br/>
-
-<table>
-<thead>
-<tr><th>Shortcut</th><th>Action</th><th>Shortcut</th><th>Action</th></tr>
-</thead>
-<tbody>
-<tr><td><code>Space</code></td><td>Play / Pause</td><td><code>N</code> / <code>B</code></td><td>Next / Previous Track</td></tr>
-<tr><td><code>→</code> / <code>←</code></td><td>Seek Forward / Backward 10s</td><td><code>↑</code> / <code>↓</code></td><td>Volume Up / Down 5%</td></tr>
-<tr><td><code>M</code></td><td>Mute / Unmute Audio</td><td><code>F</code></td><td>Toggle Fullscreen Mode</td></tr>
-<tr><td><code>V</code></td><td>Toggle 48-Band Visualizer</td><td><code>P</code></td><td>Show / Hide Playlist Drawer</td></tr>
-<tr><td><code>L</code></td><td>Toggle Loop Mode</td><td><code>]</code> / <code>[</code></td><td>Playback Speed ±0.1×</td></tr>
-<tr><td><code>Ctrl+L</code></td><td>Open Synced Lyrics Panel</td><td><code>Ctrl+T</code></td><td>AI Subtitle / Lyrics Translation</td></tr>
-<tr><td><code>Ctrl+O</code></td><td>Open Local File</td><td><code>Ctrl+U</code></td><td>Open URL Stream</td></tr>
-<tr><td><code>Ctrl+Alt+F</code></td><td>Toggle Track Favorite</td><td><code>Ctrl+Alt+S</code></td><td>Save Session Snapshot</td></tr>
-<tr><td><code>?</code></td><td>Open Shortcuts Help Dialog</td><td><code>Esc</code></td><td>Exit Fullscreen / Mini Player</td></tr>
-</tbody>
-</table>
-
-</details>
+## 🏗️ Architecture
 
 <details>
-<summary><strong>🏗️ Application Architecture Diagram</strong></summary>
+<summary><strong>Click to expand — Application Architecture Diagram</strong></summary>
 <br/>
 
 ```mermaid
 graph TB
     subgraph INPUT["📥 Input Sources"]
-        L["Local Files (MP3, MKV, FLAC...)"] & S["Network Streams (HLS, M3U8)"] & R["RTL-SDR Hardware Tuner"] & O["JioSaavn · Spotify · YT"] & AN["Anime (AniNeko · AnimeSalt)"]
+        L["Local Files (MP3, MKV, FLAC...)"] & S["Network Streams (HLS, M3U8, DASH)"] & R["RTL-SDR Hardware Tuner"] & O["JioSaavn · Spotify · YouTube"] & AN["Anime (AniNeko · AnimeSalt)"] & IPTV["Live IPTV (10 sources)"] & POD["Podcasts (iTunes RSS)"]
     end
     subgraph CORE["⚙️ Core Multimedia Engine"]
-        VLC["LibVLC 3.x Decoder & A/V Sync"] & DSP["DTS Studio + 10-Band EQ + SoX"] & DL["yt-dlp + Playwright + FFmpeg"]
+        VLC["LibVLC 3.x (NVDEC 4K)"] & DSP["DTS Studio + 10-Band EQ + SoX"] & DL["yt-dlp + Playwright + FFmpeg"] & PROXY["Parallel Stream Proxy port 8001"]
     end
-    subgraph AI["🤖 AI & Language Layer"]
+    subgraph AI["🤖 AI and Intelligence Layer"]
         W["Faster-Whisper + Silero VAD v6"] & G["Sandytalks AI (Gemini 2.5 Flash)"] & LY["15-Source Parallel Lyrics Engine"] & AE["Dolby.io Cloud Mastering"]
     end
-    subgraph NET["🔒 Security & Network Bypass"]
-        SSL["Sophos CA Injection"] & VPN["GoodbyeDPI (WinDivert)"] & DOH["DNS-over-HTTPS (DoH)"] & PROXY["Parallel Stream Proxy"]
+    subgraph NET["🔒 Security and Network Bypass"]
+        SSL["Sophos CA Injection"] & VPN["GoodbyeDPI (WinDivert)"] & DOH["DNS-over-HTTPS (Cloudflare)"] & PROXY2["Stream Rewriter"]
     end
     subgraph UI["🖥️ PyQt6 High-DPI UI"]
-        VW["Video Viewport + Album Art Widget"] & VIS["48-Band Real-Time Visualizer"] & CB["Glassmorphism Controls"]
+        VW["Video Viewport + Album Art"] & VIS["48-Band Visualizer"] & CB["Glassmorphism Controls (13 themes)"] & LYR["Synced Karaoke Lyrics"]
     end
     INPUT --> CORE --> AI --> UI
     CORE --> NET --> UI
@@ -534,51 +726,45 @@ graph TB
 
 <details>
 <summary><strong>🛠️ Complete Technology Stack</strong></summary>
-
 <br/>
 
-<table>
-<thead>
-<tr><th>Component</th><th>Technology</th><th>Functional Purpose</th></tr>
-</thead>
-<tbody>
-<tr><td>🖥️ <b>GUI Framework</b></td><td>PyQt6 + QtWebEngine</td><td>Glassmorphism UI, theme styling &amp; web viewports</td></tr>
-<tr><td>🎬 <b>Media Core</b></td><td>LibVLC 3.x (C++ Engine)</td><td>Direct hardware-accelerated playback (NVDEC)</td></tr>
-<tr><td>🤖 <b>AI Speech</b></td><td>faster-whisper + ONNX</td><td>Offline multilingual subtitle transcription</td></tr>
-<tr><td>🎙️ <b>Voice Filter</b></td><td>Silero VAD v6</td><td>Neural Voice Activity Detection &amp; silence stripping</td></tr>
-<tr><td>🧠 <b>LLM Chatbot</b></td><td>Google Gemini 2.5 Flash</td><td>Sandytalks AI chatbot, metadata extraction &amp; translation</td></tr>
-<tr><td>🎵 <b>HD Music</b></td><td>jiosaavnpy + pyDes</td><td>JioSaavn 320kbps lossless search &amp; DES decryption</td></tr>
-<tr><td>🎧 <b>Catalog Discovery</b></td><td>spotify_scraper</td><td>Zero-authentication Spotify track &amp; playlist lookup</td></tr>
-<tr><td>☁️ <b>Audio Mastering</b></td><td>Dolby.io REST APIs</td><td>Professional cloud audio mastering &amp; leveling</td></tr>
-<tr><td>📡 <b>Stream Extraction</b></td><td>yt-dlp + Playwright</td><td>Universal media scraper and headless DOM solver</td></tr>
-<tr><td>📻 <b>Hardware Tuner</b></td><td>RTL-SDR (x64)</td><td>Direct USB software-defined radio for live FM reception</td></tr>
-<tr><td>🛡️ <b>Firewall Bypass</b></td><td>Sophos SSL + GoodbyeDPI</td><td>Campus/corporate proxy resolution &amp; ISP unthrottling</td></tr>
-<tr><td>🏷️ <b>Tagging</b></td><td>mutagen</td><td>ID3v2, FLAC, Vorbis &amp; MP4 metadata reader</td></tr>
-</tbody>
-</table>
+| Component | Technology | Purpose |
+|-----------|-----------|---------|
+| 🖥️ **GUI** | PyQt6 + QtWebEngine | Glassmorphism UI, themes, embedded browser |
+| 🎬 **Media Core** | LibVLC 3.x | Hardware-accelerated playback (NVDEC) |
+| 🤖 **AI Speech** | faster-whisper + ONNX | Offline multilingual subtitle generation |
+| 🎙️ **VAD** | Silero VAD v6 | Neural voice activity detection |
+| 🧠 **LLM** | Google Gemini 2.5 Flash | Sandytalks AI, metadata, translation |
+| 🎵 **HD Music** | jiosaavnpy + pyDes | JioSaavn 320kbps decryption |
+| 🎧 **Spotify** | spotify_scraper | Zero-auth catalog lookup |
+| ☁️ **Mastering** | Dolby.io REST APIs | Cloud audio mastering |
+| 📡 **Streams** | yt-dlp + Playwright | Universal extractor + DOM solver |
+| 📻 **Hardware** | RTL-SDR x64 | USB software-defined FM radio |
+| 🛡️ **Bypass** | Sophos SSL + GoodbyeDPI | Campus/ISP unblocking |
+| 🏷️ **Tags** | mutagen | ID3v2, FLAC, Vorbis, MP4 metadata |
+| 🔊 **Resample** | SoX | HiFi transparent resampler |
 
 </details>
 
 <details>
-<summary><strong>🗂️ Project Directory Structure</strong></summary>
+<summary><strong>🗂️ Directory Structure</strong></summary>
 <br/>
 
-<pre>
+```
 SANDYPLAY/
-├── player54.py                       # Main application source (v1.17)
-├── sandbox_ai.py                     # AI background worker subprocess
-├── vlc.py &amp; vlc_bin/                 # LibVLC bindings &amp; native 64-bit DLLs
-├── vpn/goodbyedpi.exe                # GoodbyeDPI &amp; WinDivert engine
-├── rtl-sdr/x64/rtl_fm.exe            # Hardware RTL-SDR FM receiver
-├── SecurityAppliance_SSL_CA.pem      # Enterprise/Campus SSL certificate
-├── SandyPlay_Setup_v1.17.iss         # Inno Setup compilation script
-└── ~/.sandyplay/                      # Persistent user application directory
-    ├── config.json                   # User settings &amp; UI themes
-    ├── plus/                         # Session state &amp; snapshots
-    ├── lyrics/                       # Cached JSON lyrics library
-    ├── subtitles/                    # Cached Whisper SRT subtitles
-    └── cache/images/                 # Cached album covers &amp; anime posters
-</pre>
+├── player54.py                     # Main application (v1.17 · 32,000+ lines)
+├── sandbox_ai.py                   # AI background worker subprocess
+├── vlc.py & vlc_bin/               # LibVLC bindings & native 64-bit DLLs
+├── vpn/goodbyedpi.exe              # GoodbyeDPI & WinDivert engine
+├── rtl-sdr/x64/rtl_fm.exe         # Hardware RTL-SDR FM receiver
+├── SecurityAppliance_SSL_CA.pem   # Enterprise SSL certificate (auto-detected)
+└── %APPDATA%/SandyPlay/           # Persistent user data
+    ├── config.json                 # Settings, EQ, theme, speaker mode
+    ├── plus/                       # Snapshots, history, library, favorites
+    ├── lyrics/                     # MD5-keyed JSON lyrics cache
+    ├── subtitles/                  # Whisper-generated .srt files
+    └── cache/images/               # Album covers & anime poster cache
+```
 
 </details>
 
@@ -586,21 +772,86 @@ SANDYPLAY/
 
 ---
 
-## 🗺️ Project Roadmap
+## 🚀 Installation
 
-<table>
-<thead>
-<tr><th>Status</th><th>Milestone</th><th>Version</th></tr>
-</thead>
-<tbody>
-<tr><td>✅ Completed</td><td>Lyrics engine · Dolby.io · Whisper · DTS Studio · Hardware FM radio</td><td>v1.14</td></tr>
-<tr><td>✅ Completed</td><td>Music studio · Live IPTV · Session persistence &amp; snapshots</td><td>v1.15</td></tr>
-<tr><td>✅ Completed</td><td>Anime studio · ISP bypass · Video/Podcast studios · Mini player</td><td>v1.16</td></tr>
-<tr><td>✅ Completed</td><td>JioSaavn 320kbps · Spotify discovery · Sophos SSL · Silero VAD v6 · Setup v1.17</td><td>v1.17</td></tr>
-<tr><td>📋 In Progress</td><td>Podcast chapter markers · Watch Party (LAN synchronization)</td><td>v1.18</td></tr>
-<tr><td>💡 Future Vision</td><td>Discord Rich Presence · Cloud profile sync · DJ Mode · macOS / Linux builds</td><td>Future</td></tr>
-</tbody>
-</table>
+<div align="center">
+
+<a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.17.exe">
+<img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20SANDYPLAY%20v1.17%20INSTALLER-0ea5e9?style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b" height="52" alt="Download SandyPlay Setup v1.17"/>
+</a>
+
+</div>
+
+<br/>
+
+| Step | Instruction |
+|------|-------------|
+| 📥 **Step 1** | Download `SandyPlay_Setup_v1.17.exe` from the badge above |
+| 🛡️ **Step 2** | If Windows SmartScreen prompts: **More Info → Run Anyway** |
+| 🚀 **Step 3** | Launch **SANDYPLAY** from the Desktop shortcut or Start Menu |
+| 🎵 **Step 4** | Drag &amp; drop files/folders, or `Ctrl+O` / `Ctrl+U` for URL streams |
+| 🤖 **Step 5** | First AI subtitle use caches the Whisper model (~1.5 GB, one-time) |
+
+### ⚙️ System Requirements
+
+| Component | Minimum | Recommended |
+|-----------|---------|-------------|
+| **OS** | Windows 10 64-bit (Build 17763+) | Windows 11 64-bit |
+| **CPU** | Dual-Core 2.0 GHz x64 | Quad-Core 3.0 GHz+ |
+| **RAM** | 4 GB | 8 GB+ |
+| **GPU** | DirectX 11 | NVIDIA GTX 1060+ (NVDEC 4K) |
+| **Storage** | 500 MB app | 3 GB+ (Whisper models + cache) |
+
+<br/>
+
+---
+
+## ❓ FAQ
+
+<details>
+<summary><strong>Do I need an NVIDIA GPU?</strong></summary>
+No. SANDYPLAY runs on any modern Intel/AMD CPU. NVIDIA with NVDEC is optional — only needed for hardware-accelerated 4K decoding.
+</details>
+
+<details>
+<summary><strong>Does Whisper work offline?</strong></summary>
+Yes — 100% offline after the one-time model download. Silero VAD v6 and faster-whisper process audio locally. Generated SRT files are permanently cached per track.
+</details>
+
+<details>
+<summary><strong>How does Sophos / campus network bypass work?</strong></summary>
+SANDYPLAY auto-detects <code>SecurityAppliance_SSL_CA.pem</code> in the install directory and injects it into all SSL contexts, requests sessions, and yt-dlp — preventing HTTPS failures on filtered campus networks. GoodbyeDPI handles ISP-level DPI throttling.
+</details>
+
+<details>
+<summary><strong>Do I need API keys?</strong></summary>
+<b>No API keys</b> needed for any core feature — playback, 10 speaker modes, DTS, 48-band visualizer, 15-source lyrics, JioSaavn/Spotify streaming, anime, radio, IPTV, or sleep timer. A built-in key powers Sandytalks AI out-of-the-box.
+</details>
+
+<details>
+<summary><strong>Can I stream YouTube playlists and live streams?</strong></summary>
+Yes. Press <code>Ctrl+U</code>, paste any YouTube, Twitch, HLS, or M3U8 link. YouTube playlists auto-unpack into your queue. Live streams work via the Parallel Stream Proxy.
+</details>
+
+<details>
+<summary><strong>How does crossfade work?</strong></summary>
+Press <code>E</code> to crossfade to the next track, <code>W</code> to crossfade back. Use <code>Shift+E</code> / <code>Shift+W</code> to adjust crossfade duration by ±1 second. SANDYPLAY fades out the current track while fading in the next — fully gapless.
+</details>
+
+<br/>
+
+---
+
+## 🗺️ Roadmap
+
+| Status | Milestone | Version |
+|--------|-----------|---------|
+| ✅ Done | Lyrics · Dolby.io · Whisper · DTS · Hardware FM | v1.14 |
+| ✅ Done | Music Studio · IPTV · Session snapshots | v1.15 |
+| ✅ Done | Anime Studio · ISP bypass · Video/Podcast studios | v1.16 |
+| ✅ Done | JioSaavn 320kbps · Spotify · Sophos SSL · Silero VAD v6 | v1.17 |
+| 📋 Building | **Online OTT Studio** | **v1.19** |
+| 💡 Planned | Discord Rich Presence · Watch Party · DJ Mode · macOS | Future |
 
 <br/>
 
@@ -608,9 +859,9 @@ SANDYPLAY/
 
 ## 🤝 Contributing
 
-<p>SANDYPLAY is an open-source project — every contribution makes a difference.</p>
+SANDYPLAY is open-source. Every contribution matters.
 
-⭐ Star the repo · 🐛 Report bugs · 💡 Suggest features · 📻 Add radio stations · 🎌 Fix anime scrapers · 📣 Share with friends
+⭐ Star the repo &nbsp;·&nbsp; 🐛 Report bugs &nbsp;·&nbsp; 💡 Suggest features &nbsp;·&nbsp; 📻 Add radio stations &nbsp;·&nbsp; 🎌 Fix anime scrapers &nbsp;·&nbsp; 📣 Share with friends
 
 <div align="center">
 
@@ -628,7 +879,7 @@ SANDYPLAY/
 
 **GPL 3.0 License** — Copyright © 2026 Sandytalks Devops
 
-<sub>Third-party libraries: LibVLC (LGPL) · FFmpeg (LGPL/GPL) · Faster-Whisper (MIT) · PyQt6 (GPL) · yt-dlp (Unlicense) · Dolby.io · Google Gemini · GoodbyeDPI (MIT)</sub>
+<sub>Third-party: LibVLC (LGPL) · FFmpeg (LGPL/GPL) · Faster-Whisper (MIT) · PyQt6 (GPL) · yt-dlp (Unlicense) · Dolby.io · Google Gemini API · GoodbyeDPI (MIT) · Silero VAD (MIT)</sub>
 
 <br/>
 
@@ -651,11 +902,11 @@ SANDYPLAY/
 
 <br/><br/>
 
-<p>⭐ <b>If SANDYPLAY improved your media experience, star the repository to support development!</b></p>
+<p>⭐ <b>If SANDYPLAY elevated your media experience — star the repo to fuel the next version!</b></p>
 
 </div>
 
 <br/>
 
 <!-- FOOTER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=160&section=footer&animation=fadeIn&text=SANDYPLAY%20v1.17&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=Free%20%26%20Open%20Source%20◈%20Windows%2010%20/%2011&descAlignY=78&descSize=13" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:0ea5e9&height=180&section=footer&animation=fadeIn&text=SANDYPLAY%20v1.17&fontSize=36&fontColor=ffffff&fontAlignY=52&desc=AI%20%E2%80%A2%20Audiophile%20%E2%80%A2%20Hardware%20%E2%80%A2%20Open%20Source&descAlignY=76&descSize=14" width="100%"/>
