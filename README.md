@@ -23,7 +23,7 @@
 
 <br/>
 
-<a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.17.exe">
+<a href="https://github.com/sandytalks/SANDYPLAY/releases/download/sandyplay1.17/SandyPlay_Setup_v1.17.exe">
 <img src="https://img.shields.io/badge/DOWNLOAD%20SANDYPLAY%20v1.17%20INSTALLER-0ea5e9?style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b" height="52" alt="Download SandyPlay Setup v1.17"/>
 </a>
 
@@ -778,7 +778,7 @@ SANDYPLAY/
 
 <div align="center">
 
-<a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.17.exe">
+<a href="https://github.com/sandytalks/SANDYPLAY/releases/download/sandyplay1.17/SandyPlay_Setup_v1.17.exe">
 <img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20SANDYPLAY%20v1.17%20INSTALLER-0ea5e9?style=for-the-badge&logo=windows&logoColor=white&labelColor=020c1b" height="52" alt="Download SandyPlay Setup v1.17"/>
 </a>
 
