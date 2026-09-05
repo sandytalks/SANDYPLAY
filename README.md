@@ -17,7 +17,7 @@
 
 <p align="center">
   <b>Faster-Whisper</b> (99-Language Offline AI Subtitles &bull; Silero VAD v6) &nbsp;&bull;&nbsp; <b>Sandytalks AI</b> (Gemini 2.5 Flash)<br/>
-  <b>Dolby.io</b> (Cloud Audio Mastering) &nbsp;&bull;&nbsp; <b>JioSaavn 320kbps &amp; Spotify</b> (pyDes Decrypted) &nbsp;&bull;&nbsp; <b>LibVLC 3.x</b> (NVDEC 4K)<br/>
+  <b>Dolby.io</b> (Cloud Audio Mastering) &nbsp;&bull;&nbsp; <b> Online Studios &amp;</b> (pyDes Decrypted) &nbsp;&bull;&nbsp; <b>LibVLC 3.x</b> (NVDEC 4K)<br/>
   <b>RTL-SDR Hardware FM</b> &nbsp;&bull;&nbsp; <b>GoodbyeDPI + DoH</b> (ISP &amp; Campus Bypass) &nbsp;&bull;&nbsp; <b>15-Provider Lyrics Engine</b> &nbsp;&bull;&nbsp; <b>48-Band Visualizer</b>
 </p>
 
