@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=300&section=header&text=SANDYPLAY&fontSize=105&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI-Powered%20Multimedia%20Studio%20%2B%20Hardware%20Receiver&descAlignY=62&descSize=20&fontStyle=bold" width="100%" alt="SANDYPLAY Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=300&section=header&text=SANDYPLAY&fontSize=105&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI-Powered%20Multimedia%20Hub&descAlignY=62&descSize=20&fontStyle=bold" width="100%" alt="SANDYPLAY Banner"/>
 
   <br/><br/>
 
