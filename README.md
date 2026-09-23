@@ -74,9 +74,9 @@
 <tr><td><b>0.25x – 4.0x Pitch-Preserved Speed</b></td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️</td><td align="center">✅</td></tr>
 <tr><td><b>48-Band Real-Time Visualizer</b></td><td align="center">✅</td><td align="center">⚠️ basic</td><td align="center">⚠️</td><td align="center">❌</td><td align="center">✅</td><td align="center">⚠️</td><td align="center">❌</td></tr>
 <tr><td><b>15-Source Lyrics Engine (Synced LRC)</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
-<tr><td><b>JioSaavn 320kbps Streaming</b></td><td align="center">✅ DES decrypted</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td><b>Spotify Catalog Discovery</b></td><td align="center">✅ zero-auth</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
-<tr><td><b>YouTube Trending + Search</b></td><td align="center">✅ yt-dlp</td><td align="center">⚠️ manual URL</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>320kbps Streaming</b></td><td align="center">✅ DES decrypted</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Catalog Discovery</b></td><td align="center">✅ zero-auth</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>Trending + Search</b></td><td align="center">✅ yt-dlp</td><td align="center">⚠️ manual URL</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
 <tr><td><b>Podcast Discovery (iTunes RSS)</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
 <tr><td><b>Live IPTV (10 Global Sources)</b></td><td align="center">✅</td><td align="center">⚠️ manual</td><td align="center">⚠️ manual</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅ addon</td><td align="center">❌</td></tr>
 <tr><td><b>Anime Studio (8 Languages)</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
@@ -107,8 +107,8 @@
 * 🚀 **Full Offline Faster-Whisper AI CC**: Local real-time speech-to-text with Silero VAD. Generates perfectly timed English subtitles on-the-fly without sending your data to the cloud.
 * 📻 **RTL-SDR Hardware FM Tuner**: Plug in any RTL2832U USB dongle and listen to live over-the-air wideband FM radio (87.5–108 MHz) with automatic frequency scanning, signal meter, and squelch control.
 * 🛡️ **Built-in GoodbyeDPI & Network Booster**: Seamless, one-click bypass of ISP throttling and SNI filtering for smooth IPTV and video streaming.
-* 📺 **Unified Online Studios**: 6 integrated streaming hubs (Live IPTV, Music Hits, Podcasts, Anime, YouTube Video Search, and the Sandbox Web Browser with ad-blocking).
-* 🎤 **Universal Multi-Source Lyrics**: Synced `.lrc` lyrics from 10+ sources with side-by-side Gemini AI bilingual translation (English, Tamil, Hindi, Telugu, and more).
+* 📺 **Unified Online Studios**: 6 integrated streaming hubs (Live IPTV, Music Hits, Podcasts, Anime, Online Video Search, and the Sandbox Web Browser with ad-blocking).
+* 🎤 **Universal Multi-Source Lyrics**: Synced `.lrc` lyrics from 10+ sources with side-by-side AI bilingual translation (English, Tamil, Hindi, Telugu, and more).
 * 🎧 **Dolby.io Cloud Master & DTS Virtual:X**: Instant cloud-based audio dynamic mastering and 6 custom DSP spatializer presets.
 * ⚡ **High-DPI Cyberpunk Glassmorphism UI**: 12+ vibrant accent color palettes, automatic ambient frame color extraction, and smooth micro-animations.
 
@@ -118,7 +118,7 @@
 
 ### 🤖 1. Artificial Intelligence &amp; Subtitles
 * **Offline AI Transcriber (Faster-Whisper)**: Watching a video without subtitles? Press <kbd>Ctrl</kbd> + <kbd>T</kbd>. SANDYPLAY runs a local Whisper model on your PC to listen to the dialogue and display synchronized subtitles automatically.
-* **Google Gemini AI Assistant**: An intelligent sidebar chat that can answer questions about the video or music currently playing, summarize content, explain plotlines, or translate captions.
+* **Sandytalks AI Assistant**: An intelligent sidebar chat that can answer questions about the video or music currently playing, summarize content, explain plotlines, or translate captions.
 * **Smart Bilingual Lyrics**: Shows both original song lyrics and synchronized translated lyrics side-by-side, so you always understand songs in any foreign language.
 * **Natural Language Command Palette**: Just type what you want (*"Play romantic Tamil songs"*, *"Set volume to 80"*, *"Speed up to 1.25x"*), and the player executes your command instantly.
 
@@ -138,10 +138,10 @@ SANDYPLAY includes 6 dedicated streaming and discovery dialogs accessible right 
 | Studio | Description &amp; Highlights |
 | :--- | :--- |
 | **📺 Online TV Studio** | Stream 1000+ live television channels across News, Sports, Movies, and Entertainment from India, USA, UK, and worldwide. Includes stream health checks and YuppTV live integration. |
-| **🎵 Online Music Studio** | Explore trending hits, top charts (Apple Music, Spotify, JioSaavn), and regional playlists (Tamil, Hindi, Telugu, Punjabi, Malayalam, International Pop). Play instantly with real-time lyrics. |
-| **🎙️ Online Podcast Studio** | Search and stream millions of podcast episodes from Apple Podcasts and Podcast Index. Supports background episode downloading. |
+| **🎵 Online Music Studio** | Explore trending hits, top charts , and regional playlists (Tamil, Hindi, Telugu, Punjabi, Malayalam, International Pop). Play instantly with real-time lyrics. |
+| **🎙️ Online Podcast Studio** | Search and stream millions of podcast episodes and Podcast Index. Supports background episode downloading. |
 | **⛩️ Online Anime Studio** | Browse popular and trending anime, select seasons and episodes, choose streaming servers, and download episodes for offline viewing. |
-| **🎬 Online Video Studio** | Built-in YouTube and web video search powered by `yt-dlp`. Stream in 1080p, 2K, or 4K with parallel chunk downloading for instant zero-buffering playback. |
+| **🎬 Online Video Studio** | Built-in Online Video Platform and web video search powered by `yt-dlp`. Stream in 1080p, 2K, or 4K with parallel chunk downloading for instant zero-buffering playback. |
 | **🌐 Sandy Web Browser** | Built-in Chromium browser with multi-tab support, ad-blocker (`🛡️ AdBlock`), download manager, and dark theme synchronization. |
 
 ---
@@ -203,8 +203,7 @@ SANDYPLAY includes 6 dedicated streaming and discovery dialogs accessible right 
   </a>
   <br/><br/>
   <p>
-    <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.17.exe"><strong>Direct Download: SandyPlay_Setup_v1.17.exe</strong></a><br/>
-    <em>Version 1.17 &bull; Windows 10/11 (64-bit) &bull; Standalone Installer (No Python Required)</em>
+    <em>Version 1.17 &bull; Windows 10/11 (64-bit) &bull; Standalone Installer (No Python Required</em>
   </p>
 </div>
 
@@ -330,7 +329,7 @@ SANDYPLAY includes 6 dedicated streaming and discovery dialogs accessible right 
   <img src="https://img.shields.io/badge/PyQt6_GUI-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6"/>&nbsp;
   <img src="https://img.shields.io/badge/LibVLC_Engine-FF8800?style=for-the-badge&logo=vlcmediaplayer&logoColor=white" alt="VLC"/>&nbsp;
   <img src="https://img.shields.io/badge/Faster--Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper"/>&nbsp;
-  <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini"/>&nbsp;
+  <img src="https://img.shields.io/badge/Google_AI-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini"/>&nbsp;
   <img src="https://img.shields.io/badge/Dolby.io-000000?style=for-the-badge&logo=dolby&logoColor=white" alt="Dolby"/>&nbsp;
   <img src="https://img.shields.io/badge/RTL--SDR_Radio-E34F26?style=for-the-badge" alt="RTL-SDR"/>&nbsp;
   <img src="https://img.shields.io/badge/Inno_Setup_6-00599C?style=for-the-badge" alt="Inno Setup"/>
@@ -380,10 +379,10 @@ SANDYPLAY includes 6 dedicated streaming and discovery dialogs accessible right 
 
 <div align="center">
 
-<p><strong>Built with ❤️ by <a href="https://www.instagram.com/sandyfromindia/">Santhosh</a></strong></p>
+<p><strong>Built with ❤️ by <a href="https://www.instagram.com/sandyplay/">Sandy</a></strong></p>
 
 <p>
-  <a href="https://www.instagram.com/sandyfromindia/"><img src="https://img.shields.io/badge/Instagram-@sandyfromindia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sandyplay/"><img src="https://img.shields.io/badge/Instagram-@sandyplay-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;&nbsp;
   <a href="https://github.com/sandytalks/SANDYPLAY"><img src="https://img.shields.io/badge/GitHub-sandytalks-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -404,4 +403,4 @@ SANDYPLAY includes 6 dedicated streaming and discovery dialogs accessible right 
 <br/>
 
 <!-- FOOTER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:0ea5e9&height=180&section=footer&animation=fadeIn&text=SANDYPLAY%20v1.17&fontSize=36&fontColor=ffffff&fontAlignY=52&desc=AI%20%E2%80%A2%20Audiophile%20%E2%80%A2%20Hardware%20%E2%80%A2%20Open%20Source&descAlignY=76&descSize=14" width="100%" alt="Footer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:0ea5e9&height=180&section=footer&animation=fadeIn&text=SANDYPLAY%20&fontSize=36&fontColor=ffffff&fontAlignY=52&desc=AI%20%E2%80%A2%20Audiophile%20%E2%80%A2%20Hardware%20%E2%80%A2%20Open%20Source&descAlignY=76&descSize=14" width="100%" alt="Footer Banner"/>
