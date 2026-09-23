@@ -78,7 +78,7 @@
 <tr><td><b>Catalog Discovery</b></td><td align="center">✅ zero-auth</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
 <tr><td><b>Trending + Search</b></td><td align="center">✅ yt-dlp</td><td align="center">⚠️ manual URL</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
 <tr><td><b>Podcast Discovery (iTunes RSS)</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
-<tr><td><b>Live IPTV (10 Global Sources)</b></td><td align="center">✅</td><td align="center">⚠️ manual</td><td align="center">⚠️ manual</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅ addon</td><td align="center">❌</td></tr>
+<tr><td><b>Live TV (10 Global Sources)</b></td><td align="center">✅</td><td align="center">⚠️ manual</td><td align="center">⚠️ manual</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅ addon</td><td align="center">❌</td></tr>
 <tr><td><b>Anime Studio (8 Languages)</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
 <tr><td><b>300+ Online Radio Stations</b></td><td align="center">✅</td><td align="center">⚠️ manual</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
 <tr><td><b>RTL-SDR Hardware FM Tuner</b></td><td align="center">✅ 76–108 MHz</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
@@ -106,8 +106,8 @@
 
 * 🚀 **Full Offline Faster-Whisper AI CC**: Local real-time speech-to-text with Silero VAD. Generates perfectly timed English subtitles on-the-fly without sending your data to the cloud.
 * 📻 **RTL-SDR Hardware FM Tuner**: Plug in any RTL2832U USB dongle and listen to live over-the-air wideband FM radio (87.5–108 MHz) with automatic frequency scanning, signal meter, and squelch control.
-* 🛡️ **Built-in GoodbyeDPI & Network Booster**: Seamless, one-click bypass of ISP throttling and SNI filtering for smooth IPTV and video streaming.
-* 📺 **Unified Online Studios**: 6 integrated streaming hubs (Live IPTV, Music Hits, Podcasts, Anime, Online Video Search, and the Sandbox Web Browser with ad-blocking).
+* 🛡️ **Built-in GoodbyeDPI & Network Booster**: Seamless, one-click bypass of ISP throttling and SNI filtering for smooth TV and video streaming.
+* 📺 **Unified Online Studios**: 6 integrated streaming hubs (Live TV, Music Hits, Podcasts, Anime, Online Video Search, and the Sandbox Web Browser with ad-blocking).
 * 🎤 **Universal Multi-Source Lyrics**: Synced `.lrc` lyrics from 10+ sources with side-by-side AI bilingual translation (English, Tamil, Hindi, Telugu, and more).
 * 🎧 **Dolby.io Cloud Master & DTS Virtual:X**: Instant cloud-based audio dynamic mastering and 6 custom DSP spatializer presets.
 * ⚡ **High-DPI Cyberpunk Glassmorphism UI**: 12+ vibrant accent color palettes, automatic ambient frame color extraction, and smooth micro-animations.
