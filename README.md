@@ -1,38 +1,36 @@
 <div align="center">
   
-  <img src="app_icon.ico" alt="SANDYPLAY Logo" width="130" height="130" style="border-radius: 28px; box-shadow: 0 10px 30px rgba(14, 165, 233, 0.4);">
+  <!-- NOTE: Save your app_icon.ico as a .png file and upload it to your repo, then replace this link! -->
+  <img src="app_icon.png" alt="SANDYPLAY Logo" width="140" height="140" style="border-radius: 25px;">
   
-  <h1 align="center">🎬 SANDYPLAY AI Media Studio</h1>
+  <h1 align="center">SANDYPLAY Media Player 🎬</h1>
   
   <p align="center">
-    <b>The All-in-One AI Multimedia Powerhouse, Hardware Tuner & Universal Stream Studio.</b><br>
-    <i>Engineered with Python, PyQt6, LibVLC 4K NVDEC, Faster-Whisper, Google Gemini AI, Dolby.io, and RTL-SDR Radio.</i>
+    <em>The ultimate AI-powered, Dolby-enhanced media experience. Built for audiophiles and cinephiles.</em>
   </p>
 
   <p align="center">
     <a href="https://github.com/itsyouhuman/SandyPlay/releases/latest">
-      <img src="https://img.shields.io/badge/RELEASE-v1.17_STABLE-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Release">
+      <img src="https://img.shields.io/github/v/release/itsyouhuman/SandyPlay?style=for-the-badge&color=0ea5e9&label=LATEST+RELEASE" alt="Release">
     </a>
-    <img src="https://img.shields.io/badge/Platform-Windows_10_%7C_11_(64--bit)-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-    <img src="https://img.shields.io/badge/Architecture-x64_Native-8b5cf6?style=for-the-badge" alt="x64">
-    <img src="https://img.shields.io/badge/License-GPL--3.0-10b981?style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/badge/Platform-Windows_10%2B-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+    <img src="https://img.shields.io/badge/Powered_by-Python_%7C_VLC-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python & VLC">
+    <img src="https://img.shields.io/badge/AI_Engine-Gemini_%7C_Whisper-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="AI">
   </p>
 
   <p align="center">
-    <a href="#-whats-new-in-v1.17"><strong>🌟 What's New</strong></a> ·
-    <a href="#-feature-showcase"><strong>✨ Feature Tour</strong></a> ·
-    <a href="#-the-6-online-studios"><strong>🌐 Online Studios</strong></a> ·
-    <a href="#-hardware--acceleration"><strong>⚡ Hardware & Engine</strong></a> ·
-    <a href="#-quick-installation"><strong>🚀 Download & Install</strong></a> ·
-    <a href="#-keyboard-shortcuts"><strong>⌨️ Shortcuts</strong></a> ·
-    <a href="#-connect--support"><strong>🤝 Connect</strong></a>
+    <a href="#-features"><strong>✨ Features</strong></a> ·
+    <a href="#-showcase"><strong>📸 Showcase</strong></a> ·
+    <a href="#-installation"><strong>🚀 Installation</strong></a> ·
+    <a href="#%EF%B8%8F-keyboard-shortcuts"><strong>⌨️ Shortcuts</strong></a> ·
+    <a href="#-connect"><strong>🤝 Contact</strong></a>
   </p>
 </div>
 
 ---
 
 > [!NOTE]
-> **SANDYPLAY** is not just another video player — it is a complete **AI-augmented media workstation**. From offline AI subtitle transcription and real-time bilingual lyrics to live hardware RTL-SDR FM radio scanning, ISP bypass network acceleration, and Dolby.io studio mastering, SANDYPLAY redefines what a desktop media player can do.
+> **SANDYPLAY** goes far beyond a standard media player. By integrating **OpenAI's Whisper** for instant local subtitles, **Google Gemini** for smart metadata and lyrics translation, and **Dolby.io** for cloud-based audio mastering, it delivers a premium, visually stunning experience wrapped in a dynamic glassmorphism UI.
 
 ---
 
@@ -93,20 +91,20 @@ SANDYPLAY includes 6 dedicated streaming and discovery dialogs accessible right 
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
-│  SANDYPLAY AI MEDIA STUDIO v1.17                       [ — ] [ 口 ] [ X ] │
+│  SANDYPLAY AI MEDIA STUDIO v1.17                    [ — ] [ 口 ] [ X ] │
 ├────────────────────────────────────────────────────────────────────────┤
-│  [📺 TV]  [🎵 Music]  [🎙️ Podcast]  [⛩️ Anime]  [🎬 Video]  [🌐 Browser] │
+│  [📺 TV] [🎵 Music] [🎙️ Podcast] [⛩️ Anime] [🎬 Video]  [🌐 Browser] │
 ├──────────────────────────────────────┬─────────────────────────────────┤
 │                                      │  📜 SYNCED BILINGUAL LYRICS     │
 │                                      │                                 │
 │          4K HDR LIBVLC               │  Original:   Stay with me       │
-│        VIDEO / AUDIO CANVAS          │  Translated: என்னோடு இரு         │
+│        VIDEO / AUDIO CANVAS          │  Translated: என்னோடு இரு    │
 │                                      │                                 │
 │     [💬 Offline Whisper AI CC]       │  ┌───────────────────────────┐  │
 │                                      │  │ ⚡ 48-Band Audio Spectrum │  │
 │                                      │  └───────────────────────────┘  │
 ├──────────────────────────────────────┴─────────────────────────────────┤
-│  ▶  ⏮  ⏭   02:14 / 04:30  ══════●═════════════  🔊 85%  [ 10-Band EQ ] │
+│  ▶  ⏮  ⏭   02:14 / 04:30  ══════●═════════════ 🔊 85% [ 10-Band EQ ] │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -115,29 +113,22 @@ SANDYPLAY includes 6 dedicated streaming and discovery dialogs accessible right 
 ## 🚀 Quick Installation
 
 ### Windows 10 / 11 (64-bit)
+<div align="center">
+  <h3>Get the Latest Sandyplay setup v1.13:</h3>
+  
+  <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/Sandyplay/SandyPlay_Setup_v1.13.exe">
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_SANDYPLAY-0ea5e9?style=for-the-badge&logo=windows&logoColor=white&scale=2" alt="Download">
+  </a>
+  <p><em>Version 1.13 | Windows 10/11 (64-bit)</em></p>
+</div>
 
-1. **Download the installer**:
-   
-   <div align="center">
-     <a href="https://github.com/itsyouhuman/SandyPlay/releases/latest">
-       <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_SANDYPLAY_SETUP_v1.17-0ea5e9?style=for-the-badge&logo=windows&logoColor=white&scale=1.5" alt="Download SandyPlay">
-     </a>
-     <br><br>
-     <code>SandyPlay_Setup_v1.17.exe (Recommended Installer)</code>
-   </div>
+> [!IMPORTANT]  
+> 1. Click the blue download button above.
+> 2. Run the downloaded `SandyPlay_Setup_v1.13.exe`.
+> 3. The installer will automatically configure VLC Engine and Visual C++ runtimes.
+> 4. Launch the app and drop in your media!
 
-2. **Run Setup**:
-   - Double-click `SandyPlay_Setup_v1.17.exe`.
-   - The installer automatically configures the LibVLC engine, Visual C++ runtimes, and Windows firewall allowances for the RTL-SDR tuner and network booster.
-   - Choose your optional shortcuts (Desktop, Taskbar, Explorer right-click integration).
-   - Launch and enjoy!
-
-3. **Silent / Administrative Deployment**:
-   ```cmd
-   SandyPlay_Setup_v1.17.exe /SILENT /NORESTART
-   ```
-
----
+<br>
 
 ## ⌨️ Keyboard Shortcuts
 
@@ -182,8 +173,8 @@ SANDYPLAY includes 6 dedicated streaming and discovery dialogs accessible right 
 
 Created with passion by **Sandytalks Devops** (Santhosh).
 
-* 📸 **Instagram:** [@sandyfromindia](https://www.instagram.com/sandyfromindia/)
-* 🐙 **GitHub:** [itsyouhuman / SandyPlay](https://github.com/itsyouhuman/SandyPlay)
+* 📸 **Instagram:** [@sandyplay](https://www.instagram.com/sandyplay/)
+* 🐙 **GitHub:** [Sandyplay](https://github.com/sandytalks/SANDYPLAY/)
 
 ---
 
