@@ -5,7 +5,7 @@
 
   <img src="app_icon.png" alt="SANDYPLAY Logo" width="130" height="130">
   
-  <h1>SANDYPLAY Media Player &amp;</h1>
+  <h1>SANDYPLAY Media Player</h1>
   
   <p>
     <em>The ultimate AI-powered, Dolby-enhanced media experience. Built for audiophiles and cinephiles.</em>
