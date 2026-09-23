@@ -203,7 +203,7 @@ SANDYPLAY includes 6 dedicated streaming and discovery dialogs accessible right 
   </a>
   <br/><br/>
   <p>
-    <em>Version 1.17 &bull; Windows 10/11 (64-bit) &bull; Standalone Installer (No Python Required</em>
+    <em>Version 1.17 &bull; Windows 10/11 (64-bit) &bull; Standalone Installer</em>
   </p>
 </div>
 
