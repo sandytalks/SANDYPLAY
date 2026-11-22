@@ -160,35 +160,23 @@ A separate cloud module powered by Dolby.io APIs. It is designed to enhance uplo
 
 ## ✦ Interface preview
 
-> Replace the image placeholders below with real screenshots from your application when available. Keep the image files in the repository, for example inside a `screenshots/` folder.
-
-<!--
-Uncomment and update these image paths after adding screenshots:
-![SANDYPLAY main interface](screenshots/main-interface.png)
-![OliX Audio equalizer](screenshots/olix-audio.png)
-![SANDYPLAY online studios](screenshots/online-studios.png)
--->
-
-<details>
-<summary><strong>View the conceptual interface layout</strong></summary>
-
 ```text
-┌──────────────────────────────────────────────────────────────────────┐
-│  SANDYPLAY MULTIMEDIA STUDIO                         [ — ] [ □ ] [ X ]│
-├──────────────────────────────────────────────────────────────────────┤
-│  [ TV ] [ Music ] [ Podcast ] [ Anime ] [ Video ] [ Browser ]        │
-├───────────────────────────────────────┬──────────────────────────────┤
-│                                       │  BILINGUAL LYRICS             │
-│                                       │                              │
-│             4K HDR LIBVLC             │  Original / Translation       │
-│             MEDIA CANVAS              │                              │
-│                                       │  ┌────────────────────────┐  │
-│       Offline AI Subtitles            │  │  48-Band Spectrum     │  │
-│       OliX Audio Technology           │  └────────────────────────┘  │
-│       Adaptive Stream Buffer          │                              │
-├───────────────────────────────────────┴──────────────────────────────┤
-│  PLAY / PAUSE   SEEK BAR       VOLUME       OLIX EQUALIZER            │
-└──────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│  SANDYPLAY AI MULTIMEDIA STUDIO v1.18               [ - ] [ # ] [ X ]  │
+├────────────────────────────────────────────────────────────────────────┤
+│  [ TV (26k+) ] [ Music ] [ Podcast ] [ Anime ] [ Video ] [ Browser ]   │
+├────────────────────────────────────────┬───────────────────────────────┤
+│                                        │  SYNCED BILINGUAL LYRICS      │
+│                                        │                               │
+│             4K HDR LIBVLC              │  Original:   Stay with me     │
+│          VIDEO / AUDIO CANVAS          │  Translated: Ennodu Iru       │
+│                                        │                               │
+│       [ Offline Whisper AI CC ]        │  ┌─────────────────────────┐  │
+│       [ OliX Audio Technology ]        │  │ 48-Band Audio Spectrum  │  │
+│       [ 6000ms Adaptive Buffer ]       │  └─────────────────────────┘  │
+├────────────────────────────────────────┴───────────────────────────────┤
+│  |>  |<<  >>|   02:14 / 04:30  ======O==============  85%  [OliX 10-EQ]│
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 </details>
