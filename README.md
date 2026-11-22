@@ -5,7 +5,7 @@
   <h1>SANDYPLAY Media Player</h1>
   
   <p>
-    <em>The ultimate AI-powered multimedia studio with full application audio powered by <b>OliX Audio Technology™</b>. Built for audiophiles, cinephiles, and power streamers.</em>
+    <em>The ultimate AI-powered multimedia studio with audio powered by <b>OliX Audio Technology™</b>. Built for audiophiles, cinephiles, and power streamers.</em>
   </p>
 
   <p>
@@ -37,8 +37,8 @@
 ---
 
 > [!IMPORTANT]
-> **Full Application Audio Powered by OliX Audio Technology™**:  
-> Every audio stream, DSP filter, 10-band equalizer, 48-band spectrum visualizer, SoX HiFi resampler, 10 speaker profiles, and gapless crossfade transition across the entire application is engineered by **OliX Audio Technology™**.  
+> **Audio Powered by OliX Audio Technology™**:  
+> Every audio stream, 10-band equalizer, 48-band spectrum visualizer, SoX HiFi resampler, 10 speaker profiles, across the entire application is engineered by **OliX Audio Technology™**.  
 > **Dolby Studio**: Dolby technology is featured specifically as a dedicated cloud audio dynamic mastering module (**Dolby Studio** via Dolby.io) for one-click recording enhancement.
 
 ---
@@ -53,7 +53,6 @@
   <th align="left">Feature</th>
   <th align="center">🏅 SANDYPLAY v1.18</th>
   <th align="center">VLC 3.x</th>
-  <th align="center">PotPlayer</th>
   <th align="center">MPC-HC</th>
   <th align="center">foobar2000</th>
   <th align="center">Kodi</th>
