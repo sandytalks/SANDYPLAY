@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="SANDYPLAY Banner"/>
-
-  <br/><br/>
 
   <img src="app_icon.png" alt="SANDYPLAY Logo" width="130" height="130">
   
@@ -418,6 +415,3 @@ Accessible directly from the top navigation bar, SANDYPLAY embeds 6 dedicated st
 </div>
 
 <br/>
-
-<!-- FOOTER BANNER -->
-<img src="footer_banner.png" width="100%" alt="SANDYPLAY Footer Banner"/>
