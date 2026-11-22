@@ -53,6 +53,7 @@
   <th align="left">Feature</th>
   <th align="center">🏅 SANDYPLAY v1.18</th>
   <th align="center">VLC 3.x</th>
+  <th align="center">PotPlayer</th>
   <th align="center">MPC-HC</th>
   <th align="center">foobar2000</th>
   <th align="center">Kodi</th>
