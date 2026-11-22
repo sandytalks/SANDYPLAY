@@ -30,6 +30,59 @@ Built with Python, PyQt6 and LibVLC, SANDYPLAY combines a media player with six 
 
 > [!IMPORTANT]
 > **Audio architecture:** SANDYPLAY's audio streams, 10-band equalizer, 48-band spectrum visualizer, SoX HiFi resampler and speaker profiles are powered by **OliX Audio Technology™**. **Dolby Studio** is a separate cloud audio dynamic-mastering module using Dolby.io.
+>
+> 
+<h2 id="the-definitive-comparison">🏆 The Definitive Comparison</h2>
+
+<p><em>How SANDYPLAY v1.18 stacks up against leading media players worldwide.</em></p>
+
+<table width="100%">
+<thead>
+<tr>
+  <th align="left">Feature</th>
+  <th align="center">🏅 SANDYPLAY v1.18</th>
+  <th align="center">VLC 3.x</th>
+  <th align="center">PotPlayer</th>
+  <th align="center">MPC-HC</th>
+  <th align="center">foobar2000</th>
+  <th align="center">Kodi</th>
+  <th align="center">MPV</th>
+</tr>
+</thead>
+<tbody>
+<tr><td><b>Full App Audio Architecture</b></td><td align="center">✅ <b>OliX Audio Technology™</b></td><td align="center">Basic Audio</td><td align="center">Standard</td><td align="center">DirectShow</td><td align="center">Modular</td><td align="center">Standard</td><td align="center">FFmpeg Core</td></tr>
+<tr><td><b>OliX DTS Spatializer</b></td><td align="center">✅ 3 Spatial Modes</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>OliX 10-Band Graphic Parametric EQ</b></td><td align="center">✅ 32 Hz &ndash; 16 kHz</td><td align="center">⚠️ basic</td><td align="center">✅</td><td align="center">❌</td><td align="center">✅</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>OliX 48-Band Real-Time Visualizer</b></td><td align="center">✅ Dynamic Spectrum</td><td align="center">⚠️ basic</td><td align="center">⚠️ basic</td><td align="center">❌</td><td align="center">✅</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>OliX SoX HiFi Resampler &amp; Energy Sync</b></td><td align="center">✅ Studio-Grade Resampling</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Dolby Studio (Cloud Dynamic Mastering)</b></td><td align="center">✅ Dolby.io Cloud Module</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Offline AI Subtitles (Faster-Whisper + VAD)</b></td><td align="center">✅ 99 langs (100% offline)</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Instant AI Video Caption &amp; Summarizer</b></td><td align="center">✅ Gemini by Google</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Bilingual Synced Lyrics + AI Translation</b></td><td align="center">✅ Side-by-side</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Live TV Studio (26,775+ Global Channels)</b></td><td align="center">✅ </td><td align="center">⚠️ manual M3U</td><td align="center">⚠️ manual M3U</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>Adaptive 6,000ms Slow-Net Streaming Buffer</b></td><td align="center">✅ Auto-Reconnect</td><td align="center">⚠️ 300ms default</td><td align="center">⚠️ basic</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">⚠️ config</td></tr>
+<tr><td><b>AI Natural Language Command Palette</b></td><td align="center">✅ Ctrl+K</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>HDR Master Tuner &amp; Video Suite</b></td><td align="center">✅ OliX Vision</td><td align="center">⚠️ basic</td><td align="center">✅</td><td align="center">⚠️ basic</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">⚠️ scripts</td></tr>
+<tr><td><b>15-Source Synced Lyrics Engine</b></td><td align="center">✅ Instant </td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>Music Discovery &amp; 320kbps Streaming</b></td><td align="center">✅ Online Music </td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Anime Studio (Multi-Audio &amp; Dubs)</b></td><td align="center">✅ Dual-source sync</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>Podcast Studio </b></td><td align="center">✅ </td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>Online Video Studio &amp; Parallel Proxy (8125)</b></td><td align="center">✅ </td><td align="center">⚠️ manual URL</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>RTL-SDR Hardware FM Radio Tuner</b></td><td align="center">✅ 76&ndash;108 MHz offline</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>300+ Curated Online Radio Stations</b></td><td align="center">✅ Online FM &amp; ICY meta</td><td align="center">⚠️ manual</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>GoodbyeDPI + Sophos SSL CA Bypass</b></td><td align="center">✅ Auto network bypass</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Integrated Multi-Tab Web Browser</b></td><td align="center">✅ AdBlock + Downloads</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>High-Speed Multi-Threaded Downloader</b></td><td align="center">✅ </td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>13 Cyber Themes + Ambient Color Sync</b></td><td align="center">✅ Dynamic palette</td><td align="center">❌</td><td align="center">⚠️ skins</td><td align="center">⚠️ skins</td><td align="center">⚠️ themes</td><td align="center">⚠️ skins</td><td align="center">❌</td></tr>
+<tr><td><b>NVDEC 4K/8K Hardware Decoding</b></td><td align="center">✅ GPU accelerated</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td></tr>
+<tr><td><b>Setup Complexity / Extra Addons Needed</b></td><td align="center">🟢 Zero (Self-Contained)</td><td align="center">🟢 Zero</td><td align="center">🟢 Zero</td><td align="center">🟡 Codec packs</td><td align="center">🔴 Many plugins</td><td align="center">🔴 Many addons</td><td align="center">🟡 Scripts</td></tr>
+</tbody>
+</table>
+
+<p><em>✅ = Native built-in &nbsp;&bull;&nbsp; ⚠️ = Partial / Manual URL / Plugin required &nbsp;&bull;&nbsp; ❌ = Not supported</em></p>
+
+<br/>
+
 
 ## ✦ At a glance
 
