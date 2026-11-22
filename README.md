@@ -62,30 +62,28 @@
 </thead>
 <tbody>
 <tr><td><b>Full App Audio Architecture</b></td><td align="center">✅ <b>OliX Audio Technology™</b></td><td align="center">Basic Audio</td><td align="center">Standard</td><td align="center">DirectShow</td><td align="center">Modular</td><td align="center">Standard</td><td align="center">FFmpeg Core</td></tr>
-<tr><td><b>OliX 10 Hardware Speaker DSP Profiles</b></td><td align="center">✅ Full Hardware DSP</td><td align="center">⚠️ basic</td><td align="center">⚠️ basic</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td><b>OliX DTS Studio Surround Spatializer</b></td><td align="center">✅ 6 3D Spatial Modes</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>OliX DTS Spatializer</b></td><td align="center">✅ 3 Spatial Modes</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
 <tr><td><b>OliX 10-Band Graphic Parametric EQ</b></td><td align="center">✅ 32 Hz &ndash; 16 kHz</td><td align="center">⚠️ basic</td><td align="center">✅</td><td align="center">❌</td><td align="center">✅</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
 <tr><td><b>OliX 48-Band Real-Time Visualizer</b></td><td align="center">✅ Dynamic Spectrum</td><td align="center">⚠️ basic</td><td align="center">⚠️ basic</td><td align="center">❌</td><td align="center">✅</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
-<tr><td><b>OliX Gapless Crossfade (Adjustable)</b></td><td align="center">✅ E / W Hotkeys</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td><td align="center">⚠️</td><td align="center">❌</td></tr>
 <tr><td><b>OliX SoX HiFi Resampler &amp; Energy Sync</b></td><td align="center">✅ Studio-Grade Resampling</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">❌</td><td align="center">❌</td></tr>
 <tr><td><b>Dolby Studio (Cloud Dynamic Mastering)</b></td><td align="center">✅ Dolby.io Cloud Module</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
 <tr><td><b>Offline AI Subtitles (Faster-Whisper + VAD)</b></td><td align="center">✅ 99 langs (100% offline)</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td><b>Instant AI Video Caption &amp; Summarizer</b></td><td align="center">✅ Gemini 2.5</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Instant AI Video Caption &amp; Summarizer</b></td><td align="center">✅ Gemini by Google</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
 <tr><td><b>Bilingual Synced Lyrics + AI Translation</b></td><td align="center">✅ Side-by-side</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td><b>Live TV Studio (26,775+ Global Channels)</b></td><td align="center">✅ Zero-Lag Virtualized</td><td align="center">⚠️ manual M3U</td><td align="center">⚠️ manual M3U</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>Live TV Studio (26,775+ Global Channels)</b></td><td align="center">✅ </td><td align="center">⚠️ manual M3U</td><td align="center">⚠️ manual M3U</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
 <tr><td><b>Adaptive 6,000ms Slow-Net Streaming Buffer</b></td><td align="center">✅ Auto-Reconnect</td><td align="center">⚠️ 300ms default</td><td align="center">⚠️ basic</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">⚠️ config</td></tr>
 <tr><td><b>AI Natural Language Command Palette</b></td><td align="center">✅ Ctrl+K</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td><b>HDR Master Tuner &amp; Video Suite</b></td><td align="center">✅ Contrast/Gamma/Sat</td><td align="center">⚠️ basic</td><td align="center">✅</td><td align="center">⚠️ basic</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">⚠️ scripts</td></tr>
-<tr><td><b>15-Source Synced Lyrics Engine</b></td><td align="center">✅ Instant multi-fallback</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
-<tr><td><b>Music Discovery &amp; 320kbps Streaming</b></td><td align="center">✅ JioSaavn / Spotify</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>HDR Master Tuner &amp; Video Suite</b></td><td align="center">✅ OliX Vision</td><td align="center">⚠️ basic</td><td align="center">✅</td><td align="center">⚠️ basic</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">⚠️ scripts</td></tr>
+<tr><td><b>15-Source Synced Lyrics Engine</b></td><td align="center">✅ Instant </td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>Music Discovery &amp; 320kbps Streaming</b></td><td align="center">✅ Online Music </td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
 <tr><td><b>Anime Studio (Multi-Audio &amp; Dubs)</b></td><td align="center">✅ Dual-source sync</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
-<tr><td><b>Podcast Studio (iTunes RSS + Index)</b></td><td align="center">✅ Background download</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
-<tr><td><b>Online Video Studio &amp; Parallel Proxy (8125)</b></td><td align="center">✅ yt-dlp chunked proxy</td><td align="center">⚠️ manual URL</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>Podcast Studio </b></td><td align="center">✅ </td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>Online Video Studio &amp; Parallel Proxy (8125)</b></td><td align="center">✅ </td><td align="center">⚠️ manual URL</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
 <tr><td><b>RTL-SDR Hardware FM Radio Tuner</b></td><td align="center">✅ 76&ndash;108 MHz offline</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td><b>300+ Curated Online Radio Stations</b></td><td align="center">✅ Zeno FM &amp; ICY meta</td><td align="center">⚠️ manual</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>300+ Curated Online Radio Stations</b></td><td align="center">✅ Online FM &amp; ICY meta</td><td align="center">⚠️ manual</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
 <tr><td><b>GoodbyeDPI + Sophos SSL CA Bypass</b></td><td align="center">✅ Auto network bypass</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
 <tr><td><b>Integrated Multi-Tab Web Browser</b></td><td align="center">✅ AdBlock + Downloads</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td><b>High-Speed Multi-Threaded Downloader</b></td><td align="center">✅ Vidmate/IDM chunked</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>High-Speed Multi-Threaded Downloader</b></td><td align="center">✅ </td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
 <tr><td><b>13 Cyber Themes + Ambient Color Sync</b></td><td align="center">✅ Dynamic palette</td><td align="center">❌</td><td align="center">⚠️ skins</td><td align="center">⚠️ skins</td><td align="center">⚠️ themes</td><td align="center">⚠️ skins</td><td align="center">❌</td></tr>
 <tr><td><b>NVDEC 4K/8K Hardware Decoding</b></td><td align="center">✅ GPU accelerated</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td></tr>
 <tr><td><b>Setup Complexity / Extra Addons Needed</b></td><td align="center">🟢 Zero (Self-Contained)</td><td align="center">🟢 Zero</td><td align="center">🟢 Zero</td><td align="center">🟡 Codec packs</td><td align="center">🔴 Many plugins</td><td align="center">🔴 Many addons</td><td align="center">🟡 Scripts</td></tr>
@@ -100,38 +98,28 @@
 
 <h2 id="whats-new">🌟 What's New in v1.18 Ultimate Edition</h2>
 
-* 🎧 **Full Application Audio by OliX Audio Technology™**: Unified audio architecture across the entire player. Powers high-fidelity playback, 10 speaker hardware profiles, 10-band graphic EQ, 48-band FFT spectrum visualizer, SoX HiFi resampler, and gapless crossfade transitions.
+* 🎧 **Audio by OliX Audio Technology™**: Unified audio architecture across the entire player.
 * ☁️ **Dolby Studio (Dedicated Cloud Mastering)**: Specific, dedicated cloud audio dynamic mastering module powered by Dolby.io REST APIs for one-click audio enhancement, vocal clarity, and bass balancing.
 * 📺 **Massive 26,775+ Channel Live TV Studio**: Expanded global live television database categorized by Genre, Language, Country/Region, and Favorites. Includes verified HD live streams for Star Vijay, Vijay Super, Zee Tamil, Sun TV, Thanthi One, Polimer TV, Asianet HD, NDTV 24x7, Republic TV, and hundreds more with automatic mirror failovers.
 * ⚡ **Zero-Lag Asynchronous Catalog Virtualization**: Fully decoupled background network loading from the Qt GUI thread. Implemented tab-aware deferred rendering and uniform 800-channel instant slicing, reducing channel catalog rendering time from ~8.0 seconds down to **0.018 seconds (450x faster)**. Completely eliminates GUI freezing and Windows *"Not Responding"* hangs on slow or fluctuating internet connections.
 * 🌐 **Adaptive 6,000ms Slow-Internet Buffer Engine**: Quadrupled LibVLC network caching (`:network-caching=6000`, `:live-caching=6000`, `:file-caching=6000`) with `:ipv4-timeout=5000` and `:http-continuous=1`. Video and live TV streams automatically absorb jitter, packet drops, and bandwidth dips without stuttering or breaking playback loops.
-* 🎨 **HDR Master Tuner & Precision Video Suite**: Dynamic real-time post-processing controls for contrast, brightness, saturation, gamma, and hue with hardware acceleration and one-click presets for **Cinema**, **Anime**, **Vivid HDR**, and **Dark Room** viewing.
+* 🎨 **HDR Modes**: Dynamic real-time post-processing controls for contrast, brightness, saturation, gamma, and hue with hardware acceleration and one-click presets for **Cinema**, **Anime**, **Vivid HDR**, and **Dark Room** viewing.
 * ⛩️ **Anime Multi-Audio Synchronization**: Multi-server resolver with dual-source sync for Japanese, English, Tamil, and Hindi dubs. Features episode auto-sequencing, AnimeSalt audio slave injection, and background episode downloading.
 * 🛡️ **Hardened GoodbyeDPI & Sophos Bypass**: Automated packet filtering via WinDivert and automatic injection of `SecurityAppliance_SSL_CA.pem` preventing HTTPS blocking and ISP SNI throttling on campus and enterprise networks.
-* 📦 **Production Inno Setup v1.18 Installer**: Professional dark cyber-themed setup wizard (`v1.18 ULTIMATE EDITION`), automated process management, clean uninstallation lifecycle, firewall rule creation, and full Windows 10/11 Explorer file associations.
+* 📦 **Production Setup v1.18 Installer**: Professional dark cyber-themed setup wizard, automated process management, clean uninstallation lifecycle, firewall rule creation, and full Windows 10/11 Explorer file associations.
 
 ---
 
-<h2 id="olix-audio">🎧 OliX Audio Technology™ — Full Application Audio</h2>
+<h2 id="olix-audio"> OliX Audio Technology™ </h2>
 
 The entire audio architecture in SANDYPLAY is engineered from the ground up by **OliX Audio Technology™**:
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│                   OLIX AUDIO TECHNOLOGY™ SOUND ENGINE                  │
-├────────────────────────────────────────────────────────────────────────┤
-│  [ OliX DSP Core ] ──► [ 10-Band Graphic EQ ] ──► [ Speaker Profiles ] │
-│  [ SoX HiFi Resamp] ──► [ DTS 3D Spatializer ] ──► [ 48-Band Visualizer]│
-│  [ Gapless Fade  ] ──► [ Stereo (OliX) Mode  ] ──► [ Dynamic Bass Boost]│
-└────────────────────────────────────────────────────────────────────────┘
-```
 
 * **OliX Signature Sound**: Flagship dynamic bass and 3D spatial acoustic engine delivering holographic depth, binaural soundstage widening, and pristine high-frequency clarity.
-* **OliX 10 Hardware Speaker DSP Profiles**: Auto-adaptive hardware loudness matching. Automatically optimizes audio characteristics whether you are using studio headphones, laptop speakers (preventing driver distortion), desktop monitors, or high-end external HiFi amplifiers.
-* **OliX DTS Studio Surround Spatializer**: Converts conventional 2-channel stereo into an expansive 3D audio space with presets tailored for **Movies**, **Music**, **Voice**, **Gaming**, and **Night Mode**.
+* **OliX Hardware Speaker Profiles**: Auto-adaptive hardware loudness matching. Automatically optimizes audio characteristics whether you are using studio headphones, laptop speakers (preventing driver distortion), desktop monitors, or high-end external HiFi amplifiers.
+* **OliX DTS Studio Surround Spatializer**: Converts conventional 2-channel stereo into an expansive 3D audio space with presets tailored for **Movies**, **Music**, and **Gaming**.
 * **OliX 10-Band Graphic Equalizer**: Precision parametric graphic equalizer spanning 32 Hz to 16 kHz with built-in presets (OliX Signature Dynamic, Bass Boost, Vocal Clarity, Rock, Electronic, Classical, Flat, and Custom).
 * **OliX 48-Band Spectrum Visualizer**: Dynamic visual representation of audio frequency bands, reacting synchronously to music dynamics with smooth peak decay.
-* **OliX SoX HiFi Resampler & Gapless Crossfade**: Studio-grade sample rate conversion and smooth track transitions using <kbd>E</kbd> / <kbd>W</kbd> hotkeys with customizable crossfade duration.
 * **Dolby Studio (Cloud Dynamic Mastering)**: An exclusive dedicated cloud module using Dolby.io APIs. Upload any muddy, quiet, or unbalanced audio recording to Dolby's mastering cloud with one click to balance frequencies, reduce background noise, and master vocals to broadcast standards.
 
 ---
@@ -140,7 +128,7 @@ The entire audio architecture in SANDYPLAY is engineered from the ground up by *
 
 ### 🤖 1. Artificial Intelligence &amp; Subtitles
 * **Offline Faster-Whisper AI Subtitles**: Watching a foreign or untranslated video? Press <kbd>Ctrl</kbd> + <kbd>T</kbd>. SANDYPLAY executes a local `faster-whisper` + `ctranslate2` model accelerated by Silero VAD v6 to transcribe audio into synchronized subtitles in real time—**100% locally and completely offline without cloud latency**.
-* **Sandytalks AI Assistant**: An intelligent conversational AI sidebar powered by Google Gemini. Ask questions about the currently playing video or song, generate summaries, break down complex plots, or translate dialogue into your native tongue.
+* **Sandytalks AI Assistant**: An intelligent conversational AI sidebar powered by Google Dialogflow and Gemini. Ask questions about the currently playing video or song, generate summaries, break down complex plots, or translate dialogue into your native tongue.
 * **Smart Bilingual Synced Lyrics**: Displays original song lyrics alongside synchronized translated lyrics side-by-side (English, Tamil, Hindi, Telugu, Korean, Japanese, and more) so you always connect with the meaning.
 * **Natural Language Command Palette**: Press <kbd>Ctrl</kbd> + <kbd>K</kbd> to trigger the AI command palette. Type natural commands (*"Play trending Tamil melody songs"*, *"Boost volume to 120%"*, *"Set sleep timer to 30 minutes"*), and SANDYPLAY executes them instantly.
 
@@ -152,9 +140,9 @@ Accessible directly from the top navigation bar, SANDYPLAY embeds 6 dedicated st
 | :--- | :--- |
 | **📺 Online TV Studio** | Access **26,775+ Global Live Channels** across News, Sports, Entertainment, Movies, and Regional TV (India, USA, UK, Europe, Latin America, Asia). Features zero-lag catalog virtualization, stream health checking, verified HD mirrors, and M3U playlist import/export. |
 | **🎵 Online Music Studio** | Explore global top charts, trending hits, and regional music (Tamil, Hindi, Telugu, Punjabi, Malayalam, International Pop). Streams up to **320kbps** with DES decryption, synced LRC lyrics, and album art extraction. |
-| **🎙️ Online Podcast Studio** | Search and stream millions of podcast episodes powered by iTunes RSS and Podcast Index with background episode downloading. |
+| **🎙️ Online Podcast Studio** | Search and stream millions of podcast episodes and Podcast Index with background episode downloading. |
 | **⛩️ Online Anime Studio** | Browse trending and seasonal anime with Japanese audio, English subtitles, and multi-language dubs (Tamil, Hindi, English). Supports dual-source audio synchronization and background episode downloading. |
-| **🎬 Online Video Studio** | Web video search engine powered by `yt-dlp`. Streams 1080p, 2K, and 4K video through a local parallel proxy (`ParallelStreamProxy` on port 8125) with multi-chunk prefetching for zero-buffering playback. |
+| **🎬 Online Video Studio** | Web video search engine. Streams 1080p, 2K, and 4K video through a local parallel proxy (`ParallelStreamProxy` on port 8125) with multi-chunk prefetching for zero-buffering playback. |
 | **🌐 Sandy Web Browser** | Integrated Chromium browser powered by QtWebEngine featuring multi-tab browsing, built-in ad blocker (`🛡️ AdBlock`), persistent sessions, download manager, and synchronized dark cyberpunk theme. |
 
 ---
@@ -164,20 +152,12 @@ Accessible directly from the top navigation bar, SANDYPLAY embeds 6 dedicated st
 * **LibVLC 4K/8K NVDEC GPU Acceleration**: Direct hardware video decoding via NVIDIA CUDA, Intel QuickSync, and AMD DXVA2 allows effortless playback of high-bitrate 4K and 8K HDR content with near-zero CPU consumption.
 * **RTL-SDR USB Hardware FM Tuner**: Plug any RTL2832U software-defined radio USB dongle into your PC, navigate to **FM Radio**, and listen to local over-the-air wideband FM broadcasts (76–108 MHz) completely offline. Features automatic frequency scanning, signal strength meter, and squelch threshold adjustment.
 * **Parallel Stream Proxy (Port 8125)**: An internal multi-threaded HTTP proxy server that segments and downloads online media streams in parallel, ensuring smooth continuous playback even on restricted or throttled connections.
-* **HDR Master Tuner**: Fine-tune contrast, brightness, saturation, gamma, and color hue in real-time with zero latency.
+* **HDR**: Fine-tune contrast, brightness, saturation, gamma, and color hue in real-time with zero latency.
 * **High-Speed Stream Downloader**: Built-in multi-threaded chunked downloader with automatic `ffmpeg` remuxing for video, audio, and subtitle streams.
 
 ---
 
 <h2 id="showcase">📸 Interface Preview &amp; Showcase</h2>
-
-<p align="center">
-  <img src="screenshot.png" alt="SANDYPLAY Interface Preview" width="100%" style="border-radius: 12px; border: 1px solid rgba(14,165,233,0.3);"/>
-</p>
-
-<p align="center">
-  <em>Cyberpunk Dark Glassmorphism UI &bull; Synced Bilingual Lyrics &bull; 48-Band Audio Spectrum Visualizer</em>
-</p>
 
 <details open>
 <summary><strong>📐 Click to toggle &mdash; UI Layout Architecture Diagram</strong></summary>
@@ -217,7 +197,7 @@ Accessible directly from the top navigation bar, SANDYPLAY embeds 6 dedicated st
   </a>
   <br/><br/>
   <p>
-    <em>Version 1.18 Ultimate Edition &bull; Windows 10/11 (64-bit) &bull; Standalone Clean Installer</em>
+    <em>Version 1.18 &bull; Windows 10/11 (64-bit) &bull; </em>
   </p>
 </div>
 
@@ -274,7 +254,7 @@ Accessible directly from the top navigation bar, SANDYPLAY embeds 6 dedicated st
 <details>
 <summary><strong>What audio technology powers SANDYPLAY?</strong></summary>
 <br/>
-<p>The entire application's audio processing, DSP matrix, 10-band graphic equalizer, 10 speaker profiles, 48-band spectrum visualizer, SoX resampler, and crossfader are powered exclusively by <b>OliX Audio Technology™</b>. Dolby is used specifically and solely for the <b>Dolby Studio</b> cloud audio mastering feature via Dolby.io.</p>
+<p>The entire application's audio processing, 10-band graphic equalizer, 10 speaker profiles, 48-band spectrum visualizer, and SoX resampler are powered exclusively by <b>OliX Audio Technology™</b>. Dolby is used specifically and solely for the <b>Dolby Studio</b> cloud audio mastering feature via Dolby.io.</p>
 </details>
 
 <details>
@@ -348,13 +328,12 @@ Accessible directly from the top navigation bar, SANDYPLAY embeds 6 dedicated st
   <img src="https://img.shields.io/static/v1?label=Installer&message=Inno%20Setup%206&color=00599C&style=for-the-badge" alt="Inno Setup"/>
 </p>
 
-* **Full Application Audio:** OliX Audio Technology™ (Full Core DSP, 10-band Graphic EQ, 48-band Spectrum Visualizer, DTS 3D Spatializer, SoX HiFi Resampler, Gapless Crossfade)
+* **Audio:** OliX Audio Technology™ (Full Core, 10-band Graphic EQ, 48-band Spectrum Visualizer, DTS 3D Spatializer, SoX HiFi Resampler)
 * **Cloud Audio Dynamic Mastering:** Dolby.io Media Processing REST APIs (Dedicated exclusively to the Dolby Studio module)
 * **Core Framework:** Python 3.12+ (PyInstaller 6 flat onedir deployment architecture)
 * **Graphical Interface:** PyQt6 &amp; QtWebEngine (Cyberpunk Dark Glassmorphism, Dynamic Accent Palettes)
 * **Media Playback Engine:** 64-bit LibVLC with full hardware acceleration (NVDEC, DXVA2, CUDA)
 * **Local Machine Learning:** `faster-whisper` + `ctranslate2` + `onnxruntime` + Silero VAD v6
-* **Generative AI:** Google Gemini API (`google-genai` SDK)
 * **Software-Defined Radio:** `rtl-sdr` (`rtl_fm` streaming pipeline)
 * **Network Acceleration &amp; Bypass:** `goodbyedpi` Windows WinDivert packet filter &amp; DNS-over-HTTPS (DoH)
 * **Packaging &amp; Installer:** Inno Setup 6 (LZMA2 Ultra64 Solid Compression, Explorer shell refresh)
