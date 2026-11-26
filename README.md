@@ -1,37 +1,46 @@
 <div align="center">
 
-<img src="app_icon.png" alt="SANDYPLAY logo" width="112">
+  <p align="center">
+    <img src="app_icon.png" alt="SANDYPLAY logo" width="112" />
+  </p>
 
-# SANDYPLAY
+  <h1 align="center">SANDYPLAY</h1>
 
-### THE NEXT-GENERATION AI MULTIMEDIA STUDIO
+  <h3 align="center">THE NEXT-GENERATION AI MULTIMEDIA STUDIO</h3>
 
-**One player. Six studios. A whole new media experience.**
+  <p align="center"><strong>One player. Six studios. A whole new media experience.</strong></p>
 
-[![Release](https://img.shields.io/badge/Release-v1.18%20Ultimate-22D3EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandytalks/SANDYPLAY/releases/latest)
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-2563EB?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sandytalks/SANDYPLAY/releases)
-[![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![LibVLC](https://img.shields.io/badge/Engine-LibVLC-FF8800?style=for-the-badge&logo=vlc&logoColor=white)](https://www.videolan.org/)
-[![License](https://img.shields.io/badge/License-GPL--3.0-16A34A?style=for-the-badge)](https://github.com/sandytalks/SANDYPLAY/blob/main/LICENSE)
+  <p align="center">
+    <a href="https://github.com/sandytalks/SANDYPLAY/releases/latest"><img src="https://img.shields.io/badge/Release-v1.18%20Ultimate-22D3EE?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Release" /></a>
+    <a href="https://github.com/sandytalks/SANDYPLAY/releases"><img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-2563EB?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows" /></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.12%2B-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" /></a>
+    <a href="https://www.videolan.org/"><img src="https://img.shields.io/badge/Engine-LibVLC-FF8800?style=for-the-badge&amp;logo=vlc&amp;logoColor=white" alt="LibVLC" /></a>
+    <a href="https://github.com/sandytalks/SANDYPLAY/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPL--3.0-16A34A?style=for-the-badge" alt="License" /></a>
+  </p>
 
-[**Download**](#-download) · [**What's New**](#-whats-new-in-v118) · [**Features**](#-features) · [**OliX Audio**](#-olix-audio-technology) · [**Installation**](#-installation) · [**Roadmap**](#-development-roadmap)
+  <p align="center">
+    <a href="#download"><strong>Download</strong></a> &middot;
+    <a href="#whats-new-in-v118"><strong>What's New</strong></a> &middot;
+    <a href="#features"><strong>Features</strong></a> &middot;
+    <a href="#olix-audio-technology"><strong>OliX Audio</strong></a> &middot;
+    <a href="#installation"><strong>Installation</strong></a> &middot;
+    <a href="#development-roadmap"><strong>Roadmap</strong></a>
+  </p>
 
----
+  <hr />
 
-*Engineered for entertainment. Designed for discovery. Powered by OliX Audio Technology™.*
+  <p align="center"><em>Engineered for entertainment. Designed for discovery. Powered by OliX Audio Technology&trade;.</em></p>
 
 </div>
 
-## ✦ Overview
+<h2 id="overview">✦ Overview</h2>
 
 SANDYPLAY is a Windows multimedia application that brings local playback, online entertainment, AI-assisted tools and audio processing together in one desktop experience.
 
 Built with Python, PyQt6 and LibVLC, SANDYPLAY combines a media player with six dedicated online studios, an integrated browser, hardware radio support and the OliX Audio Technology™ sound architecture.
 
-> [!IMPORTANT]
-> **Audio architecture:** SANDYPLAY's audio streams, 10-band equalizer, 48-band spectrum visualizer, SoX HiFi resampler and speaker profiles are powered by **OliX Audio Technology™**. **Dolby Studio** is a separate cloud audio dynamic-mastering module using Dolby.io.
->
-> 
+> **Important — Audio architecture:** SANDYPLAY's audio streams, 10-band equalizer, 48-band spectrum visualizer, SoX HiFi resampler and speaker profiles are powered by **OliX Audio Technology™**. **Dolby Studio** is a separate cloud audio dynamic-mastering module using Dolby.io.
+
 <h2 id="the-definitive-comparison">🏆 The Definitive Comparison</h2>
 
 <p><em>How SANDYPLAY v1.18 stacks up against leading media players worldwide.</em></p>
@@ -59,21 +68,21 @@ Built with Python, PyQt6 and LibVLC, SANDYPLAY combines a media player with six 
 <tr><td><b>Offline AI Subtitles (Faster-Whisper + VAD)</b></td><td align="center">✅ 99 langs (100% offline)</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
 <tr><td><b>Instant AI Video Caption &amp; Summarizer</b></td><td align="center">✅ Gemini by Google</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
 <tr><td><b>Bilingual Synced Lyrics + AI Translation</b></td><td align="center">✅ Side-by-side</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td><b>Live TV Studio (26,775+ Global Channels)</b></td><td align="center">✅ </td><td align="center">⚠️ manual M3U</td><td align="center">⚠️ manual M3U</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
-<tr><td><b>Adaptive 6,000ms Slow-Net Streaming Buffer</b></td><td align="center">✅ Auto-Reconnect</td><td align="center">⚠️ 300ms default</td><td align="center">⚠️ basic</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">⚠️ config</td></tr>
+<tr><td><b>Live TV Studio (26,775+ Global Channels)</b></td><td align="center">✅</td><td align="center">⚠️ Manual M3U</td><td align="center">⚠️ Manual M3U</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ Addon</td><td align="center">❌</td></tr>
+<tr><td><b>Adaptive 6,000ms Slow-Net Streaming Buffer</b></td><td align="center">✅ Auto-Reconnect</td><td align="center">⚠️ 300ms default</td><td align="center">⚠️ Basic</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ Addon</td><td align="center">⚠️ Config</td></tr>
 <tr><td><b>AI Natural Language Command Palette</b></td><td align="center">✅ Ctrl+K</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td><b>HDR Master Tuner &amp; Video Suite</b></td><td align="center">✅ OliX Vision</td><td align="center">⚠️ basic</td><td align="center">✅</td><td align="center">⚠️ basic</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">⚠️ scripts</td></tr>
-<tr><td><b>15-Source Synced Lyrics Engine</b></td><td align="center">✅ Instant </td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
-<tr><td><b>Music Discovery &amp; 320kbps Streaming</b></td><td align="center">✅ Online Music </td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td><b>Anime Studio (Multi-Audio &amp; Dubs)</b></td><td align="center">✅ Dual-source sync</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
-<tr><td><b>Podcast Studio </b></td><td align="center">✅ </td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
-<tr><td><b>Online Video Studio &amp; Parallel Proxy (8125)</b></td><td align="center">✅ </td><td align="center">⚠️ manual URL</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>HDR Master Tuner &amp; Video Suite</b></td><td align="center">✅ OliX Vision</td><td align="center">⚠️ Basic</td><td align="center">✅</td><td align="center">⚠️ Basic</td><td align="center">❌</td><td align="center">⚠️ Addon</td><td align="center">⚠️ Scripts</td></tr>
+<tr><td><b>15-Source Synced Lyrics Engine</b></td><td align="center">✅ Instant</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ Plugin</td><td align="center">⚠️ Addon</td><td align="center">❌</td></tr>
+<tr><td><b>Music Discovery &amp; 320kbps Streaming</b></td><td align="center">✅ Online Music</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>Anime Studio (Multi-Audio &amp; Dubs)</b></td><td align="center">✅ Dual-source sync</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ Addon</td><td align="center">❌</td></tr>
+<tr><td><b>Podcast Studio</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ Addon</td><td align="center">❌</td></tr>
+<tr><td><b>Online Video Studio &amp; Parallel Proxy (8125)</b></td><td align="center">✅</td><td align="center">⚠️ Manual URL</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ Addon</td><td align="center">❌</td></tr>
 <tr><td><b>RTL-SDR Hardware FM Radio Tuner</b></td><td align="center">✅ 76&ndash;108 MHz offline</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td><b>300+ Curated Online Radio Stations</b></td><td align="center">✅ Online FM &amp; ICY meta</td><td align="center">⚠️ manual</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ plugin</td><td align="center">⚠️ addon</td><td align="center">❌</td></tr>
+<tr><td><b>300+ Curated Online Radio Stations</b></td><td align="center">✅ Online FM &amp; ICY meta</td><td align="center">⚠️ Manual</td><td align="center">❌</td><td align="center">❌</td><td align="center">⚠️ Plugin</td><td align="center">⚠️ Addon</td><td align="center">❌</td></tr>
 <tr><td><b>GoodbyeDPI + Sophos SSL CA Bypass</b></td><td align="center">✅ Auto network bypass</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
 <tr><td><b>Integrated Multi-Tab Web Browser</b></td><td align="center">✅ AdBlock + Downloads</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td><b>High-Speed Multi-Threaded Downloader</b></td><td align="center">✅ </td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
-<tr><td><b>13 Cyber Themes + Ambient Color Sync</b></td><td align="center">✅ Dynamic palette</td><td align="center">❌</td><td align="center">⚠️ skins</td><td align="center">⚠️ skins</td><td align="center">⚠️ themes</td><td align="center">⚠️ skins</td><td align="center">❌</td></tr>
+<tr><td><b>High-Speed Multi-Threaded Downloader</b></td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr>
+<tr><td><b>13 Cyber Themes + Ambient Color Sync</b></td><td align="center">✅ Dynamic palette</td><td align="center">❌</td><td align="center">⚠️ Skins</td><td align="center">⚠️ Skins</td><td align="center">⚠️ Themes</td><td align="center">⚠️ Skins</td><td align="center">❌</td></tr>
 <tr><td><b>NVDEC 4K/8K Hardware Decoding</b></td><td align="center">✅ GPU accelerated</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td></tr>
 <tr><td><b>Setup Complexity / Extra Addons Needed</b></td><td align="center">🟢 Zero (Self-Contained)</td><td align="center">🟢 Zero</td><td align="center">🟢 Zero</td><td align="center">🟡 Codec packs</td><td align="center">🔴 Many plugins</td><td align="center">🔴 Many addons</td><td align="center">🟡 Scripts</td></tr>
 </tbody>
@@ -95,7 +104,7 @@ Built with Python, PyQt6 and LibVLC, SANDYPLAY combines a media player with six 
 | ⚡ **Video engine** | LibVLC playback with supported hardware decoding |
 | 📻 **FM radio** | Online radio and RTL-SDR hardware tuner |
 
-## ✦ What's new in v1.18
+<h2 id="whats-new-in-v118">✦ What's new in v1.18</h2>
 
 **SANDYPLAY v1.18 Ultimate Edition** brings together audio, streaming, AI tools and desktop improvements.
 
@@ -110,7 +119,7 @@ Built with Python, PyQt6 and LibVLC, SANDYPLAY combines a media player with six 
 | **Anime multi-audio** | Multi-server resolver, episode sequencing and dual-source audio synchronization |
 | **Windows installer** | Setup wizard, process management, uninstallation lifecycle and file associations |
 
-## ✦ Features
+<h2 id="features">✦ Features</h2>
 
 ### 🤖 AI, subtitles & smart playback
 
@@ -131,7 +140,7 @@ Built with Python, PyQt6 and LibVLC, SANDYPLAY combines a media player with six 
 | 🎬 **Online Video** | Video search, supported high-resolution streams and parallel stream proxy |
 | 🌐 **Sandy Browser** | QtWebEngine browser, multi-tab browsing, AdBlock and download manager |
 
-### 🎧 OliX Audio Technology™
+<h3 id="olix-audio-technology">🎧 OliX Audio Technology™</h3>
 
 A dedicated audio experience designed as a core part of SANDYPLAY.
 
@@ -179,21 +188,25 @@ A separate cloud module powered by Dolby.io APIs. It is designed to enhance uplo
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-</details>
-
-## ✦ Download
+<h2 id="download">✦ Download</h2>
 
 <div align="center">
 
-### SANDYPLAY v1.18 · Windows 10 / 11 · 64-bit
+  <h3 align="center">SANDYPLAY v1.18 &middot; Windows 10 / 11 &middot; 64-bit</h3>
 
-[![Download SANDYPLAY](https://img.shields.io/badge/DOWNLOAD-SANDYPLAY%20v1.18-0EA5E9?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sandytalks/SANDYPLAY/releases/download/sandyplay1.18/SandyPlay_Setup_v1.18.exe)
+  <p align="center">
+    <a href="https://github.com/sandytalks/SANDYPLAY/releases/download/sandyplay1.18/SandyPlay_Setup_v1.18.exe"><img src="https://img.shields.io/badge/DOWNLOAD-SANDYPLAY%20v1.18-0EA5E9?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Download SANDYPLAY" /></a>
+  </p>
 
-[All releases](https://github.com/sandytalks/SANDYPLAY/releases) · [Source code](https://github.com/sandytalks/SANDYPLAY) · [Report an issue](https://github.com/sandytalks/SANDYPLAY/issues)
+  <p align="center">
+    <a href="https://github.com/sandytalks/SANDYPLAY/releases">All releases</a> &middot;
+    <a href="https://github.com/sandytalks/SANDYPLAY">Source code</a> &middot;
+    <a href="https://github.com/sandytalks/SANDYPLAY/issues">Report an issue</a>
+  </p>
 
 </div>
 
-## ✦ Installation
+<h2 id="installation">✦ Installation</h2>
 
 1. Download `SandyPlay_Setup_v1.18.exe` from the release link above.
 2. Run the installer on a supported 64-bit Windows system.
@@ -226,7 +239,7 @@ The project describes the installer as bundling the LibVLC engine, OliX Audio co
 | Storage | 600 MB | 3 GB+ |
 | Network | Offline for local media and FM | Broadband for online studios |
 
-## ✦ Development roadmap
+<h2 id="development-roadmap">✦ Development roadmap</h2>
 
 | Status | Milestone | Version |
 |---|---|---|
@@ -240,7 +253,7 @@ The project describes the installer as bundling the LibVLC engine, OliX Audio co
 ## ✦ Technology stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,qt,windows,git,github&theme=dark" alt="Technology stack icons">
+  <img src="https://skillicons.dev/icons?i=python,qt,windows,git,github&amp;theme=dark" alt="Technology stack icons" />
 </p>
 
 | Area | Technology |
@@ -258,48 +271,45 @@ The project describes the installer as bundling the LibVLC engine, OliX Audio co
 ## ✦ Frequently asked questions
 
 <details>
-<summary><strong>What powers SANDYPLAY audio?</strong></summary>
-
-OliX Audio Technology™ powers the application's audio architecture, including its 10-band equalizer, speaker profiles, 48-band visualizer, spatializer and SoX resampling. Dolby.io is used specifically by the separate Dolby Studio cloud mastering module.
+  <summary><strong>What powers SANDYPLAY audio?</strong></summary>
+  <p>OliX Audio Technology™ powers the application's audio architecture, including its 10-band equalizer, speaker profiles, 48-band visualizer, spatializer and SoX resampling. Dolby.io is used specifically by the separate Dolby Studio cloud mastering module.</p>
 </details>
 
 <details>
-<summary><strong>Do AI subtitles need an internet connection?</strong></summary>
-
-The project describes Faster-Whisper transcription as local/offline after the required model has been downloaded and installed.
+  <summary><strong>Do AI subtitles need an internet connection?</strong></summary>
+  <p>The project describes Faster-Whisper transcription as local/offline after the required model has been downloaded and installed.</p>
 </details>
 
 <details>
-<summary><strong>Can I use FM radio without internet?</strong></summary>
-
-Yes. With a compatible RTL2832U SDR USB tuner and antenna, the RTL-SDR FM tuner can receive supported over-the-air FM broadcasts.
+  <summary><strong>Can I use FM radio without internet?</strong></summary>
+  <p>Yes. With a compatible RTL2832U SDR USB tuner and antenna, the RTL-SDR FM tuner can receive supported over-the-air FM broadcasts.</p>
 </details>
 
 <details>
-<summary><strong>Do I need API keys?</strong></summary>
-
-The project states that core local playback and audio features do not require API keys. Some connected AI and cloud services may have their own service requirements.
+  <summary><strong>Do I need API keys?</strong></summary>
+  <p>The project states that core local playback and audio features do not require API keys. Some connected AI and cloud services may have their own service requirements.</p>
 </details>
 
 <details>
-<summary><strong>How does SANDYPLAY support slow connections?</strong></summary>
-
-The v1.18 configuration describes 6,000 ms LibVLC network, live and file caching, along with automatic reconnect behavior.
+  <summary><strong>How does SANDYPLAY support slow connections?</strong></summary>
+  <p>The v1.18 configuration describes 6,000 ms LibVLC network, live and file caching, along with automatic reconnect behavior.</p>
 </details>
 
-## ✦ Contributing
+<h2 id="contributing">✦ Contributing</h2>
 
 SANDYPLAY is presented as free and open-source software. Feedback and contributions are welcome.
 
 <div align="center">
 
-[![Report a bug](https://img.shields.io/badge/REPORT_A_BUG-EF4444?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandytalks/SANDYPLAY/issues)
-[![Pull requests](https://img.shields.io/badge/SUBMIT_A_PR-16A34A?style=for-the-badge&logo=git&logoColor=white)](https://github.com/sandytalks/SANDYPLAY/pulls)
-[![Discussions](https://img.shields.io/badge/JOIN_DISCUSSIONS-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandytalks/SANDYPLAY/discussions)
+  <p align="center">
+    <a href="https://github.com/sandytalks/SANDYPLAY/issues"><img src="https://img.shields.io/badge/REPORT_A_BUG-EF4444?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Report a bug" /></a>
+    <a href="https://github.com/sandytalks/SANDYPLAY/pulls"><img src="https://img.shields.io/badge/SUBMIT_A_PR-16A34A?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Pull requests" /></a>
+    <a href="https://github.com/sandytalks/SANDYPLAY/discussions"><img src="https://img.shields.io/badge/JOIN_DISCUSSIONS-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Discussions" /></a>
+  </p>
 
 </div>
 
-## ✦ License
+<h2 id="license">✦ License</h2>
 
 **GPL-3.0** — Copyright © 2026 Sandytalks Devops.
 
@@ -309,12 +319,18 @@ Third-party components have their own licenses and terms, including LibVLC, FFmp
 
 <div align="center">
 
-### BUILT WITH ❤️ BY SANDYTALKS
+  <h3 align="center">BUILT WITH ❤️ BY SANDYTALKS</h3>
 
-[GitHub](https://github.com/sandytalks) · [Instagram](https://www.instagram.com/sandyplay/) · [Get SANDYPLAY](https://github.com/sandytalks/SANDYPLAY/releases)
+  <p align="center">
+    <a href="https://github.com/sandytalks">GitHub</a> &middot;
+    <a href="https://www.instagram.com/sandyplay/">Instagram</a> &middot;
+    <a href="https://github.com/sandytalks/SANDYPLAY/releases">Get SANDYPLAY</a>
+  </p>
 
-[![Star SANDYPLAY](https://img.shields.io/badge/⭐_STAR_SANDYPLAY-SUPPORT_THE_PROJECT-22D3EE?style=for-the-badge&logo=github&logoColor=0B1020)](https://github.com/sandytalks/SANDYPLAY)
+  <p align="center">
+    <a href="https://github.com/sandytalks/SANDYPLAY"><img src="https://img.shields.io/badge/%E2%AD%90_STAR_SANDYPLAY-SUPPORT_THE_PROJECT-22D3EE?style=for-the-badge&amp;logo=github&amp;logoColor=0B1020" alt="Star SANDYPLAY" /></a>
+  </p>
 
-*Designed for the ones who experience more than just media.*
+  <p align="center"><em>Designed for the ones who experience more than just media.</em></p>
 
 </div>
